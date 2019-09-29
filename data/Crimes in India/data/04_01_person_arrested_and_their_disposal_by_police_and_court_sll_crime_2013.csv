@@ -1,0 +1,419 @@
+state_ut,crime_head,persons_in_custody_or_on_bail_during_the_stage_of_investigation_at_the_beginning_of_the_year,persons_arrested_during_the_year,persons_released_or_freed_by_police_or_magistrate_before_trial_for_want_of_evidence_or_any_other_reason,persons_in_custody_or_on_bail_during_the_stage_of_investigation_at_the_end_of_the_year,persons_in_whose_cases_charge_sheets_were_laid_during_the_year,persons_under_trial_at_the_beginning_of_the_year,total_number_of_persons_under_trial_during_the_year,persons_against_whom_cases_were_compounded_or_withdrawn,persons_in_custody_or_on_bail_during_the_stage_of_trial_at_the_end_of_the_year,persons_in_whose_cases_trials_were_completed_during_the_year,persons_convicted,persons_acquitted
+Andhra Pradesh,Arson,4,8,0,7,5,35,40,0,38,2,0,2
+Arunachal Pradesh,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,Arson,2,0,2,0,0,6,6,0,0,6,0,6
+Bihar,Arson,32,73,0,22,83,222,305,0,277,28,0,28
+Chhattisgarh,Arson,0,1,0,0,1,1,2,0,2,0,0,0
+Goa,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,Arson,0,29,0,0,29,339,368,0,344,24,0,24
+Haryana,Arson,0,0,0,0,0,16,16,0,6,10,0,10
+Himachal Pradesh,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,Arson,1,2,0,1,2,0,2,0,0,2,0,2
+Karnataka,Arson,6,2,0,2,6,6,12,0,7,5,0,5
+Kerala,Arson,1,0,1,0,0,17,17,0,17,0,0,0
+Madhya Pradesh,Arson,0,59,0,0,59,283,342,0,280,62,17,45
+Maharashtra,Arson,4,96,3,13,84,359,443,0,431,12,0,12
+Manipur,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Arson,8,28,0,9,27,177,204,0,186,18,0,18
+Punjab,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Rajasthan,Arson,8,29,0,8,29,238,267,0,250,17,6,11
+Sikkim,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Tamil Nadu,Arson,2,35,0,34,3,32,35,0,23,12,1,11
+Tripura,Arson,0,1,0,0,1,0,1,0,1,0,0,0
+Uttar Pradesh,Arson,12,104,32,10,74,466,540,3,489,48,37,11
+Uttarakhand,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+West Bengal,Arson,0,2,0,1,1,0,1,0,1,0,0,0
+Total (State),Arson,80,469,38,107,404,2197,2601,3,2352,246,61,185
+A&N Islands,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+D&N Haveli,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Lakshadweep,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Total (UTs),Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Total (All-India),Arson,80,469,38,107,404,2197,2601,3,2352,246,61,185
+Andhra Pradesh,Dacoity,0,3,0,3,0,8,8,0,0,8,8,0
+Arunachal Pradesh,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,Dacoity,9,0,9,0,0,2,2,0,0,2,0,2
+Bihar,Dacoity,0,0,0,0,0,8,8,0,5,3,0,3
+Chhattisgarh,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Goa,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,Dacoity,0,63,0,23,40,297,337,0,291,46,0,46
+Haryana,Dacoity,0,16,0,0,16,4,20,0,0,20,0,20
+Himachal Pradesh,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,Dacoity,2,0,0,1,1,5,6,0,6,0,0,0
+Karnataka,Dacoity,0,9,0,6,3,33,36,0,16,20,0,20
+Kerala,Dacoity,0,0,0,0,0,8,8,0,8,0,0,0
+Madhya Pradesh,Dacoity,0,0,0,0,0,33,33,0,33,0,0,0
+Maharashtra,Dacoity,21,213,12,61,161,711,872,0,822,50,0,50
+Manipur,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Dacoity,3,1,0,3,1,33,34,0,34,0,0,0
+Punjab,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Rajasthan,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Sikkim,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Tamil Nadu,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Tripura,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Uttar Pradesh,Dacoity,13,2,0,2,13,102,115,0,99,16,16,0
+Uttarakhand,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+West Bengal,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Total (State),Dacoity,48,307,21,99,235,1244,1479,0,1314,165,24,141
+A&N Islands,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+D&N Haveli,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Lakshadweep,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Total (UTs),Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+Total (All-India),Dacoity,48,307,21,99,235,1244,1479,0,1314,165,24,141
+Andhra Pradesh,Hurt,421,828,3,394,852,1525,2377,12,1612,753,117,636
+Arunachal Pradesh,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,Hurt,18,0,14,4,0,11,11,0,3,8,0,8
+Bihar,Hurt,378,1078,8,252,1196,2789,3985,12,3399,574,49,525
+Chhattisgarh,Hurt,3,161,0,15,149,551,700,0,645,55,17,38
+Goa,Hurt,0,0,0,0,0,3,3,0,3,0,0,0
+Gujarat,Hurt,33,777,0,31,779,4780,5559,2,4975,582,13,569
+Haryana,Hurt,0,17,0,0,17,180,197,0,68,129,5,124
+Himachal Pradesh,Hurt,0,0,0,0,0,7,7,0,7,0,0,0
+Jammu & Kashmir,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,Hurt,59,108,0,52,115,300,415,2,295,118,37,81
+Karnataka,Hurt,94,457,11,92,448,1645,2093,13,1665,415,5,410
+Kerala,Hurt,98,166,11,61,192,677,869,0,781,88,12,76
+Madhya Pradesh,Hurt,2,1752,0,14,1740,4726,6466,188,4520,1758,535,1223
+Maharashtra,Hurt,34,531,20,94,451,1689,2140,2,1984,154,14,140
+Manipur,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Hurt,50,747,0,47,750,1127,1877,0,1485,392,15,377
+Punjab,Hurt,29,49,8,44,26,120,146,0,105,41,9,32
+Rajasthan,Hurt,5,446,0,5,446,2012,2458,37,2218,203,65,138
+Sikkim,Hurt,0,4,0,0,4,0,4,0,2,2,1,1
+Tamil Nadu,Hurt,117,562,38,220,421,1022,1443,0,1277,166,26,140
+Tripura,Hurt,0,15,0,0,15,13,28,0,14,14,0,14
+Uttar Pradesh,Hurt,110,951,148,140,773,3132,3905,14,3302,589,325,264
+Uttarakhand,Hurt,0,17,0,0,17,25,42,0,34,8,2,6
+West Bengal,Hurt,8,28,0,10,26,0,26,0,26,0,0,0
+Total (State),Hurt,1459,8694,261,1475,8417,26334,34751,282,28420,6049,1247,4802
+A&N Islands,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+D&N Haveli,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Lakshadweep,Hurt,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,Hurt,0,0,0,0,0,1,1,0,1,0,0,0
+Total (UTs),Hurt,0,0,0,0,0,1,1,0,1,0,0,0
+Total (All-India),Hurt,1459,8694,261,1475,8417,26335,34752,282,28421,6049,1247,4802
+Andhra Pradesh,Kidnapping & Abduction,8,8,0,0,16,29,45,0,27,18,0,18
+Arunachal Pradesh,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,Kidnapping & Abduction,2,0,2,0,0,11,11,0,2,9,0,9
+Bihar,Kidnapping & Abduction,4,18,0,4,18,77,95,0,86,9,1,8
+Chhattisgarh,Kidnapping & Abduction,0,9,0,0,9,5,14,0,11,3,2,1
+Goa,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,Kidnapping & Abduction,11,41,4,5,43,286,329,0,277,52,3,49
+Haryana,Kidnapping & Abduction,0,21,0,1,20,53,73,0,43,30,3,27
+Himachal Pradesh,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,Kidnapping & Abduction,6,4,0,5,5,16,21,0,21,0,0,0
+Karnataka,Kidnapping & Abduction,1,12,1,2,10,49,59,0,47,12,0,12
+Kerala,Kidnapping & Abduction,3,1,0,2,2,20,22,0,22,0,0,0
+Madhya Pradesh,Kidnapping & Abduction,1,97,1,1,96,306,402,0,327,75,20,55
+Maharashtra,Kidnapping & Abduction,23,61,1,10,73,173,246,0,232,14,0,14
+Manipur,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Kidnapping & Abduction,28,31,0,30,29,119,148,0,135,13,0,13
+Punjab,Kidnapping & Abduction,0,6,1,2,3,13,16,0,7,9,1,8
+Rajasthan,Kidnapping & Abduction,0,28,0,0,28,201,229,1,205,23,4,19
+Sikkim,Kidnapping & Abduction,0,2,0,0,2,1,3,0,0,3,3,0
+Tamil Nadu,Kidnapping & Abduction,4,8,0,4,8,9,17,0,11,6,0,6
+Tripura,Kidnapping & Abduction,0,2,0,0,2,2,4,0,4,0,0,0
+Uttar Pradesh,Kidnapping & Abduction,97,723,189,235,396,1092,1488,5,1255,228,119,109
+Uttarakhand,Kidnapping & Abduction,0,7,0,0,7,14,21,0,13,8,4,4
+West Bengal,Kidnapping & Abduction,3,1,1,2,1,1,2,0,2,0,0,0
+Total (State),Kidnapping & Abduction,191,1080,200,303,768,2477,3245,6,2727,512,160,352
+A&N Islands,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+D&N Haveli,Kidnapping & Abduction,0,0,0,0,0,8,8,0,5,3,0,3
+Daman & Diu,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Lakshadweep,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,Kidnapping & Abduction,0,0,0,0,0,0,0,0,0,0,0,0
+Total (UTs),Kidnapping & Abduction,0,0,0,0,0,8,8,0,5,3,0,3
+Total (All-India),Kidnapping & Abduction,191,1080,200,303,768,2485,3253,6,2732,515,160,355
+Andhra Pradesh,Murder,72,150,5,97,120,517,637,0,583,54,6,48
+Arunachal Pradesh,Murder,0,0,0,0,0,1,1,0,1,0,0,0
+Assam,Murder,8,0,6,2,0,14,14,0,2,12,0,12
+Bihar,Murder,31,68,0,23,76,178,254,0,226,28,7,21
+Chhattisgarh,Murder,0,18,0,0,18,84,102,0,95,7,5,2
+Goa,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,Murder,2,61,0,5,58,412,470,0,454,16,0,16
+Haryana,Murder,10,51,3,3,55,72,127,0,95,32,8,24
+Himachal Pradesh,Murder,0,0,0,0,0,5,5,0,0,5,3,2
+Jammu & Kashmir,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,Murder,2,2,0,1,3,25,28,0,22,6,1,5
+Karnataka,Murder,12,55,0,10,57,342,399,0,290,109,3,106
+Kerala,Murder,13,3,0,14,2,55,57,0,50,7,0,7
+Madhya Pradesh,Murder,1,208,1,0,208,1087,1295,0,1073,222,95,127
+Maharashtra,Murder,43,164,1,36,170,569,739,0,696,43,9,34
+Manipur,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Murder,6,23,0,7,22,160,182,0,162,20,3,17
+Punjab,Murder,12,13,0,16,9,46,55,0,33,22,3,19
+Rajasthan,Murder,1,91,0,2,90,554,644,0,581,63,33,30
+Sikkim,Murder,0,0,0,0,0,2,2,0,0,2,2,0
+Tamil Nadu,Murder,40,75,0,49,66,478,544,0,413,131,16,115
+Tripura,Murder,0,5,0,0,5,3,8,0,8,0,0,0
+Uttar Pradesh,Murder,135,745,114,202,564,3218,3782,1,3304,477,321,156
+Uttarakhand,Murder,0,7,0,0,7,29,36,0,27,9,5,4
+West Bengal,Murder,0,0,0,0,0,5,5,0,5,0,0,0
+Total (State),Murder,388,1739,130,467,1530,7856,9386,1,8120,1265,520,745
+A&N Islands,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+D&N Haveli,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Lakshadweep,Murder,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,Murder,5,0,0,5,0,17,17,0,17,0,0,0
+Total (UTs),Murder,5,0,0,5,0,17,17,0,17,0,0,0
+Total (All-India),Murder,393,1739,130,472,1530,7873,9403,1,8137,1265,520,745
+Andhra Pradesh,Other Crimes Against SCs,1091,1719,18,1210,1582,3027,4609,6,3124,1479,119,1360
+Arunachal Pradesh,Other Crimes Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,Other Crimes Against SCs,15,4,12,6,1,23,24,0,6,18,0,18
+Bihar,Other Crimes Against SCs,133,519,0,386,266,1669,1935,5,1456,474,12,462
+Chhattisgarh,Other Crimes Against SCs,0,308,0,31,277,951,1228,0,1038,190,62,128
+Goa,Other Crimes Against SCs,5,13,0,12,6,4,10,0,10,0,0,0
+Gujarat,Other Crimes Against SCs,35,1457,0,72,1420,7606,9026,0,8094,932,24,908
+Haryana,Other Crimes Against SCs,34,403,6,14,417,422,839,0,514,325,25,300
+Himachal Pradesh,Other Crimes Against SCs,6,55,0,1,60,205,265,9,223,33,3,30
+Jammu & Kashmir,Other Crimes Against SCs,0,0,0,0,0,5,5,0,5,0,0,0
+Jharkhand,Other Crimes Against SCs,69,152,0,80,141,309,450,0,328,122,33,89
+Karnataka,Other Crimes Against SCs,282,1783,53,811,1201,4796,5997,81,4249,1667,81,1586
+Kerala,Other Crimes Against SCs,97,205,0,57,245,697,942,0,840,102,9,93
+Madhya Pradesh,Other Crimes Against SCs,3,3104,0,36,3071,13871,16942,247,13971,2724,896,1828
+Maharashtra,Other Crimes Against SCs,663,3028,50,902,2739,12049,14788,2,13507,1279,60,1219
+Manipur,Other Crimes Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,Other Crimes Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,Other Crimes Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,Other Crimes Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Other Crimes Against SCs,0,0,0,0,0,2724,2724,0,2175,549,11,538
+Punjab,Other Crimes Against SCs,21,97,1,68,49,137,186,0,145,41,4,37
+Rajasthan,Other Crimes Against SCs,562,3619,0,565,3616,14639,18255,330,16127,1798,759,1039
+Sikkim,Other Crimes Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Tamil Nadu,Other Crimes Against SCs,147,293,14,193,233,742,975,0,606,369,134,235
+Tripura,Other Crimes Against SCs,0,31,0,1,30,18,48,0,28,20,0,20
+Uttar Pradesh,Other Crimes Against SCs,1542,13069,3729,2119,8763,20116,28879,94,25060,3725,1905,1820
+Uttarakhand,Other Crimes Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+West Bengal,Other Crimes Against SCs,16,98,1,49,64,70,134,0,110,24,0,24
+Total (State),Other Crimes Against SCs,4721,29957,3884,6613,24181,84080,108261,774,91616,15871,4137,11734
+A&N Islands,Other Crimes Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,Other Crimes Against SCs,0,1,0,0,1,3,4,0,3,1,0,1
+D&N Haveli,Other Crimes Against SCs,0,0,0,0,0,4,4,0,4,0,0,0
+Daman & Diu,Other Crimes Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,Other Crimes Against SCs,0,37,0,10,27,16,43,0,39,4,0,4
+Lakshadweep,Other Crimes Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,Other Crimes Against SCs,0,5,0,0,5,55,60,0,60,0,0,0
+Total (UTs),Other Crimes Against SCs,0,43,0,10,33,78,111,0,106,5,0,5
+Total (All-India),Other Crimes Against SCs,4721,30000,3884,6623,24214,84158,108372,774,91722,15876,4137,11739
+Andhra Pradesh,Protection of Civil Rights Act,3,4,0,4,3,53,56,0,46,10,0,10
+Arunachal Pradesh,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Bihar,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Chhattisgarh,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Goa,Protection of Civil Rights Act,0,0,0,0,0,1,1,0,1,0,0,0
+Gujarat,Protection of Civil Rights Act,2,2,0,2,2,315,317,0,313,4,0,4
+Haryana,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Himachal Pradesh,Protection of Civil Rights Act,7,7,0,1,13,53,66,0,63,3,0,3
+Jammu & Kashmir,Protection of Civil Rights Act,1,0,0,1,0,15,15,0,12,3,0,3
+Jharkhand,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Karnataka,Protection of Civil Rights Act,19,22,0,5,36,173,209,0,164,45,0,45
+Kerala,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,Protection of Civil Rights Act,0,0,0,0,0,27,27,0,27,0,0,0
+Maharashtra,Protection of Civil Rights Act,3,31,3,7,24,1286,1310,2,1226,82,3,79
+Manipur,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Protection of Civil Rights Act,0,0,0,0,0,26,26,0,25,1,0,1
+Punjab,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Rajasthan,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Sikkim,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Tamil Nadu,Protection of Civil Rights Act,7,0,0,1,6,10,16,0,6,10,0,10
+Tripura,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Uttar Pradesh,Protection of Civil Rights Act,0,0,0,0,0,63,63,0,39,24,17,7
+Uttarakhand,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+West Bengal,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Total (State),Protection of Civil Rights Act,42,66,3,21,84,2022,2106,2,1922,182,20,162
+A&N Islands,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+D&N Haveli,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,Protection of Civil Rights Act,0,0,0,0,0,40,40,0,40,0,0,0
+Lakshadweep,Protection of Civil Rights Act,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,Protection of Civil Rights Act,1,24,0,0,25,53,78,0,48,30,1,29
+Total (UTs),Protection of Civil Rights Act,1,24,0,0,25,93,118,0,88,30,1,29
+Total (All-India),Protection of Civil Rights Act,43,90,3,21,109,2115,2224,2,2010,212,21,191
+Andhra Pradesh,Rape,72,117,0,72,117,352,469,0,361,108,18,90
+Arunachal Pradesh,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,Rape,1,0,1,0,0,13,13,0,2,11,0,11
+Bihar,Rape,16,72,0,17,71,105,176,0,149,27,4,23
+Chhattisgarh,Rape,2,87,0,4,85,196,281,1,222,58,22,36
+Goa,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,Rape,6,144,0,9,141,341,482,0,455,27,2,25
+Haryana,Rape,11,205,0,8,208,144,352,0,198,154,32,122
+Himachal Pradesh,Rape,0,25,0,0,25,31,56,0,37,19,5,14
+Jammu & Kashmir,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,Rape,4,4,0,4,4,18,22,0,17,5,0,5
+Karnataka,Rape,11,92,2,15,86,162,248,2,202,44,3,41
+Kerala,Rape,69,148,1,88,128,431,559,0,517,42,12,30
+Madhya Pradesh,Rape,2,546,0,4,544,1329,1873,5,1290,578,128,450
+Maharashtra,Rape,46,285,3,71,257,804,1061,0,979,82,8,74
+Manipur,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Rape,14,98,0,25,87,249,336,0,307,29,2,27
+Punjab,Rape,1,26,1,1,25,38,63,0,38,25,9,16
+Rajasthan,Rape,9,242,0,10,241,658,899,6,736,157,62,95
+Sikkim,Rape,0,0,0,0,0,1,1,0,0,1,1,0
+Tamil Nadu,Rape,13,29,0,15,27,98,125,0,97,28,5,23
+Tripura,Rape,1,3,0,1,3,2,5,0,5,0,0,0
+Uttar Pradesh,Rape,50,755,172,122,511,1479,1990,2,1708,280,157,123
+Uttarakhand,Rape,1,8,0,0,9,30,39,0,22,17,13,4
+West Bengal,Rape,0,12,0,9,3,7,10,0,9,1,0,1
+Total (State),Rape,329,2898,180,475,2572,6488,9060,16,7351,1693,483,1210
+A&N Islands,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+D&N Haveli,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Lakshadweep,Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,Rape,0,1,0,1,0,0,0,0,0,0,0,0
+Total (UTs),Rape,0,1,0,1,0,0,0,0,0,0,0,0
+Total (All-India),Rape,329,2899,180,476,2572,6488,9060,16,7351,1693,483,1210
+Andhra Pradesh,Robbery,0,4,0,4,0,3,3,0,3,0,0,0
+Arunachal Pradesh,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,Robbery,0,0,0,0,0,11,11,0,0,11,0,11
+Bihar,Robbery,0,1,0,0,1,24,25,0,16,9,0,9
+Chhattisgarh,Robbery,0,1,0,0,1,4,5,0,3,2,0,2
+Goa,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,Robbery,5,57,0,3,59,266,325,0,304,21,10,11
+Haryana,Robbery,0,0,0,0,0,7,7,0,2,5,0,5
+Himachal Pradesh,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Jammu & Kashmir,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Karnataka,Robbery,0,1,0,0,1,4,5,0,5,0,0,0
+Kerala,Robbery,0,0,0,0,0,3,3,0,3,0,0,0
+Madhya Pradesh,Robbery,0,3,0,0,3,24,27,0,21,6,6,0
+Maharashtra,Robbery,18,60,13,20,45,144,189,0,170,19,0,19
+Manipur,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Robbery,1,3,0,1,3,37,40,0,29,11,0,11
+Punjab,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Rajasthan,Robbery,0,6,0,0,6,17,23,0,23,0,0,0
+Sikkim,Robbery,0,1,0,0,1,0,1,0,0,1,1,0
+Tamil Nadu,Robbery,0,8,0,1,7,7,14,0,10,4,1,3
+Tripura,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Uttar Pradesh,Robbery,0,8,1,0,7,99,106,1,105,0,0,0
+Uttarakhand,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+West Bengal,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Total (State),Robbery,24,153,14,29,134,650,784,1,694,89,18,71
+A&N Islands,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+D&N Haveli,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Lakshadweep,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Total (UTs),Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+Total (All-India),Robbery,24,153,14,29,134,650,784,1,694,89,18,71
+Andhra Pradesh,SC/ST (POA) Act,1039,1410,41,1184,1224,2769,3993,25,2776,1192,79,1113
+Arunachal Pradesh,SC/ST (POA) Act,0,0,0,0,0,0,0,0,0,0,0,0
+Assam,SC/ST (POA) Act,2,1,1,1,1,4,5,0,5,0,0,0
+Bihar,SC/ST (POA) Act,4200,8344,304,4301,7939,17715,25654,138,23105,2411,227,2184
+Chhattisgarh,SC/ST (POA) Act,0,2,0,0,2,579,581,0,513,68,24,44
+Goa,SC/ST (POA) Act,2,6,0,2,6,5,11,0,11,0,0,0
+Gujarat,SC/ST (POA) Act,8,430,1,25,412,7099,7511,0,6541,970,5,965
+Haryana,SC/ST (POA) Act,3,11,0,0,14,257,271,0,171,100,11,89
+Himachal Pradesh,SC/ST (POA) Act,13,121,0,8,126,460,586,6,490,90,2,88
+Jammu & Kashmir,SC/ST (POA) Act,0,0,0,0,0,0,0,0,0,0,0,0
+Jharkhand,SC/ST (POA) Act,163,352,0,137,378,569,947,4,624,319,83,236
+Karnataka,SC/ST (POA) Act,645,2967,100,692,2820,7387,10207,11,7862,2334,85,2249
+Kerala,SC/ST (POA) Act,25,34,0,31,28,251,279,0,187,92,0,92
+Madhya Pradesh,SC/ST (POA) Act,0,12,0,0,12,253,265,6,106,153,60,93
+Maharashtra,SC/ST (POA) Act,202,496,5,180,513,3821,4334,0,3875,459,18,441
+Manipur,SC/ST (POA) Act,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,SC/ST (POA) Act,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,SC/ST (POA) Act,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,SC/ST (POA) Act,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,SC/ST (POA) Act,285,2065,0,225,2125,5129,7254,0,6253,1001,39,962
+Punjab,SC/ST (POA) Act,11,19,0,20,10,157,167,0,139,28,4,24
+Rajasthan,SC/ST (POA) Act,0,36,0,0,36,3288,3324,10,3194,120,37,83
+Sikkim,SC/ST (POA) Act,0,0,0,0,0,2,2,0,1,1,1,0
+Tamil Nadu,SC/ST (POA) Act,991,2716,109,1296,2302,5130,7432,0,5531,1901,146,1755
+Tripura,SC/ST (POA) Act,0,0,0,0,0,1,1,0,1,0,0,0
+Uttar Pradesh,SC/ST (POA) Act,784,5479,1278,898,4087,19434,23521,25,21238,2258,1216,1042
+Uttarakhand,SC/ST (POA) Act,2,18,1,0,19,72,91,0,44,47,11,36
+West Bengal,SC/ST (POA) Act,24,59,3,34,46,129,175,0,148,27,0,27
+Total (State),SC/ST (POA) Act,8399,24578,1843,9034,22100,74511,96611,225,82815,13571,2048,11523
+A&N Islands,SC/ST (POA) Act,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,SC/ST (POA) Act,0,1,0,0,1,3,4,0,3,1,0,1
+D&N Haveli,SC/ST (POA) Act,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,SC/ST (POA) Act,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,SC/ST (POA) Act,11,34,0,2,43,29,72,0,64,8,0,8
+Lakshadweep,SC/ST (POA) Act,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,SC/ST (POA) Act,0,6,0,6,0,18,18,0,17,1,0,1
+Total (UTs),SC/ST (POA) Act,11,41,0,8,44,50,94,0,84,10,0,10
+Total (All-India),SC/ST (POA) Act,8410,24619,1843,9042,22144,74561,96705,225,82899,13581,2048,11533
+Andhra Pradesh,Total Crimes against SCs,2710,4251,67,2975,3919,8318,12237,43,8570,3624,347,3277
+Arunachal Pradesh,Total Crimes against SCs,0,0,0,0,0,1,1,0,1,0,0,0
+Assam,Total Crimes against SCs,57,5,47,13,2,95,97,0,20,77,0,77
+Bihar,Total Crimes against SCs,4794,10173,312,5005,9650,22787,32437,155,28719,3563,300,3263
+Chhattisgarh,Total Crimes against SCs,5,587,0,50,542,2371,2913,1,2529,383,132,251
+Goa,Total Crimes against SCs,7,19,0,14,12,13,25,0,25,0,0,0
+Gujarat,Total Crimes against SCs,102,3061,5,175,2983,21741,24724,2,22048,2674,57,2617
+Haryana,Total Crimes against SCs,58,724,9,26,747,1155,1902,0,1097,805,84,721
+Himachal Pradesh,Total Crimes against SCs,26,208,0,10,224,761,985,15,820,150,13,137
+Jammu & Kashmir,Total Crimes against SCs,1,0,0,1,0,20,20,0,17,3,0,3
+Jharkhand,Total Crimes against SCs,306,624,0,281,649,1242,1891,6,1313,572,154,418
+Karnataka,Total Crimes against SCs,1070,5400,167,1635,4668,14597,19265,107,14507,4651,177,4474
+Kerala,Total Crimes against SCs,306,557,13,253,597,2159,2756,0,2425,331,33,298
+Madhya Pradesh,Total Crimes against SCs,9,5781,2,55,5733,21939,27672,446,21648,5578,1757,3821
+Maharashtra,Total Crimes against SCs,1057,4965,111,1394,4517,21605,26122,6,23922,2194,112,2082
+Manipur,Total Crimes against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,Total Crimes against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Mizoram,Total Crimes against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,Total Crimes against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Total Crimes against SCs,395,2996,0,347,3044,9781,12825,0,10791,2034,70,1964
+Punjab,Total Crimes against SCs,74,210,11,151,122,511,633,0,467,166,30,136
+Rajasthan,Total Crimes against SCs,585,4497,0,590,4492,21607,26099,384,23334,2381,966,1415
+Sikkim,Total Crimes against SCs,0,7,0,0,7,6,13,0,3,10,9,1
+Tamil Nadu,Total Crimes against SCs,1321,3726,161,1813,3073,7528,10601,0,7974,2627,329,2298
+Tripura,Total Crimes against SCs,1,57,0,2,56,39,95,0,61,34,0,34
+Uttar Pradesh,Total Crimes against SCs,2743,21836,5663,3728,15188,49201,64389,145,56599,7645,4113,3532
+Uttarakhand,Total Crimes against SCs,3,57,1,0,59,170,229,0,140,89,35,54
+West Bengal,Total Crimes against SCs,51,200,5,105,141,212,353,0,301,52,0,52
+Total (State),Total Crimes against SCs,15681,69941,6574,18623,60425,207859,268284,1310,227331,39643,8718,30925
+A&N Islands,Total Crimes against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Chandigarh,Total Crimes against SCs,0,2,0,0,2,6,8,0,6,2,0,2
+D&N Haveli,Total Crimes against SCs,0,0,0,0,0,12,12,0,9,3,0,3
+Daman & Diu,Total Crimes against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi UT,Total Crimes against SCs,11,71,0,12,70,85,155,0,143,12,0,12
+Lakshadweep,Total Crimes against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+Puducherry,Total Crimes against SCs,6,36,0,12,30,144,174,0,143,31,1,30
+Total (UTs),Total Crimes against SCs,17,109,0,24,102,247,349,0,301,48,1,47
+Total (All-India),Total Crimes against SCs,15698,70050,6574,18647,60527,208106,268633,1310,227632,39691,8719,30972

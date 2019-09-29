@@ -1,0 +1,838 @@
+states_uts,district,year,protection_of_civil_rights_act_1955,poa_murder,poa_attempt_to_commit_murder,poa_rape,poa_attempt_to_commit_rape,poa_assault_on_women_with_intent_to_outrage_her_modesty,poa_sexual_harassment,poa_assault_on_women_with_intent_to_disrobe,poa_voyeurism,poa_stalking,poa_other_sexual_harassment,poa_insult_to_the_modesty_of_women,poa_kidnapping_abduction_grandtotal,poa_kidnaping_abduction_total,poa_kidnaping_abduction_in_order_to_murder,poa_kidnapping_for_ransom,poa_kidnapping_abduction_of_women_to_compel_her_for_marriage,poa_other_kidnapping,poa_dacoity,poa_dacoity_with_murder,poa_other_dacoity,poa_robbery,poa_arson,poa_grievous_hurt,poa_hurt,poa_acid_attack,poa_attempt_to_acid_attack,poa_riots,poa_other_ipc_crimes,poa_sc_st_prevention_of_atrocities_act_only,total_of_sc_st_prevention_of_atrocities_act_1989,ipc_murder,ipc_attempt_to_commit_murder,ipc_rape,ipc_attempt_to_commit_rape,ipc_assault_on_women_with_intent_to_outrage_her_modesty,ipc_sexual_harassment,ipc_assault_on_women_with_intent_to_disrobe,ipc_voyeurism,ipc_stalking,ipc_other_sexual_harassment,ipc_insult_to_the_modesty_of_women,ipc_kidnapping_abduction,ipc_kidnaping_abduction,ipc_kidnaping_abduction_in_order_to_murder,ipc_kidnapping_for_ransom,ipc_kidnapping_abduction_of_women_to_compel_her_for_marriage,ipc_other_kidnapping,ipc_dacoity,ipc_dacoity_with_murder,ipc_other_dacoity,ipc_robbery,ipc_arson,ipc_grievous_hurt,ipc_hurt,ipc_acid_attack,ipc_attempt_to_acid_attack,ipc_riots,ipc_other_ipc_crimes,total_ipc_crimes_against_scs,manual_scavengers_and_construction_of_dry_latrines_p_act_1993,other_sll_crime_against_scs,total_crimes_against_scs
+Andhra Pradesh,Anantapur,2014,0,3,0,1,0,5,0,0,0,0,5,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,145,16,170,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,170
+Andhra Pradesh,Chittoor,2014,0,2,3,1,0,5,0,0,0,0,5,1,1,0,0,false,0,1,0,false,0,0,3,0,0,false,0,7,88,7,118,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,118
+Andhra Pradesh,Cuddapah,2014,0,4,5,5,1,3,0,0,0,0,3,0,2,0,0,false,0,2,0,false,0,0,0,0,0,false,0,0,107,135,262,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,262
+Andhra Pradesh,East Godavari,2014,6,0,2,4,0,22,8,3,0,1,10,1,0,0,0,false,0,0,0,false,0,0,0,25,25,false,0,0,98,19,171,0,0,0,0,0,0,0,0,0,0,1,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,1,false,0,178
+Andhra Pradesh,Guntakal Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Andhra Pradesh,Guntur,2014,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,2,0,0,false,0,5,108,12,133,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,133
+Andhra Pradesh,Guntur Urban,2014,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,0,45,4,53,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,53
+Andhra Pradesh,Krishna,2014,0,1,1,5,0,8,1,2,0,0,5,2,1,0,0,false,1,0,0,false,0,0,0,0,0,false,0,0,43,13,74,1,3,6,3,15,5,5,0,3,2,6,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,151,185,false,0,259
+Andhra Pradesh,Kurnool,2014,0,4,0,4,0,11,0,0,0,0,11,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,9,116,91,235,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,235
+Andhra Pradesh,Nellore,2014,0,5,4,7,1,8,0,1,1,0,6,8,5,0,0,false,4,1,0,false,0,1,1,1,1,false,0,2,80,31,154,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,154
+Andhra Pradesh,Prakasham,2014,0,6,2,3,0,10,3,0,0,0,7,2,1,0,0,false,0,1,0,false,0,0,0,3,3,false,0,4,46,16,93,0,10,2,2,22,0,0,0,0,22,3,4,0,false,false,0,4,2,false,2,3,0,3,3,false,false,7,411,469,false,0,562
+Andhra Pradesh,Rajahmundry,2014,0,1,0,3,0,1,0,0,0,0,1,0,2,1,0,false,0,1,0,false,0,0,0,0,0,false,0,0,34,7,48,2,2,6,0,20,1,1,0,2,16,2,5,1,false,true,0,3,0,false,0,2,3,5,5,false,false,0,66,113,false,6,167
+Andhra Pradesh,Srikakulam,2014,0,0,1,1,0,4,2,0,0,0,2,4,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,51,33,96,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,96
+Andhra Pradesh,Tirupathi Urban,2014,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,6,10,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,10
+Andhra Pradesh,Vijayawada City,2014,1,0,1,2,0,4,0,1,0,0,3,5,0,0,0,false,0,0,0,false,0,0,0,3,3,false,0,0,25,6,46,5,7,16,0,60,13,2,3,16,26,33,6,1,false,false,5,0,0,false,0,4,6,3,3,false,false,2,817,959,false,6,1012
+Andhra Pradesh,Vijayawada Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,1,3,false,0,3
+Andhra Pradesh,Visakha Rural,2014,0,0,0,1,0,5,0,0,0,0,5,1,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,0,24,69,101,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,101
+Andhra Pradesh,Visakhapatnam,2014,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,8,65,77,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,77
+Andhra Pradesh,Vizianagaram,2014,1,0,1,6,0,12,0,0,0,0,12,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,64,26,109,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,110
+Andhra Pradesh,West Godavari,2014,1,2,0,9,0,18,3,7,0,0,8,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,1,109,14,154,2,4,15,2,28,3,1,4,7,13,11,4,2,false,false,1,1,0,false,0,0,1,1,1,false,false,4,185,257,false,2,414
+Andhra Pradesh,Total,2014,9,34,21,61,2,116,17,14,1,1,83,25,12,1,0,false,5,6,0,false,0,1,9,34,34,false,0,28,1191,570,2104,10,26,45,7,147,22,9,7,28,81,56,19,4,false,true,6,8,2,false,2,9,10,12,12,false,false,13,1631,1987,false,14,4114
+Arunachal Pradesh,Anjaw,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Changlang,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Crime Branch,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Dibang Valley,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Kameng East,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Kameng West,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Kukung Kumey,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Lohit,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Longding,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Lower Dibang Valley,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Papum Pare City,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Papum Pare Rural,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Siang East,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Siang Upper,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Siang West,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Subansiri Lower,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Subansiri Upper,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Tawang,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Tirap,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Arunachal Pradesh,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Barpeta,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Baska,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Bongaigaon,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Cachar,2014,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Assam,Chirang,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Darrang,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Dhemaji,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Dhubri,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Dibrugarh,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Goalpara,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Golaghat,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Guwahati City,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Hailakandi,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Jorhat,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Kamrup,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Karbi Anglong,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Karimganj,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Kokrajhar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Lakhimpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Morigaon,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,N. C. Hills,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Nagaon,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Nalbari,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Sibsagar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Sonitpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Tinsukia,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Udalguri,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Assam,Total,2014,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Bihar,Araria,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,87,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,88
+Bihar,Arwal,2014,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,42,44,88,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,88
+Bihar,Aurangabad,2014,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,3,23,23,false,0,0,135,171,336,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,336
+Bihar,Bagaha,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,8,8,false,0,0,78,13,101,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,101
+Bihar,Banka,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,114,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,115
+Bihar,Begusarai,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,145,0,145,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,145
+Bihar,Bettiah,2014,0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,14,8,8,false,0,0,163,61,254,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,254
+Bihar,Bhabhua,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,5,5,false,0,0,108,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,113
+Bihar,Bhagalpur,2014,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,194,0,198,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,198
+Bihar,Bhojpur,2014,0,8,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,3,36,36,false,0,0,179,0,227,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,227
+Bihar,Buxar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,4,1,1,false,0,0,108,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,113
+Bihar,Darbhanga,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,197,199,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,199
+Bihar,Gaya,2014,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,382,385,770,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,770
+Bihar,Gopalganj,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,170,97,268,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,268
+Bihar,Jamalpur Railway,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Bihar,Jamui,2014,0,0,16,0,3,10,0,0,0,0,10,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,11,46,1,87,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,87
+Bihar,Jehanabad,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,85,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,85
+Bihar,Katihar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,61,61,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,61
+Bihar,Katihar Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,4,4,false,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,4
+Bihar,Khagaria,2014,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,11,11,false,0,0,98,111,226,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,226
+Bihar,Kishanganj,2014,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,47,47,false,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,51
+Bihar,Lakhisarai,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,4,4,false,0,0,32,3,40,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,40
+Bihar,Madhepura,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,81,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,81
+Bihar,Madhubani,2014,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,3,6,6,false,0,0,180,0,191,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,191
+Bihar,Motihari,2014,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,27,27,false,0,0,264,0,293,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,293
+Bihar,Munger,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,27,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,27
+Bihar,Muzaffarpur,2014,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,347,347,false,0,0,0,11,361,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,361
+Bihar,Muzaffarpur Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,6,6,false,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,6
+Bihar,Nalanda,2014,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,2,17,17,false,0,0,215,0,237,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,237
+Bihar,Naugachia,2014,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,4,4,false,0,0,53,0,60,0,0,3,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,4,4,false,false,0,0,7,false,0,67
+Bihar,Nawadah,2014,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,6,22,22,false,0,0,147,0,178,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,178
+Bihar,Patna,2014,0,8,0,7,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,4,4,false,0,0,337,0,356,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,356
+Bihar,Patna Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+Bihar,Purnea,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,188,188,false,0,0,0,146,335,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,335
+Bihar,Rohtas,2014,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,185,0,189,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,189
+Bihar,Saharsa,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,159,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,160
+Bihar,Samastipur,2014,12,2,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,3,2,2,false,0,0,166,76,250,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,262
+Bihar,Saran,2014,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,4,37,37,false,0,0,159,172,375,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,375
+Bihar,Sheikhpura,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,68,68,false,0,0,0,69,138,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,138
+Bihar,Sheohar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,25,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,25
+Bihar,Sitamarhi,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,0,196,0,198,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,198
+Bihar,Siwan,2014,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,2,10,10,false,0,0,285,285,586,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,586
+Bihar,Supaul,2014,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,8,8,false,0,0,87,0,97,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,97
+Bihar,Vaishali,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,4,4,false,0,0,152,0,157,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,157
+Bihar,Economic Offences Unit,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Bihar,Anti Terrorist Squad,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Bihar,Total,2014,12,56,16,37,3,10,0,0,0,0,10,0,0,0,0,false,0,0,0,false,0,0,50,900,900,false,0,11,4888,1903,7874,0,0,3,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,4,4,false,false,0,0,7,false,0,7893
+Chhattisgarh,Balod,2014,0,0,0,3,0,2,1,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,7
+Chhattisgarh,Balodbazar,2014,0,1,0,5,0,5,5,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,3,16,32,0,0,0,0,5,5,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,2,2,false,false,0,3,10,false,0,42
+Chhattisgarh,Balrampur,2014,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,false,0,1,0,false,0,0,0,0,0,false,0,0,0,8,12,1,0,1,0,1,0,0,0,0,1,0,1,0,false,false,0,1,0,false,0,0,0,0,0,false,false,0,0,4,false,4,20
+Chhattisgarh,Bemetra,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,2,3
+Chhattisgarh,Bilaspur,2014,0,1,1,7,0,4,0,0,0,0,4,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,0,14,11,39,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,39
+Chhattisgarh,Bizapur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Chhattisgarh,Dantewara,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Chhattisgarh,Dhamtari,2014,0,0,1,4,0,2,0,1,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,8,16,1,0,1,0,6,1,1,0,1,3,0,2,2,false,false,0,0,0,false,0,0,0,2,2,false,false,0,60,72,false,0,88
+Chhattisgarh,Durg,2014,0,0,1,5,0,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,8,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,16
+Chhattisgarh,Gariyaband,2014,0,0,0,4,0,1,1,0,0,0,0,0,1,0,0,false,1,0,0,false,0,0,0,0,0,false,0,0,4,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,20
+Chhattisgarh,G. R. P. Raipur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Chhattisgarh,Jagdalpur,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Chhattisgarh,Janjgir,2014,0,1,1,7,0,5,1,0,0,0,4,0,1,0,0,false,1,0,0,false,0,0,0,0,0,false,0,6,23,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,44
+Chhattisgarh,Jashpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,6
+Chhattisgarh,Kabirdham,2014,0,0,1,1,0,4,0,0,0,1,3,0,1,1,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,8
+Chhattisgarh,Kanker,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Chhattisgarh,Kondagaon,2014,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,false,false,0,1,0,false,0,0,0,0,0,false,false,0,1,2,false,0,5
+Chhattisgarh,Korba,2014,0,0,0,3,0,4,0,0,0,0,4,0,1,0,0,false,0,1,0,false,0,0,0,0,0,false,0,1,1,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,10
+Chhattisgarh,Koriya,2014,0,0,1,2,0,2,2,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,5,13,24,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,24
+Chhattisgarh,Mahasamund,2014,0,1,0,3,0,3,0,0,0,0,3,0,1,0,0,false,0,1,0,false,0,0,0,0,0,false,0,0,2,5,15,0,0,0,0,2,0,0,0,0,2,0,4,2,false,false,0,2,0,false,0,0,0,0,0,false,false,0,28,34,false,0,49
+Chhattisgarh,Mungali,2014,0,0,0,2,0,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,6
+Chhattisgarh,Narayanpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Chhattisgarh,Raigarh,2014,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,false,0,0,1,false,1,0,0,1,1,false,0,4,0,27,38,0,0,0,0,8,8,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,8,false,8,54
+Chhattisgarh,Raipur,2014,0,3,0,7,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,9,0,19,9,12,24,0,47,0,0,0,0,47,0,34,30,false,false,4,0,1,false,1,3,3,0,0,false,false,17,394,544,false,19,582
+Chhattisgarh,Rajnandgaon,2014,0,0,0,3,0,4,4,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,6,1,14,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,14
+Chhattisgarh,Sarguja,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Chhattisgarh,Sukma,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Chhattisgarh,Surajpur,2014,0,0,0,5,0,3,3,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,4,4,false,0,0,0,14,26,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,26
+Chhattisgarh,Total,2014,0,8,6,71,0,45,18,1,0,1,25,0,6,1,0,false,2,3,1,false,1,0,1,9,9,false,0,11,80,121,359,11,12,26,0,69,14,1,0,1,53,0,42,34,false,false,4,4,1,false,1,3,3,4,4,false,false,17,486,674,false,33,1066
+Goa,North Goa,2014,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,7,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,1,1,false,3,16
+Goa,South Goa,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Goa,C. I. D.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Goa,Total,2014,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,8,12,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,1,1,false,3,17
+Gujarat,Ahmedabad City,2014,4,3,3,4,0,2,1,0,0,0,1,0,5,2,0,false,3,0,0,false,0,1,0,5,5,false,0,2,10,27,62,0,0,0,0,0,0,0,0,0,0,0,2,1,false,false,1,0,0,false,0,0,0,0,0,false,false,0,1,3,false,2,71
+Gujarat,Ahmedabad Rural,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,17
+Gujarat,Amreli,2014,0,0,0,0,0,1,0,0,0,0,1,0,3,0,0,false,3,0,0,false,0,1,0,0,0,false,0,0,18,2,25,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,25
+Gujarat,Anand,2014,0,2,0,2,0,3,1,0,0,0,2,0,4,0,0,false,4,0,0,false,0,1,0,0,0,false,0,3,5,24,44,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,2,2,false,false,0,0,2,false,1,47
+Gujarat,Arvalli,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,2,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,1,4
+Gujarat,Banaskantha,2014,0,1,1,5,0,4,0,0,0,0,4,0,1,0,0,false,1,0,2,false,2,1,0,4,4,false,0,4,49,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,72
+Gujarat,Bharuch,2014,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,false,1,1,0,false,0,0,0,0,0,false,0,3,6,7,19,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,19
+Gujarat,Bhavnagar,2014,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,false,1,0,0,false,0,2,0,3,3,false,0,2,14,6,30,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,1,2,3,false,1,34
+Gujarat,Botad,2014,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,8,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,11
+Gujarat,Chhotaudepur,2014,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,0,4,0,0,0,0,0,0,0,0,0,0,0,1,1,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,1,false,0,5
+Gujarat,C. I. D. Crime,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Gujarat,Dahod,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,4,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,9
+Gujarat,Dang,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Gujarat,Devbhumi Dwarka,2014,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false,0,0,1,false,1,0,0,0,0,false,0,4,3,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,9
+Gujarat,Gandhinagar,2014,0,1,0,4,0,3,1,0,0,0,2,0,6,0,0,false,3,3,0,false,0,0,0,6,6,false,0,0,37,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,1,1,false,0,58
+Gujarat,Gir Somnath,2014,0,0,1,3,0,2,0,0,0,0,2,0,4,1,0,false,3,0,0,false,0,0,0,0,0,false,0,1,14,4,29,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,0,6,7,false,1,37
+Gujarat,Jamnagar,2014,0,1,3,4,0,3,0,0,0,0,3,0,1,0,0,false,1,0,0,false,0,1,0,6,6,false,0,3,17,36,75,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,75
+Gujarat,Junagadh,2014,0,1,1,3,0,1,0,1,0,0,0,0,4,3,0,false,0,1,0,false,0,3,0,2,2,false,0,3,17,2,37,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,1,2,3,false,3,43
+Gujarat,Kachchh East(G),2014,0,3,1,2,0,1,0,0,0,0,1,0,1,0,0,false,1,0,0,false,0,0,0,8,8,false,0,5,63,5,89,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,89
+Gujarat,Kachchh West(B),2014,0,1,0,1,0,2,2,0,0,0,0,0,1,0,0,false,1,0,0,false,0,0,0,2,2,false,0,5,42,5,59,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,59
+Gujarat,Kheda,2014,2,1,0,1,0,2,0,0,0,0,2,0,3,3,0,false,0,0,0,false,0,0,0,1,1,false,0,1,1,11,21,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,23
+Gujarat,Mahisagar,2014,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,6
+Gujarat,Mehsana,2014,8,1,0,0,0,4,0,0,0,0,4,0,9,3,0,false,3,3,0,false,0,7,0,3,3,false,0,1,25,14,64,0,0,0,0,0,0,0,0,0,0,0,1,0,false,false,0,1,0,false,0,0,0,0,0,false,false,0,0,1,false,2,75
+Gujarat,Morbi,2014,0,0,0,0,0,2,0,0,0,0,2,0,1,0,0,false,1,0,0,false,0,0,0,1,1,false,0,1,11,1,17,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,17
+Gujarat,Narmada,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+Gujarat,Navsari,2014,0,0,0,1,0,2,0,0,0,0,2,0,1,0,0,false,1,0,0,false,0,1,0,0,0,false,0,0,3,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,8
+Gujarat,Panchmahal,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,1,0,2,2,false,0,0,7,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,11
+Gujarat,Patan,2014,3,1,2,0,0,2,0,0,0,0,2,0,0,0,0,false,0,0,1,false,1,2,0,0,0,false,0,2,25,13,48,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,51
+Gujarat,Porbandar,2014,0,2,0,0,0,2,0,0,0,0,2,0,1,0,0,false,0,1,0,false,0,0,0,1,1,false,0,1,1,6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,14
+Gujarat,Rajkot City,2014,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,2,false,2,1,0,0,0,false,0,3,6,2,17,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,2,19
+Gujarat,Rajkot Rural,2014,0,1,0,2,0,4,0,0,0,0,4,0,5,0,0,false,3,2,1,false,1,0,0,3,3,false,0,1,18,2,37,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,37
+Gujarat,Sabarkantha,2014,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,false,0,0,0,false,0,0,0,2,2,false,0,1,9,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,15
+Gujarat,Surat City,2014,0,1,1,2,0,0,0,0,0,0,0,0,1,0,0,false,1,0,0,false,0,0,0,1,1,false,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,2,8
+Gujarat,Surat Rural,2014,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,false,0,1,0,false,0,1,0,0,0,false,0,2,5,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,11
+Gujarat,Surendranagar,2014,0,1,1,2,0,3,0,0,0,0,3,0,2,1,0,false,0,1,1,false,1,3,1,8,8,false,0,5,33,20,80,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,80
+Gujarat,Tapi,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Gujarat,Vadodara City,2014,0,2,0,1,0,2,1,0,0,0,1,0,1,0,0,false,1,0,0,false,0,2,0,0,0,false,0,0,24,2,34,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,34
+Gujarat,Vadodara Rural,2014,1,0,0,0,0,3,3,0,0,0,0,0,1,0,0,false,1,0,0,false,0,1,0,1,1,false,0,7,11,5,29,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,30
+Gujarat,Valsad,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Gujarat,W.Rly  Ahmedabad,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Gujarat,W.Rly Vadodara,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Gujarat,Total,2014,19,25,17,46,0,50,9,1,0,0,40,0,62,16,0,false,33,13,8,false,8,29,1,60,60,false,0,63,495,219,1075,0,0,0,0,0,0,0,0,0,0,0,4,2,false,false,1,1,0,false,0,0,0,3,3,false,false,2,12,21,false,15,1130
+Haryana,Ambala (Rural),2014,0,0,0,4,0,3,1,0,0,0,2,0,2,0,0,false,2,0,0,false,0,0,0,1,1,false,0,0,3,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,13
+Haryana,Ambala (Urban),2014,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,1,1,false,0,7
+Haryana,Bhiwani,2014,0,0,0,9,0,10,3,1,0,3,3,0,4,0,0,false,0,4,0,false,0,0,1,0,0,false,0,1,3,1,29,2,4,1,0,2,0,0,0,1,1,1,3,0,false,false,3,0,0,false,0,0,1,3,3,false,false,5,12,34,false,0,63
+Haryana,Faridabad,2014,0,1,1,11,1,5,2,0,0,3,0,0,4,0,0,false,3,1,0,false,0,0,0,0,0,false,0,2,5,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,11,11,false,0,41
+Haryana,Fatehabad,2014,0,0,0,4,0,2,1,0,0,0,1,0,1,0,0,false,0,1,0,false,0,0,0,0,0,false,0,0,0,0,7,2,0,0,0,4,1,2,0,1,0,1,2,0,false,false,0,2,0,false,0,0,0,0,0,false,false,5,55,69,false,1,77
+Haryana,G. R. P.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,5,0,1,0,1,1,0,0,0,0,0,0,0,false,false,0,0,0,false,0,2,0,0,0,false,false,0,13,22,false,0,23
+Haryana,Gurgaon,2014,0,0,2,6,1,3,1,0,0,0,2,0,3,0,0,false,1,2,1,false,1,1,0,0,0,false,0,3,9,1,30,2,0,3,1,1,1,0,0,0,0,1,2,0,false,false,1,1,1,false,1,1,0,0,0,false,false,0,45,57,false,0,87
+Haryana,Hissar,2014,0,6,1,5,0,4,2,0,0,1,1,0,2,0,0,false,1,1,0,false,0,0,0,0,0,false,0,2,1,2,23,3,2,2,0,2,1,0,0,1,0,0,2,0,false,false,2,0,1,false,1,0,1,4,4,false,false,8,67,92,false,0,115
+Haryana,Jhajjar,2014,0,2,0,7,0,1,1,0,0,0,0,0,2,0,0,false,1,1,0,false,0,0,0,0,0,false,0,0,6,1,19,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,19
+Haryana,Jind,2014,0,0,0,2,0,5,1,2,0,1,1,0,2,0,0,false,1,1,0,false,0,0,1,0,0,false,0,1,4,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,2,2,false,false,3,13,18,false,0,33
+Haryana,Kaithal,2014,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,0,7,0,9,0,0,0,0,1,1,0,0,0,0,0,2,0,false,false,0,2,0,false,0,0,0,2,2,false,false,0,1,6,false,0,15
+Haryana,Karnal,2014,0,0,1,8,0,7,0,0,0,2,5,0,2,0,0,false,2,0,0,false,0,0,1,1,1,false,0,1,3,1,25,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,25
+Haryana,Kurukshetra,2014,0,0,0,4,0,2,1,1,0,0,0,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,0,2,2,12,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,12
+Haryana,Mahendergarh,2014,0,0,0,4,0,11,3,5,0,0,3,0,3,0,0,false,1,2,0,false,0,0,0,0,0,false,0,3,10,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,31
+Haryana,Mewat,2014,0,0,1,4,0,1,0,0,0,0,1,0,1,1,0,false,0,0,0,false,0,0,0,0,0,false,0,4,5,0,16,0,0,1,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,5,6,false,0,22
+Haryana,Palwal,2014,31,1,0,4,0,7,3,2,0,1,1,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,6,12,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,63
+Haryana,Panchkula,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+Haryana,Panipat,2014,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,6,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,11
+Haryana,Rewari,2014,0,2,0,6,2,8,6,0,0,1,1,2,5,0,0,false,3,2,0,false,0,0,0,0,0,false,0,3,7,1,36,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,2,2,false,false,0,5,7,false,0,43
+Haryana,Rohtak,2014,0,4,2,8,0,8,3,2,0,1,2,0,3,1,0,false,1,1,0,false,0,0,0,0,0,false,0,0,9,1,35,0,1,1,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,1,16,20,false,0,55
+Haryana,Sirsa,2014,0,1,0,7,2,8,7,0,0,1,0,0,1,1,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,1,23,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,23
+Haryana,Sonipat,2014,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,1,7,2,0,0,0,3,0,0,0,0,3,0,0,0,false,false,0,0,0,false,0,0,1,0,0,false,false,0,5,11,false,0,18
+Haryana,Yamunanagar,2014,0,3,0,1,0,8,4,0,0,2,2,0,5,0,0,false,3,2,0,false,0,0,0,5,4,true,0,1,8,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,31
+Haryana,Irrigation & Power,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Haryana,Total,2014,31,21,8,102,7,97,42,13,0,16,26,2,44,3,0,false,23,18,1,false,1,1,4,7,6,true,0,27,108,15,444,16,7,9,1,14,5,2,0,3,4,3,11,0,false,false,6,5,2,false,2,3,3,14,14,false,false,22,249,354,false,1,830
+Himachal Pradesh,Baddi,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Himachal Pradesh,Bilaspur,2014,2,0,0,3,0,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,13
+Himachal Pradesh,Chamba,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Himachal Pradesh,C. I. D.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Himachal Pradesh,G. R. P.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Himachal Pradesh,Hamirpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,11
+Himachal Pradesh,Kangra,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,12
+Himachal Pradesh,Kinnaur,2014,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Himachal Pradesh,Kullu,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+Himachal Pradesh,Lahaul & Spiti,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Himachal Pradesh,Mandi,2014,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,19,20,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,22
+Himachal Pradesh,Shimla,2014,0,0,0,2,0,1,0,0,0,1,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,18,21,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,21
+Himachal Pradesh,Sirmaur,2014,0,1,0,4,0,2,2,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,12,19,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,19
+Himachal Pradesh,Solan,2014,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,3,5
+Himachal Pradesh,Una,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,10,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,11
+Himachal Pradesh,Total,2014,6,1,0,11,0,6,2,0,0,2,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,94,113,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,3,122
+Jammu & Kashmir,Anantnag,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Awantipora,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Bandipora,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Baramulla,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Budgam,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Crime Jammu,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Crime Srinagar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Doda,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Ganderbal,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Handwara,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Jammu,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Kargil,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Kathua,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Kishtwar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Kulgam,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Kupwara,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Leh,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Poonch,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Pulwama,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Railways Jammu,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Railways Kashmir,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Railways Katra,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Rajouri,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Ramban,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Reasi,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Samba,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Shopian,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Sopore,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Srinagar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Udhampur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jammu & Kashmir,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jharkhand,Bokaro,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,39,39,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,39
+Jharkhand,Chaibasa,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,5,5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,10
+Jharkhand,Chatra,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,32,32,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,32
+Jharkhand,Deoghar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,32,32,64,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,64
+Jharkhand,Dhanbad,2014,0,0,0,5,3,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,6,56,78,151,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,151
+Jharkhand,Dhanbad Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Jharkhand,Dumka,2014,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,8,8,false,0,1,3,15,30,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,30
+Jharkhand,Garhwa,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,92,92,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,92
+Jharkhand,Giridih,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,46,46,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,46
+Jharkhand,Godda,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,15,15,30,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,30
+Jharkhand,Gumla,2014,0,2,1,1,0,0,0,0,0,0,0,0,2,2,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,8
+Jharkhand,Hazaribagh,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,39,39,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,39
+Jharkhand,Jamshedpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,17,17,34,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,34
+Jharkhand,Jamshedpur Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jharkhand,Jamtara,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,3,0,false,3,0,0,27,30,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,30
+Jharkhand,Khunti,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Jharkhand,Koderma,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,30,30,60,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,60
+Jharkhand,Latehar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,7
+Jharkhand,Lohardagga,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,5,5,0,0,0,0,1,0,0,0,0,1,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,1,false,0,6
+Jharkhand,Pakur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+Jharkhand,Palamu,2014,0,0,4,2,2,3,3,0,0,0,0,0,11,0,0,false,0,11,0,false,0,0,5,0,0,false,0,3,25,63,118,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,118
+Jharkhand,Ramgarh,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,8,8,false,0,0,11,19,38,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,38
+Jharkhand,Ranchi,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,11,11,false,0,0,0,11,22,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,22
+Jharkhand,Sahebganj,2014,0,0,0,3,0,3,0,0,0,0,3,0,1,0,0,false,1,0,0,false,0,0,0,0,0,false,0,0,0,6,13,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,14,27
+Jharkhand,Saraikela,2014,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false,1,0,0,false,0,0,0,3,3,false,0,1,0,5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,10
+Jharkhand,Simdega,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,2,6
+Jharkhand,Total,2014,0,3,5,13,5,8,3,0,0,0,5,0,15,2,0,false,2,11,0,false,0,0,6,33,30,false,3,11,196,591,886,0,0,0,0,1,0,0,0,0,1,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,1,false,16,903
+Karnataka,Bagalkot,2014,0,1,0,2,0,0,0,0,0,0,0,0,2,0,0,false,0,2,0,false,0,0,0,0,0,false,0,0,40,46,91,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,91
+Karnataka,Bengaluru City,2014,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,5,150,159,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,159
+Karnataka,Bengaluru District,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,59,59,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,59
+Karnataka,Belagavi District,2014,0,1,0,6,0,4,0,0,0,0,4,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,65,79,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,79
+Karnataka,Ballari,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,37,37,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,37
+Karnataka,Bidar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,31,31,1,1,0,0,3,0,0,0,0,3,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,9,17,31,false,0,62
+Karnataka,Vijayapura,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,53,53,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,53
+Karnataka,Chikkaballapura,2014,0,1,0,1,0,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,8,36,48,96,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,96
+Karnataka,Chamarajnagar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,18
+Karnataka,Chikkamagaluru,2014,0,3,2,6,0,25,0,0,0,0,25,0,1,0,0,false,1,0,0,false,0,3,0,4,4,false,0,0,0,87,131,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,131
+Karnataka,Chitradurga,2014,0,6,0,4,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,26,36,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,36
+Karnataka,Dakshina Kannada,2014,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,43,46,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,46
+Karnataka,Davanagere,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,41,41,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,41
+Karnataka,Dharwad,2014,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,22,25,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,1,0,1,false,9,35
+Karnataka,Gadag,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,12,13,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,13
+Karnataka,Kalaburgi,2014,0,3,5,0,0,0,0,0,0,0,0,0,1,0,0,false,0,1,0,false,0,0,0,0,0,false,0,1,8,89,107,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,107
+Karnataka,Hassan,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,59,59,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,59
+Karnataka,Haveri,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,15
+Karnataka,Hubballi Dharwad City,2014,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,19,22,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,22
+Karnataka,K.G.F.,2014,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,9,14,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,14
+Karnataka,Kodagu,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,1,0,0,0,false,0,0,1,18,21,2,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,11,13,false,0,34
+Karnataka,Kolar,2014,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,58,65,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,65
+Karnataka,Koppal,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,35,35,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,35
+Karnataka,Mandya,2014,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,0,65,72,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,72
+Karnataka,Mangaluru City,2014,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,4,36,43,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,43
+Karnataka,Mysuru City,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,35,35,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,35
+Karnataka,Mysuru District,2014,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,false,0,2,0,false,0,0,0,1,1,false,0,0,0,55,61,4,0,3,0,4,0,0,0,0,4,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,208,219,false,0,280
+Karnataka,Raichur,2014,0,1,1,5,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,75,82,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,82
+Karnataka,K.Railways,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Karnataka,Ramanagar,2014,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,49,54,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,54
+Karnataka,Shimoga,2014,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,49,54,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,54
+Karnataka,Tumakuru,2014,0,3,2,3,0,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,2,0,0,0,false,0,0,29,5,46,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,46
+Karnataka,Udupi,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,36,36,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,36
+Karnataka,Uttara Kannada,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,12
+Karnataka,Yadgiri,2014,0,2,6,4,1,7,1,0,0,0,6,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,18,12,44,94,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,94
+Karnataka,Belagavi City,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,0,21,23,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,23
+Karnataka,Total,2014,0,32,19,66,1,40,1,0,0,0,39,0,6,0,0,false,1,5,0,false,0,6,0,7,7,false,0,28,138,1522,1865,7,1,3,0,7,0,0,0,0,7,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,10,236,264,false,9,2138
+Kerala,Alapuzha,2014,0,0,1,8,0,5,1,0,0,0,4,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,23,7,45,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,45
+Kerala,Ernakulam Commr.,2014,0,0,0,7,0,1,1,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,17,1,26,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,26
+Kerala,Ernakulam Rural,2014,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,6,0,9,1,0,3,0,0,0,0,0,0,0,1,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,23,28,false,0,37
+Kerala,Idukki,2014,0,0,0,5,0,5,0,5,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,5,17,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,34
+Kerala,Kannur,2014,0,0,0,4,0,4,0,0,0,0,4,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,2,16,6,34,0,0,0,0,1,0,0,0,0,1,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,4,7,12,false,1,47
+Kerala,Kasargod,2014,0,0,0,2,0,3,0,0,0,0,3,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,4,2,12,0,0,1,0,1,0,0,0,0,1,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,1,12,15,false,0,27
+Kerala,Kollam Commr.,2014,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,11,17,40,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,40
+Kerala,Kollam Rural,2014,0,1,0,11,0,0,0,0,0,0,0,0,3,0,0,false,3,0,0,false,0,0,0,7,7,false,0,0,52,1,75,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,75
+Kerala,Kottayam,2014,0,0,0,6,0,7,1,5,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,33,4,50,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,50
+Kerala,Kozhikode Commr.,2014,0,0,0,3,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,12,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,4,4,false,0,22
+Kerala,Kozhikode Rural,2014,0,0,1,4,1,2,1,1,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,3,13,1,26,0,0,1,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,2,2,false,false,1,10,14,false,0,40
+Kerala,Malappuram,2014,0,1,1,6,0,4,1,0,0,0,3,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,4,14,3,34,0,0,0,0,7,0,0,0,0,7,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,3,15,26,false,0,60
+Kerala,Palakkad,2014,0,1,2,9,0,3,0,0,0,0,3,0,3,0,0,false,2,1,0,false,0,0,0,0,0,false,0,6,22,4,50,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,50
+Kerala,Pathanamthitta,2014,0,0,0,6,0,6,0,0,0,0,6,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,27,3,43,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,43
+Kerala,Railways,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Kerala,Thrissur Commr.,2014,0,0,0,2,0,5,1,1,0,1,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,12,3,22,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,2,24
+Kerala,Thrissur Rural,2014,0,0,2,15,0,4,0,0,0,0,4,0,1,0,0,false,1,0,0,false,0,0,0,3,3,false,0,0,30,6,61,0,0,0,0,1,0,0,0,0,1,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,1,false,0,62
+Kerala,Trivandrum Commr.,2014,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,24,6,35,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,35
+Kerala,Trivandrum Rural,2014,0,1,0,14,2,10,1,0,0,0,9,0,1,1,0,false,0,0,0,false,0,1,0,4,4,false,0,3,52,5,93,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,93
+Kerala,Wayanadu,2014,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,1,4,0,0,1,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,1,false,0,5
+Kerala,Crime Branch,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Kerala,Total,2014,0,4,7,121,4,61,7,12,0,1,41,0,8,1,0,false,6,1,0,false,0,1,0,23,23,false,0,25,387,71,712,1,0,6,0,10,0,0,0,0,10,1,0,0,false,false,0,0,0,false,0,0,0,3,3,false,false,9,71,101,false,3,816
+Madhya Pradesh,Agar,2014,0,1,2,0,0,3,3,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,7,8,21,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,0,23,24,false,8,53
+Madhya Pradesh,Alirajpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Madhya Pradesh,Anuppur,2014,0,0,1,4,0,4,3,0,0,0,1,0,4,0,0,false,4,0,0,false,0,0,0,0,0,false,0,0,3,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,16
+Madhya Pradesh,Ashok Nagar,2014,0,1,1,7,0,21,6,0,0,0,15,0,2,2,0,false,0,0,0,false,0,0,2,9,9,false,0,1,33,0,77,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,2,2,false,false,0,66,68,false,0,145
+Madhya Pradesh,Balaghat,2014,0,0,1,4,0,17,10,1,0,0,6,0,1,1,0,false,0,0,0,false,0,0,0,1,1,false,0,0,17,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,41
+Madhya Pradesh,Barwani,2014,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,8
+Madhya Pradesh,Betul,2014,0,2,1,11,0,33,6,2,0,9,16,0,1,0,0,false,1,0,0,false,0,0,0,0,0,false,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,67,67,false,0,115
+Madhya Pradesh,Bhind,2014,0,3,4,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,2,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,11
+Madhya Pradesh,Bhopal,2014,0,2,4,19,0,35,35,0,0,0,0,0,4,0,0,false,4,0,0,false,0,0,0,0,0,false,0,0,40,3,107,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,107
+Madhya Pradesh,Bhopal Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Madhya Pradesh,Burhanpur,2014,0,1,1,0,0,5,3,0,0,2,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,6,12,25,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,25
+Madhya Pradesh,Chhatarpur,2014,0,2,0,18,0,0,0,0,0,0,0,0,3,3,0,false,0,0,0,false,0,0,1,70,70,false,0,0,42,0,136,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,136
+Madhya Pradesh,Chhindwara,2014,0,1,1,19,0,16,16,0,0,0,0,0,2,2,0,false,0,0,0,false,0,0,0,7,7,false,0,0,20,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,66
+Madhya Pradesh,Damoh,2014,0,0,0,4,0,7,0,0,0,0,7,0,6,6,0,false,0,0,0,false,0,0,0,0,0,false,0,1,39,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,57
+Madhya Pradesh,Datia,2014,0,3,4,4,0,12,0,0,0,0,12,0,4,4,0,false,0,0,0,false,0,0,2,5,5,false,0,1,64,0,99,1,0,0,0,1,0,0,0,0,1,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,2,false,0,101
+Madhya Pradesh,Dewas,2014,0,0,2,11,0,24,17,0,0,5,2,0,1,0,0,false,1,0,0,false,0,0,1,2,2,false,0,1,28,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,70
+Madhya Pradesh,Dhar,2014,0,0,0,10,0,10,10,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,5,5,false,0,3,8,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,36
+Madhya Pradesh,Dindori,2014,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,5
+Madhya Pradesh,Guna,2014,0,2,1,7,0,13,0,0,0,0,13,0,4,4,0,false,0,0,0,false,0,0,2,11,11,false,0,3,52,0,95,0,0,0,0,13,0,0,0,0,13,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,13,false,0,108
+Madhya Pradesh,Gwalior,2014,0,3,7,18,1,39,6,2,0,2,29,0,2,0,0,false,2,0,0,false,0,0,0,1,1,false,0,5,94,0,170,0,0,0,0,4,0,0,0,0,4,1,2,0,false,false,2,0,0,false,0,0,0,5,5,false,false,3,202,217,false,0,387
+Madhya Pradesh,Harda,2014,0,1,0,2,0,5,0,3,0,1,1,0,1,1,0,false,0,0,0,false,0,0,0,0,0,false,0,0,8,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,1,1,false,0,18
+Madhya Pradesh,Hoshangabad,2014,0,2,1,10,0,6,1,0,0,2,3,0,1,0,0,false,1,0,0,false,0,0,0,0,0,false,0,3,24,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,47
+Madhya Pradesh,Indore,2014,0,3,4,21,0,18,7,0,0,1,10,0,1,0,0,false,0,1,0,false,0,0,1,1,1,false,0,2,30,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,0,2,3,false,0,84
+Madhya Pradesh,Indore Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Madhya Pradesh,Jabalpur,2014,0,9,9,27,0,22,0,0,0,0,22,1,4,0,0,false,0,4,0,false,0,0,0,1,1,false,0,1,34,0,108,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,108
+Madhya Pradesh,Jabalpur Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Madhya Pradesh,Jhabua,2014,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,1,0,4,0,0,1,0,3,0,0,0,0,3,0,1,0,false,false,1,0,0,false,0,1,0,0,0,false,false,0,2,8,false,0,12
+Madhya Pradesh,Katni,2014,0,2,0,10,0,10,0,0,0,0,10,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,1,0,0,0,false,false,0,12,13,false,1,37
+Madhya Pradesh,Khandwa,2014,0,4,1,8,0,12,12,0,0,0,0,1,2,0,0,false,0,2,0,false,0,0,0,1,1,false,0,1,26,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,56
+Madhya Pradesh,Khargone,2014,0,1,2,10,0,10,0,0,0,0,10,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,1,10,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,36
+Madhya Pradesh,Mandla,2014,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,5,5,false,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,8
+Madhya Pradesh,Mandsaur,2014,0,0,2,12,0,23,0,0,0,0,23,0,4,0,0,false,0,4,0,false,0,0,0,0,0,false,0,5,47,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,93
+Madhya Pradesh,Morena,2014,0,1,9,8,0,14,0,0,0,0,14,0,2,0,0,false,0,2,0,false,0,0,0,1,1,false,0,8,145,0,188,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,188
+Madhya Pradesh,Narsinghpur,2014,0,1,1,11,0,17,0,0,0,0,17,0,0,0,0,false,0,0,0,false,0,0,1,50,50,false,0,0,7,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,88
+Madhya Pradesh,Neemuch,2014,0,0,2,6,0,7,7,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,17,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,0,27,28,false,0,62
+Madhya Pradesh,Panna,2014,0,1,0,3,0,7,0,0,0,0,7,0,2,2,0,false,0,0,0,false,0,0,1,0,0,false,0,0,11,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,25
+Madhya Pradesh,Raisen,2014,0,3,1,17,0,21,6,0,1,1,13,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,48,33,125,0,0,0,0,5,1,0,0,0,4,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,8,13,false,0,138
+Madhya Pradesh,Rajgarh,2014,0,1,1,24,0,26,0,0,0,0,26,2,5,0,0,false,0,5,0,false,0,0,0,48,48,false,0,3,6,0,116,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,116
+Madhya Pradesh,Ratlam,2014,0,5,5,11,0,6,0,0,0,0,6,0,1,0,0,false,1,0,0,false,0,0,0,60,60,false,0,0,13,0,101,0,0,0,0,0,0,0,0,0,0,0,1,1,false,false,0,0,0,false,0,0,0,1,1,false,false,0,31,33,false,0,134
+Madhya Pradesh,Rewa,2014,0,0,0,8,0,16,2,0,0,0,14,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,6,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,30
+Madhya Pradesh,Sagar,2014,0,5,1,20,0,27,0,0,0,0,27,0,3,0,0,false,3,0,0,false,0,0,1,5,5,false,0,2,59,0,123,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,123
+Madhya Pradesh,Satna,2014,0,4,7,19,0,18,18,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,4,4,false,0,1,26,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,0,26,27,false,0,107
+Madhya Pradesh,Seoni,2014,0,0,0,8,0,12,9,0,0,1,2,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,1,20,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,42
+Madhya Pradesh,Shahdol,2014,0,2,0,3,0,4,0,4,0,0,0,0,1,0,0,false,0,1,0,false,0,0,0,0,0,false,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,10
+Madhya Pradesh,Shajapur,2014,0,2,1,10,0,18,18,0,0,0,0,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,3,47,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,2,2,false,false,0,129,131,false,0,214
+Madhya Pradesh,Sheopur,2014,0,1,0,1,0,7,2,0,0,1,4,0,1,0,0,false,1,0,0,false,0,0,0,3,3,false,0,0,36,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,49
+Madhya Pradesh,Shivpuri,2014,0,1,1,14,0,28,7,1,0,0,20,0,4,0,0,false,0,4,0,false,0,0,1,0,0,false,0,3,52,0,104,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,90,90,false,0,194
+Madhya Pradesh,Sidhi,2014,0,0,0,2,0,7,1,0,0,0,6,0,2,0,0,false,0,2,0,false,0,0,0,1,1,false,0,0,5,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,2,2,false,false,0,26,28,false,0,45
+Madhya Pradesh,Sehore,2014,0,1,2,20,0,18,0,0,0,0,18,1,5,0,0,false,5,0,0,false,0,0,0,5,5,false,0,1,75,0,128,0,0,0,0,2,0,0,0,0,2,0,1,0,false,false,1,0,0,false,0,0,0,0,0,false,false,0,28,31,false,0,159
+Madhya Pradesh,Singrauli,2014,0,1,0,6,0,5,2,0,0,0,3,0,2,0,0,false,2,0,0,false,0,0,1,1,1,false,0,1,16,0,33,0,0,0,0,3,0,0,0,0,3,0,0,0,false,false,0,0,0,false,0,0,1,2,2,false,false,0,20,26,false,0,59
+Madhya Pradesh,Tikamgarh,2014,0,2,0,13,1,10,10,0,0,0,0,0,2,2,0,false,0,0,0,false,0,0,1,1,1,false,0,0,15,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,45
+Madhya Pradesh,Ujjain,2014,0,1,4,7,0,33,0,0,0,0,33,1,3,3,0,false,0,0,0,false,0,0,0,0,0,false,0,3,74,1,127,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,127
+Madhya Pradesh,Umaria,2014,0,0,0,0,0,1,1,0,0,0,0,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,0,5,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,8
+Madhya Pradesh,Vidisha,2014,0,3,7,20,0,42,7,0,1,3,31,0,3,0,0,false,3,0,0,false,0,0,1,6,6,false,0,0,95,0,177,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,25,25,false,0,202
+Madhya Pradesh,Cyber Cell,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Madhya Pradesh,Total,2014,0,79,91,472,2,694,228,13,2,28,423,6,87,30,0,false,32,25,0,false,0,0,17,313,313,false,0,55,1421,57,3294,1,0,1,0,31,1,0,0,0,30,1,5,1,false,false,4,0,0,false,0,2,1,18,18,false,false,3,785,848,false,9,4151
+Maharashtra,Ahmednagar,2014,0,6,1,11,0,24,4,1,0,0,19,0,1,1,0,false,0,0,0,false,0,1,4,1,1,false,0,11,32,1,93,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,93
+Maharashtra,Akola,2014,0,0,2,9,0,6,3,0,0,0,3,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,4,1,7,30,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,30
+Maharashtra,Amravati Commr.,2014,0,0,2,1,0,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,2,4,5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,16
+Maharashtra,Amravati Rural,2014,1,0,1,4,0,13,8,2,1,1,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,4,8,12,42,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,43
+Maharashtra,Aurangabad Commr.,2014,0,1,0,3,0,2,1,0,0,1,0,0,1,1,0,false,0,0,0,false,0,1,0,0,0,false,0,1,3,3,15,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,15
+Maharashtra,Aurangabad Rural,2014,0,1,1,1,0,6,0,0,0,0,6,1,1,1,0,false,0,0,0,false,0,0,1,5,5,false,0,7,2,3,29,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,29
+Maharashtra,Beed,2014,0,3,5,8,0,18,14,0,0,1,3,0,5,1,0,false,2,2,1,false,1,3,0,1,1,false,0,21,34,3,102,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,102
+Maharashtra,Bhandara,2014,0,1,0,1,0,6,5,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,2,13,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,13
+Maharashtra,Buldhana,2014,0,2,3,2,0,25,12,2,0,0,11,0,0,0,0,false,0,0,1,false,1,0,1,0,0,false,0,11,12,15,72,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,72
+Maharashtra,Chandrapur,2014,0,0,0,5,0,10,0,0,0,0,10,0,0,0,0,false,0,0,1,false,1,0,0,0,0,false,0,1,15,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,32
+Maharashtra,Dhule,2014,0,0,2,3,0,3,0,0,0,0,3,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,5,2,3,19,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,19
+Maharashtra,Gadchiroli,2014,0,1,0,1,0,2,2,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,5
+Maharashtra,Gondia,2014,0,3,2,7,0,10,10,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,2,8,3,35,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,35
+Maharashtra,Hingoli,2014,0,1,1,5,0,9,8,0,0,0,1,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,7,19,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,44
+Maharashtra,Jalgaon,2014,0,1,1,5,0,9,3,0,2,0,4,0,1,0,0,false,1,0,2,false,2,3,0,0,0,false,0,7,7,9,45,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,45
+Maharashtra,Jalna,2014,0,3,2,4,0,11,8,0,0,0,3,0,4,2,0,false,2,0,0,false,0,1,0,1,1,false,0,8,25,0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,59
+Maharashtra,Kolhapur,2014,2,3,0,7,0,8,0,0,0,0,8,0,0,0,0,false,0,0,1,false,1,1,0,4,4,false,0,0,15,19,58,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,60
+Maharashtra,Latur,2014,0,2,3,3,0,12,0,0,0,0,12,0,3,0,0,false,3,0,1,false,1,1,1,0,0,false,0,14,20,17,77,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,77
+Maharashtra,Mumbai Commr.,2014,0,0,0,3,0,2,0,0,0,0,2,2,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,3,11,12,35,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,35
+Maharashtra,Mumbai Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Maharashtra,Nagpur Commr.,2014,0,0,0,7,0,4,4,0,0,0,0,0,0,0,0,false,0,0,1,false,1,0,0,0,0,false,0,0,16,5,33,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,33
+Maharashtra,Nagpur Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Maharashtra,Nagpur Rural,2014,0,0,0,1,0,9,6,0,0,1,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,2,8,1,21,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,21
+Maharashtra,Nanded,2014,0,1,2,3,0,9,9,0,0,0,0,0,2,0,0,false,1,1,2,false,2,0,1,0,0,false,0,8,5,12,45,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,45
+Maharashtra,Nandurbar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,2,0,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,7
+Maharashtra,Nasik Commr.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,4
+Maharashtra,Nasik Rural,2014,0,1,0,4,0,3,3,0,0,0,0,0,1,0,0,false,1,0,2,false,2,0,0,0,0,false,0,2,6,5,24,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,24
+Maharashtra,Navi Mumbai,2014,0,1,1,3,0,3,0,1,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,3,4,15,30,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,30
+Maharashtra,Osmanabad,2014,0,0,0,7,0,12,8,2,0,2,0,1,1,0,0,false,1,0,1,false,1,0,0,0,0,false,0,10,6,6,44,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,44
+Maharashtra,Palghar,2014,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,2,6,3,14,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,14
+Maharashtra,Parbhani,2014,0,3,2,2,0,12,7,1,0,0,4,0,5,0,0,false,0,5,0,false,0,0,0,4,4,false,0,11,25,26,90,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,90
+Maharashtra,Pune Commr.,2014,1,1,0,6,0,16,8,0,1,0,7,1,1,1,0,false,0,0,0,false,0,0,0,0,0,false,0,4,9,16,54,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,55
+Maharashtra,Pune Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Maharashtra,Pune Rural,2014,0,2,4,8,0,18,9,0,0,1,8,0,2,2,0,false,0,0,0,false,0,0,1,2,2,false,0,20,16,17,90,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,90
+Maharashtra,Raigad,2014,1,0,0,3,0,6,3,0,0,0,3,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,1,5,3,19,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,20
+Maharashtra,Ratnagiri,2014,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,false,0,0,1,false,1,0,0,0,0,false,0,0,3,5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,12
+Maharashtra,Sangli,2014,0,0,0,4,0,2,0,0,0,0,2,0,2,2,0,false,0,0,0,false,0,0,0,0,0,false,0,2,9,7,26,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,26
+Maharashtra,Satara,2014,0,0,0,9,0,11,5,1,0,0,5,0,2,0,0,false,1,1,2,false,2,1,0,1,1,false,0,21,7,25,79,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,79
+Maharashtra,Sindhudurg,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,5
+Maharashtra,Solapur Commr.,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,1,false,1,0,0,0,0,false,0,1,1,6,10,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,10
+Maharashtra,Solapur Rural,2014,0,2,3,14,0,13,4,2,0,0,7,0,1,0,0,false,1,0,2,false,2,1,0,3,3,false,0,12,40,19,110,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,110
+Maharashtra,Thane Commr.,2014,0,0,0,3,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,1,0,0,0,false,0,2,17,5,29,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,29
+Maharashtra,Thane Rural,2014,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,1,0,0,0,false,0,2,4,1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,10
+Maharashtra,Wardha,2014,0,1,0,3,0,7,0,0,0,0,7,1,1,0,0,false,1,0,0,false,0,0,0,1,1,false,0,0,3,2,19,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,19
+Maharashtra,Washim,2014,0,1,3,6,0,22,22,0,0,0,0,0,0,0,0,false,0,0,1,false,1,2,0,0,0,false,0,6,11,11,63,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,63
+Maharashtra,Yavatmal,2014,0,2,0,8,0,24,14,9,1,0,0,0,1,1,0,false,0,0,0,false,0,1,0,0,0,false,0,4,48,13,101,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,101
+Maharashtra,Total,2014,5,43,42,179,1,352,180,21,5,8,138,6,37,12,0,false,16,9,20,false,20,18,11,26,26,false,0,224,475,329,1763,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1768
+Manipur,Bishnupur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Manipur,Chandel,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Manipur,Churachandpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Manipur,C. I. D.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Manipur,Imphal East,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Manipur,Imphal West,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Manipur,Senapati,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Manipur,Tamenglong,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Manipur,Thoubal,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Manipur,Ukhrul,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Manipur,Total,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Meghalaya,Garo Hills East,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Garo Hills North,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Garo Hills South,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Garo Hills South West,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Garo Hills West,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Jaintia Hills West,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Jaintia Hills East,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Khasi Hills East,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Khasi Hills South West,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Khasi Hills West,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Ri-Bhoi,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Meghalaya,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Mizoram,Aizawl,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Mizoram,Champhai,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Mizoram,Kolasib,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Mizoram,Lawngtlai,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Mizoram,Lunglei,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Mizoram,Mamit,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Mizoram,Saiha,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Mizoram,Serchhip,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Mizoram,Spl Traffic,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Mizoram,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Dimapur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Kiphire,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Kohima,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Longleng,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Mokokchung,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Mon,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Peren,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Phek,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Tuensang,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Wokha,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Zunheboto,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Nagaland,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Odisha,Angul,2014,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,36,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,45
+Odisha,Balasore,2014,0,0,4,2,0,51,2,9,0,0,40,0,0,0,0,false,0,0,0,false,0,0,2,5,5,false,0,1,78,0,143,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,143
+Odisha,Baragarh,2014,0,0,0,6,0,6,4,0,0,1,1,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,5,26,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,44
+Odisha,Berhampur,2014,0,1,0,2,0,5,1,0,0,0,4,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,13,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,22
+Odisha,Bhadrak,2014,0,0,2,2,0,1,0,0,0,0,1,0,1,0,0,false,1,0,0,false,0,0,0,2,2,false,0,0,99,0,107,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,107
+Odisha,Bolangir,2014,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,2,2,false,0,0,35,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,221,221,false,0,267
+Odisha,Boudh,2014,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,19,19,false,0,0,2,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,24
+Odisha,Cuttack,2014,0,0,0,4,0,6,0,0,0,0,6,0,2,2,0,false,0,0,0,false,0,0,0,12,12,false,0,0,86,0,110,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,110
+Odisha,DCP BBSR,2014,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,6,6,false,0,0,70,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,80
+Odisha,DCP CTC,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,29,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,29
+Odisha,Deogarh,2014,0,1,0,3,0,2,1,0,1,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,14,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,20
+Odisha,Dhenkanal,2014,0,1,9,2,0,24,2,7,0,0,15,0,2,0,0,false,2,0,1,false,1,0,1,6,6,false,0,4,45,0,95,5,4,7,0,13,0,8,0,0,5,0,0,0,false,false,0,0,0,false,0,0,2,3,3,false,false,2,112,148,false,0,243
+Odisha,Gajapati,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,6,6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,12
+Odisha,Ganjam,2014,0,1,3,2,0,5,0,0,0,0,5,0,0,0,0,false,0,0,0,false,0,0,0,13,13,false,0,5,8,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,37
+Odisha,Jagatsinghpur,2014,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,7,7,false,0,0,64,0,77,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,77
+Odisha,Jajpur,2014,0,0,0,4,0,3,3,0,0,0,0,0,1,0,0,false,0,1,0,false,0,0,1,0,0,false,0,0,75,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,84
+Odisha,Jharsuguda,2014,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,1,0,0,0,false,0,0,13,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,16
+Odisha,Kalahandi,2014,0,0,0,8,0,0,0,0,0,0,0,0,1,0,0,false,1,0,0,false,0,0,0,16,16,false,0,0,20,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,45
+Odisha,Kandhamal,2014,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,false,0,3,0,false,0,0,0,9,9,false,0,0,7,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,22
+Odisha,Kendrapara,2014,0,1,5,3,0,12,8,3,0,0,1,0,1,0,0,false,1,0,0,false,0,0,0,2,2,false,0,5,75,0,104,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,104
+Odisha,Keonjhar,2014,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,19,19,false,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,22
+Odisha,Khurda,2014,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,9,9,false,0,0,55,0,67,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,67
+Odisha,Koraput,2014,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,18,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,21
+Odisha,Malkangiri,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,4,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,5
+Odisha,Mayurbhanj,2014,0,0,3,2,0,8,0,0,0,0,8,0,2,2,0,false,0,0,0,false,0,0,0,0,0,false,0,0,15,0,30,0,0,0,0,10,6,4,0,0,0,1,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,2,13,false,0,43
+Odisha,Nayagarh,2014,0,0,0,4,0,14,0,3,1,1,9,0,0,0,0,false,0,0,0,false,0,0,1,7,7,false,0,7,39,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,72
+Odisha,Nabarangpur,2014,0,0,1,2,0,1,0,1,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,5,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,10
+Odisha,Nuapada,2014,0,0,0,3,0,1,1,0,0,0,0,0,2,0,0,false,0,2,0,false,0,0,0,15,15,false,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,21
+Odisha,Puri,2014,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,0,127,0,132,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,132
+Odisha,Rayagada,2014,0,0,1,3,0,5,0,0,0,0,5,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,10,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,20
+Odisha,Rourkela,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,0,14,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,16
+Odisha,Sambalpur,2014,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,false,0,1,0,false,0,0,0,25,25,false,0,0,17,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,46
+Odisha,Sonepur,2014,0,0,0,2,0,4,0,1,0,0,3,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,3,6,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,15
+Odisha,SRP (Cuttack),2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Odisha,SRP (Rourkela),2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Odisha,Sundargarh,2014,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,0,14,0,16,11,12,11,0,21,2,1,0,0,18,0,6,6,false,false,0,0,0,false,0,1,1,3,3,false,false,0,161,227,false,0,243
+Odisha,Total,2014,0,6,31,97,0,149,23,24,2,2,98,0,16,4,0,false,5,7,1,false,1,1,13,178,178,false,0,32,1127,6,1657,16,16,18,0,44,8,13,0,0,23,1,6,6,false,false,0,0,0,false,0,1,3,6,6,false,false,2,496,609,false,0,2266
+Punjab,Amritsar Rural,2014,0,1,1,4,2,0,0,0,0,0,0,0,1,0,0,false,1,0,0,false,0,0,0,0,0,false,0,0,10,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,19
+Punjab,Barnala,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Punjab,Batala,2014,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Punjab,Bathinda,2014,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,9,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,12
+Punjab,CP Amritsar,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Punjab,CP Jalandhar,2014,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,4,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,6
+Punjab,CP Ludhiana,2014,0,1,0,1,0,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,5,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,9
+Punjab,Faridkot,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Punjab,Fatehgarh Sahib,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,4,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,7
+Punjab,Fazilka,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Punjab,Ferozepur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Punjab,G. R. P.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Punjab,Gurdaspur,2014,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Punjab,Hoshiarpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Punjab,Jalandhar Rural,2014,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Punjab,Kapurthala,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+Punjab,Khanna,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,4
+Punjab,Ludhiana Rural,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+Punjab,Mansa,2014,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,4
+Punjab,Moga,2014,0,1,0,2,1,1,1,0,0,0,0,0,1,0,0,false,1,0,0,false,0,0,0,0,0,false,0,0,3,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,12
+Punjab,Muktsar,2014,0,0,1,2,0,1,1,0,0,0,0,1,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,3,1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,10
+Punjab,Pathankot,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Punjab,Patiala,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Punjab,Ropar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Punjab,Sangrur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Punjab,SAS Nagar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,4,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,6
+Punjab,SBS Nagar,2014,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,4
+Punjab,Tarn Taran,2014,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,false,0,1,0,false,0,0,0,0,0,false,0,0,4,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,7
+Punjab,Total,2014,0,4,3,19,4,8,4,0,0,0,4,1,3,0,0,false,2,1,0,false,0,0,0,2,2,false,0,0,63,16,123,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,123
+Rajasthan,Ajmer,2014,0,4,0,10,0,3,0,0,0,0,3,0,8,2,0,false,1,5,0,false,0,0,1,1,1,false,0,0,245,11,283,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,283
+Rajasthan,Alwar,2014,0,7,5,21,11,20,0,0,0,0,20,0,0,0,0,false,0,0,0,false,0,0,1,4,4,false,0,0,368,1,438,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,438
+Rajasthan,Banswara,2014,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,false,0,1,0,false,0,0,0,0,0,false,0,0,13,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,16
+Rajasthan,Baran,2014,0,1,0,5,0,0,0,0,0,0,0,0,2,0,0,false,2,0,0,false,0,1,0,6,6,false,0,0,121,7,143,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,143
+Rajasthan,Barmer,2014,0,1,1,8,4,8,0,0,0,0,8,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,0,164,1,189,6,0,12,6,16,0,0,0,0,16,0,7,0,false,false,7,0,0,false,0,0,0,0,0,false,false,0,38,85,false,0,274
+Rajasthan,Bharatpur,2014,0,3,2,10,2,3,0,0,0,0,3,0,0,0,0,false,0,0,0,false,0,0,2,0,0,false,0,0,489,6,517,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,517
+Rajasthan,Bhilwara,2014,0,3,0,9,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,3,0,0,false,0,0,263,5,283,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,283
+Rajasthan,Bikaner,2014,0,5,0,18,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,7,7,false,0,0,256,5,291,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,291
+Rajasthan,Bundi,2014,0,2,0,4,0,6,0,0,0,0,6,0,0,0,0,false,0,0,0,false,0,0,0,3,3,false,0,0,76,2,93,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,93
+Rajasthan,Chittorgarh,2014,0,1,0,12,0,10,0,0,0,0,10,0,2,2,0,false,0,0,0,false,0,0,1,0,0,false,0,0,110,1,137,1,3,7,0,1,0,1,0,0,0,0,7,1,false,false,4,2,0,false,0,0,0,3,3,false,false,0,265,287,false,0,424
+Rajasthan,Churu,2014,0,3,0,11,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,172,4,190,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,190
+Rajasthan,Dausa,2014,0,1,0,2,0,0,0,0,0,0,0,0,2,0,0,false,0,2,0,false,0,0,0,0,0,false,0,0,126,0,131,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,131
+Rajasthan,Dholpur,2014,0,3,1,7,1,1,0,1,0,0,0,0,3,2,0,false,1,0,0,false,0,0,0,0,0,false,0,0,237,0,253,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,253
+Rajasthan,Dungarpur,2014,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,7,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,9
+Rajasthan,G.R.P.Ajmer,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Rajasthan,G.R.P.Jodhpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Rajasthan,Ganganagar,2014,0,6,12,38,0,20,3,0,0,0,17,0,10,2,0,false,1,7,0,false,0,0,0,13,12,true,0,0,336,5,440,0,1,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,10,11,false,0,451
+Rajasthan,Hanumangarh,2014,0,10,4,34,1,13,0,0,0,0,13,0,2,2,0,false,0,0,0,false,0,0,0,6,6,false,0,0,307,3,380,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,496,496,false,0,876
+Rajasthan,Jaipur East,2014,0,1,0,13,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,64,3,82,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,82
+Rajasthan,Jaipur North,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,24,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,24
+Rajasthan,Jaipur Rural,2014,0,3,0,9,1,3,2,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,2,2,2,false,0,0,152,2,174,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,174
+Rajasthan,Jaipur South,2014,0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,false,0,2,0,false,0,0,0,0,0,false,0,0,57,2,63,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,63
+Rajasthan,Jaipur West,2014,0,3,1,11,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,112,0,128,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,128
+Rajasthan,Jaisalmer,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,74,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,74
+Rajasthan,Jalore,2014,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,131,3,139,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,139
+Rajasthan,Jhalawar,2014,0,6,4,11,2,28,3,1,0,0,24,0,3,0,0,false,3,0,0,false,0,0,3,4,4,false,0,0,82,1,144,1,0,3,0,12,3,0,0,0,9,0,2,2,false,false,0,0,0,false,0,0,0,0,0,false,false,0,83,101,false,0,245
+Rajasthan,Jhunjhunu,2014,0,2,0,14,0,11,0,0,0,0,11,0,0,0,0,false,0,0,0,false,0,0,2,5,5,false,0,0,157,3,194,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,194
+Rajasthan,Jodhpur East,2014,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,38,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,43
+Rajasthan,Jodhpur West,2014,1,1,0,9,0,9,0,0,0,0,9,0,3,0,0,false,3,0,0,false,0,0,0,2,2,false,0,0,123,1,148,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,149
+Rajasthan,Jodhpur Rural,2014,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,54,1,57,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,57
+Rajasthan,Karauli,2014,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,152,0,158,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,158
+Rajasthan,Kota City,2014,0,0,5,7,0,18,5,0,0,0,13,0,0,0,0,false,0,0,0,false,0,0,0,4,4,false,0,0,40,0,74,2,1,4,1,7,1,0,0,0,6,0,4,0,false,false,2,2,0,false,0,0,0,1,1,false,false,0,30,50,false,0,124
+Rajasthan,Kota Rural,2014,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,1,1,false,0,0,85,1,96,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,96
+Rajasthan,Nagaur,2014,0,4,0,22,0,0,0,0,0,0,0,0,9,0,0,false,4,5,0,false,0,0,2,6,6,false,0,0,247,1,291,0,0,0,0,0,0,0,0,0,0,0,5,0,false,false,0,5,0,false,0,0,0,0,0,false,false,0,0,5,false,0,296
+Rajasthan,Pali,2014,0,1,0,9,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,219,6,235,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,235
+Rajasthan,Praapgarh,2014,0,0,0,1,0,5,2,0,0,0,3,0,2,0,0,false,1,1,0,false,0,0,0,0,0,false,0,1,32,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,41
+Rajasthan,Rajsamand,2014,0,0,0,2,0,1,0,0,0,1,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,62,1,66,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,66
+Rajasthan,Sawai Madhopur,2014,0,0,0,8,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,114,1,124,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,124
+Rajasthan,Sikar,2014,0,2,3,13,0,0,0,0,0,0,0,0,1,1,0,false,0,0,0,false,0,0,2,3,3,false,0,0,211,1,236,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,236
+Rajasthan,Sirohi,2014,0,2,0,2,0,2,0,0,0,0,2,0,1,0,0,false,1,0,0,false,0,0,0,1,1,false,0,0,59,0,67,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,67
+Rajasthan,Tonk,2014,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,0,179,6,189,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,189
+Rajasthan,Udaipur,2014,0,1,1,5,0,3,0,0,0,0,3,0,3,1,0,false,1,1,0,false,0,0,0,3,3,false,0,0,75,2,93,2,0,5,1,13,0,1,0,0,12,0,9,3,false,false,5,1,0,false,0,1,0,2,2,false,false,8,192,233,false,25,351
+Rajasthan,Total,2014,1,83,40,348,22,167,15,2,0,1,149,0,58,12,0,false,22,24,0,false,0,1,20,74,73,true,0,1,5833,87,6734,12,5,31,8,49,4,2,0,0,43,0,34,6,false,false,18,10,0,false,0,1,0,6,6,false,false,8,1114,1268,false,25,8028
+Sikkim,East,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,1,1,false,0,1
+Sikkim,North,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Sikkim,South,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,2,0,0,0,0,1,1,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,1,1,3,false,0,5
+Sikkim,West,2014,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,0,0,3,false,0,4
+Sikkim,CID,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Sikkim,Total,2014,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,3,0,0,2,0,1,1,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,1,2,7,false,0,10
+Tamil Nadu,Ariyalur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,13
+Tamil Nadu,Chennai,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,16
+Tamil Nadu,Coimbatore,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,29,29,0,1,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,1,5,7,false,0,36
+Tamil Nadu,Coimbatore City,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,9
+Tamil Nadu,Cuddalore,2014,0,4,5,1,0,3,0,0,0,0,3,0,0,0,0,false,0,0,0,false,0,0,2,0,0,false,0,15,23,0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,53
+Tamil Nadu,Dharmapuri,2014,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,24
+Tamil Nadu,Dindigul,2014,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,37,45,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,45
+Tamil Nadu,Erode,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,3,21,25,49,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,49
+Tamil Nadu,Kanchipuram,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,25
+Tamil Nadu,Kanyakumari,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,9,9,2,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,2,false,0,11
+Tamil Nadu,Karur,2014,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,2,0,25,30,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,30
+Tamil Nadu,Krishnagiri,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,13
+Tamil Nadu,Madurai,2014,0,3,0,4,0,2,2,0,0,0,0,0,4,0,0,false,4,0,0,false,0,0,1,0,0,false,0,0,167,2,183,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,3,0,0,0,false,false,0,6,9,false,3,195
+Tamil Nadu,Madurai City,2014,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,10,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,13
+Tamil Nadu,Nagapattinam,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,22
+Tamil Nadu,Namakkal,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,31,31,1,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,1,false,1,33
+Tamil Nadu,Nilgiris,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,4
+Tamil Nadu,Perambalur,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,17,18,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,18
+Tamil Nadu,Pudukottai,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,51,52,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,52
+Tamil Nadu,Ramnathapuram,2014,0,2,0,1,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,1,1,0,0,false,0,0,38,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,44
+Tamil Nadu,Railway Chennai,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Tamil Nadu,Railway Trichy,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Tamil Nadu,Salem,2014,0,2,0,2,0,0,0,0,0,0,0,0,1,1,0,false,0,0,0,false,0,0,0,0,0,false,0,3,17,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,25
+Tamil Nadu,Salem City,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,2,2,false,false,1,0,5,false,1,7
+Tamil Nadu,Sivagangai,2014,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,1,0,0,false,0,4,9,48,69,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,3,0,0,0,false,false,0,0,3,false,0,72
+Tamil Nadu,Thanjavur,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,52,53,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,5,5,false,0,58
+Tamil Nadu,Theni,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,50
+Tamil Nadu,Thirunelveli,2014,0,11,8,3,1,3,0,0,0,0,3,0,1,0,0,false,0,1,0,false,0,0,7,1,1,false,0,0,20,118,173,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,173
+Tamil Nadu,Thirunelveli City,2014,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,17,19,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,12,12,false,0,31
+Tamil Nadu,Thiruvallur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,16
+Tamil Nadu,Thiruvannamalai,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,52,52,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,52
+Tamil Nadu,Thiruvarur,2014,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,37,39,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,39
+Tamil Nadu,Thoothugudi,2014,0,7,8,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,35,53,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,53
+Tamil Nadu,Tiruppur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,37,37,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,37
+Tamil Nadu,Tiruppur City,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,5
+Tamil Nadu,Trichy,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,6,27,8,42,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,42
+Tamil Nadu,Trichy City,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,4
+Tamil Nadu,Vellore,2014,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,51,56,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,56
+Tamil Nadu,Villupuram,2014,0,1,5,5,0,4,0,0,0,0,4,0,1,0,0,false,1,0,0,false,0,0,3,3,3,false,0,6,47,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,75
+Tamil Nadu,Virudhunagar,2014,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,5,35,43,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,1,2,3,false,0,46
+Tamil Nadu,Cyber Cell,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Tamil Nadu,Other Units,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Tamil Nadu,Total,2014,8,43,36,33,1,13,2,0,0,0,11,0,7,1,0,false,5,1,0,false,0,1,15,4,4,false,0,39,388,906,1486,4,1,1,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,6,0,2,2,false,false,3,30,47,false,5,1546
+Telangana,Adilabad,2014,0,2,2,6,1,7,1,0,0,0,6,2,0,0,0,false,0,0,0,false,0,0,0,8,8,false,0,1,40,10,79,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,79
+Telangana,Cyberabad,2014,0,1,1,18,0,9,7,2,0,0,0,5,3,1,0,false,1,1,0,false,0,1,0,25,25,false,0,0,57,91,211,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,16,227
+Telangana,Hyderabad City,2014,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,8,143,160,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,160
+Telangana,Karimnagar,2014,0,2,2,3,0,3,1,0,0,2,0,0,1,1,0,false,0,0,0,false,0,0,0,25,25,false,0,2,177,80,295,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,295
+Telangana,Khammam,2014,0,0,0,6,0,6,1,0,0,0,5,1,0,0,0,false,0,0,0,false,0,0,1,7,7,false,0,1,36,3,61,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,61
+Telangana,Mahaboob Nagar,2014,0,2,0,14,0,10,0,0,0,0,10,0,0,0,0,false,0,0,0,false,0,0,0,34,34,false,0,0,87,13,160,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,160
+Telangana,Medak,2014,0,3,3,7,0,4,0,0,0,0,4,0,0,0,0,false,0,0,0,false,0,1,0,8,8,false,0,0,34,15,75,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,75
+Telangana,Nalgonda,2014,0,2,6,14,2,20,3,3,0,5,9,7,5,1,0,false,0,4,0,false,0,0,0,0,0,false,0,0,109,29,194,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,20,20,false,false,0,0,20,false,0,214
+Telangana,Nizamabad,2014,0,0,2,2,0,4,0,0,0,1,3,1,1,0,0,false,1,0,0,false,0,0,0,5,5,false,0,2,25,2,44,11,3,6,1,16,2,2,0,0,12,8,4,1,false,false,1,2,0,false,0,0,1,2,2,false,false,3,174,229,false,0,273
+Telangana,Ranga Reddy,2014,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,4,4,false,0,0,6,50,68,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,68
+Telangana,Secunderabad Railway,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Telangana,Warangal,2014,0,0,0,1,0,2,0,0,0,0,2,0,1,0,0,false,1,0,0,false,0,0,0,12,12,false,0,0,16,9,41,0,0,0,0,2,0,0,0,0,2,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,2,false,0,43
+Telangana,Warangal Urban,2014,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,4,4,false,0,0,27,6,39,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,39
+Telangana,Total,2014,0,15,16,87,3,65,13,5,0,8,39,16,11,3,0,false,3,5,0,false,0,2,1,132,132,false,0,6,622,451,1427,11,3,6,1,18,2,2,0,0,14,8,4,1,false,false,1,2,0,false,0,0,1,22,22,false,false,3,174,251,false,16,1694
+Tripura,Dhalai,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,5,5,false,false,0,3,11,false,0,11
+Tripura,Gomati,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Tripura,G. R. P.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Tripura,Kowai,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,1,0,3,0,3,0,0,0,0,1,0,false,false,1,0,0,false,0,0,0,7,7,false,false,0,0,12,false,0,12
+Tripura,North,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,3,0,false,false,1,2,0,false,0,0,1,4,4,false,false,0,14,24,false,0,24
+Tripura,Sipahijala,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Tripura,South,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Tripura,Unakoti,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Tripura,West,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,1,2
+Tripura,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,1,0,3,0,5,1,3,0,0,1,0,4,0,false,false,2,2,0,false,0,0,1,16,16,false,false,0,17,47,false,1,49
+Uttar Pradesh,Agra,2014,0,12,0,9,0,65,52,0,3,10,0,0,6,6,0,false,0,0,0,false,0,0,0,16,16,false,0,0,49,0,157,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,157
+Uttar Pradesh,Aligarh,2014,0,13,6,15,6,22,6,1,0,0,15,0,7,7,0,false,0,0,0,false,0,0,0,13,13,false,0,27,78,0,187,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,187
+Uttar Pradesh,Allahabad,2014,0,13,0,11,0,0,0,0,0,0,0,0,16,16,0,false,0,0,0,false,0,0,1,19,19,false,0,0,281,0,341,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,341
+Uttar Pradesh,Ambedkar Nagar,2014,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,34,40,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,40
+Uttar Pradesh,Amethi,2014,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,125,134,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,134
+Uttar Pradesh,Amroha,2014,0,2,0,6,0,0,0,0,0,0,0,0,3,0,0,false,3,0,0,false,0,0,0,1,1,false,0,0,56,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,68
+Uttar Pradesh,Auraiya,2014,0,1,0,2,0,17,10,5,0,2,0,0,3,0,0,false,3,0,0,false,0,0,1,0,0,false,0,0,72,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,96
+Uttar Pradesh,Azamgarh,2014,0,4,0,8,0,0,0,0,0,0,0,0,5,5,0,false,0,0,0,false,0,0,0,7,7,false,0,0,84,0,108,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,108
+Uttar Pradesh,Badaun,2014,0,1,7,5,2,9,9,0,0,0,0,0,6,0,0,false,6,0,0,false,0,0,1,3,3,false,0,0,32,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,66
+Uttar Pradesh,Baghpat,2014,0,4,0,3,0,5,0,0,0,5,0,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,0,12,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,26
+Uttar Pradesh,Bahraich,2014,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,163,171,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,171
+Uttar Pradesh,Ballia,2014,0,1,0,3,1,4,3,1,0,0,0,0,4,0,0,false,4,0,0,false,0,0,1,6,6,false,0,18,26,26,90,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,90
+Uttar Pradesh,Balrampur,2014,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,false,3,0,0,false,0,0,0,2,2,false,0,0,1,38,47,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,47
+Uttar Pradesh,Banda,2014,0,2,3,13,0,14,0,0,0,0,14,0,9,2,0,false,7,0,0,false,0,0,1,5,5,false,0,8,57,68,180,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,180
+Uttar Pradesh,Barabanki,2014,0,4,2,7,0,11,4,2,0,0,5,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,142,0,166,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,166
+Uttar Pradesh,Bareilly,2014,0,6,4,5,8,32,32,0,0,0,0,0,11,4,0,false,7,0,0,false,0,0,0,0,0,false,0,0,34,99,199,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,199
+Uttar Pradesh,Basti,2014,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,0,42,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,46
+Uttar Pradesh,Bijnor,2014,0,1,0,10,1,8,8,0,0,0,0,0,5,0,0,false,5,0,0,false,0,0,0,0,0,false,0,1,34,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,60
+Uttar Pradesh,Bulandshahar,2014,0,9,3,8,2,5,2,1,0,0,2,0,9,3,0,false,0,6,0,false,0,0,0,2,2,false,0,3,83,0,124,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,124
+Uttar Pradesh,Chandoli,2014,0,1,0,7,0,6,4,0,0,2,0,0,1,0,0,false,1,0,0,false,0,0,1,2,2,false,0,1,10,66,95,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,95
+Uttar Pradesh,Chitrakoot,2014,0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,12,74,94,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,94
+Uttar Pradesh,Deoria,2014,0,1,0,1,0,0,0,0,0,0,0,0,10,0,2,false,8,0,0,false,0,0,1,0,0,false,0,0,69,0,82,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,82
+Uttar Pradesh,Etah,2014,0,1,0,8,1,2,0,1,0,0,1,0,6,0,0,false,6,0,0,false,0,0,1,21,21,false,0,0,51,0,91,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,91
+Uttar Pradesh,Etawah,2014,0,2,0,6,0,2,1,1,0,0,0,0,4,4,0,false,0,0,0,false,0,0,0,4,4,false,0,0,35,0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,53
+Uttar Pradesh,Faizabad,2014,0,0,0,6,0,0,0,0,0,0,0,0,1,0,0,false,1,0,0,false,0,0,0,1,1,false,0,0,0,84,92,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,92
+Uttar Pradesh,Fatehgarh,2014,0,1,0,3,0,0,0,0,0,0,0,0,4,0,0,false,4,0,0,false,0,0,0,0,0,false,0,0,95,0,103,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,103
+Uttar Pradesh,Fatehpur,2014,0,3,2,9,0,12,8,4,0,0,0,0,17,16,0,false,0,1,1,false,1,1,1,16,16,false,0,8,87,1,158,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,158
+Uttar Pradesh,Firozabad,2014,0,4,4,6,1,3,1,1,0,1,0,0,10,0,0,false,10,0,0,false,0,0,0,7,7,false,0,17,36,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,88
+Uttar Pradesh,G. R. P.,2014,0,3,0,2,0,0,0,0,0,0,0,0,1,0,0,false,1,0,0,false,0,0,0,0,0,false,0,1,2,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,12
+Uttar Pradesh,Gautambudh Nagar,2014,0,4,0,7,0,0,0,0,0,0,0,0,2,0,0,false,2,0,0,false,0,0,0,3,3,false,0,0,31,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,47
+Uttar Pradesh,Ghaziabad,2014,0,8,0,4,0,8,4,1,0,3,0,0,9,2,1,false,6,0,0,false,0,2,0,1,1,false,0,0,49,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,81
+Uttar Pradesh,Ghazipur,2014,0,3,0,3,0,0,0,0,0,0,0,0,6,0,0,false,6,0,0,false,0,0,1,3,3,false,0,0,43,40,99,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,99
+Uttar Pradesh,Gonda,2014,0,2,0,6,0,0,0,0,0,0,0,0,1,0,0,false,1,0,0,false,0,0,2,3,3,false,0,0,0,84,98,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,98
+Uttar Pradesh,Gorakhpur,2014,0,12,0,10,0,0,0,0,0,0,0,0,15,0,0,false,15,0,0,false,0,0,0,3,3,false,0,0,0,157,197,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,197
+Uttar Pradesh,Hamirpur,2014,0,2,0,3,0,0,0,0,0,0,0,0,7,0,0,false,7,0,0,false,0,0,1,5,5,false,0,0,29,26,73,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,73
+Uttar Pradesh,Hapur,2014,0,3,2,2,1,3,1,0,0,1,1,0,2,2,0,false,0,0,0,false,0,0,0,2,2,false,0,5,13,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,33
+Uttar Pradesh,Hardoi,2014,0,1,3,7,2,20,2,0,0,1,17,0,2,0,1,false,1,0,0,false,0,0,1,17,17,false,0,24,53,51,181,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,181
+Uttar Pradesh,Hathras,2014,0,1,1,5,2,9,8,1,0,0,0,0,6,0,0,false,6,0,0,false,0,0,2,9,9,false,0,14,18,0,67,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,67
+Uttar Pradesh,Jalaun,2014,0,2,0,3,0,0,0,0,0,0,0,0,2,0,0,false,0,2,0,false,0,0,0,2,2,false,0,0,52,20,81,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,81
+Uttar Pradesh,Jaunpur,2014,0,4,0,3,0,0,0,0,0,0,0,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,0,128,12,149,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,149
+Uttar Pradesh,Jhansi,2014,0,7,12,2,1,5,5,0,0,0,0,0,8,7,0,true,0,0,0,false,0,0,1,1,1,false,0,0,0,87,124,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,124
+Uttar Pradesh,Kannauj,2014,0,3,0,3,0,3,3,0,0,0,0,0,5,0,0,false,5,0,0,false,0,0,0,0,0,false,0,0,71,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,85
+Uttar Pradesh,Kanpur Dehat,2014,0,2,0,3,0,2,0,0,0,0,2,0,9,0,0,false,9,0,0,false,0,0,1,15,15,false,0,0,62,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,94
+Uttar Pradesh,Kanpur Nagar,2014,0,7,0,16,0,0,0,0,0,0,0,0,15,0,0,false,4,11,0,false,0,0,0,3,3,false,0,26,166,0,233,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,233
+Uttar Pradesh,Kasganj,2014,0,0,0,2,0,6,6,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,3,3,false,0,2,16,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,29
+Uttar Pradesh,Kaushambi,2014,0,3,0,6,0,14,14,0,0,0,0,0,3,0,0,false,3,0,0,false,0,0,1,10,10,false,0,0,61,0,98,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,98
+Uttar Pradesh,Khiri,2014,0,7,0,9,0,14,0,0,0,0,14,0,8,0,0,false,8,0,0,false,0,0,0,24,24,false,0,0,45,57,164,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,164
+Uttar Pradesh,Kushi Nagar,2014,0,2,0,5,0,6,6,0,0,0,0,0,6,0,0,false,6,0,0,false,0,0,0,23,23,false,0,9,55,0,106,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,106
+Uttar Pradesh,Lalitpur,2014,0,1,0,5,0,0,0,0,0,0,0,0,6,0,0,false,6,0,0,false,0,0,0,2,2,false,0,0,13,32,59,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,59
+Uttar Pradesh,Lucknow,2014,0,9,0,10,1,7,4,3,0,0,0,0,5,5,0,false,0,0,0,false,0,0,0,9,9,false,0,0,138,66,245,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,6,6,false,3,254
+Uttar Pradesh,Maharajganj,2014,0,6,0,8,0,0,0,0,0,0,0,0,11,0,0,false,11,0,0,false,0,0,1,1,1,false,0,0,32,6,65,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,65
+Uttar Pradesh,Mahoba,2014,0,1,0,2,0,4,2,1,0,0,1,0,1,0,0,false,1,0,0,false,0,0,0,0,0,false,0,0,29,34,71,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,71
+Uttar Pradesh,Mainpuri,2014,0,2,0,4,0,0,0,0,0,0,0,0,5,0,0,false,5,0,0,false,0,0,0,4,4,false,0,0,39,17,71,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,71
+Uttar Pradesh,Mathura,2014,0,0,0,6,0,0,0,0,0,0,0,0,1,1,0,false,0,0,0,false,0,0,0,0,0,false,0,0,95,0,102,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,102
+Uttar Pradesh,Mau,2014,0,0,0,2,1,4,4,0,0,0,0,0,3,0,0,false,3,0,0,false,0,0,1,6,6,false,0,0,24,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,41
+Uttar Pradesh,Meerut,2014,0,3,0,18,0,0,0,0,0,0,0,0,12,0,0,false,12,0,0,false,0,1,0,9,9,false,0,0,105,0,148,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,148
+Uttar Pradesh,Mirzapur,2014,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,0,19,25,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,25
+Uttar Pradesh,Moradabad,2014,0,2,0,7,0,0,0,0,0,0,0,0,2,0,0,false,0,2,0,false,0,0,0,2,2,false,0,0,45,0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,58
+Uttar Pradesh,Muzaffarnagar,2014,0,9,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,43,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,54
+Uttar Pradesh,Pilibhit,2014,0,1,0,7,0,13,0,1,0,2,10,0,8,0,1,false,7,0,0,false,0,0,0,0,0,false,0,0,93,0,122,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,122
+Uttar Pradesh,Pratapgarh,2014,0,3,0,11,0,7,7,0,0,0,0,0,10,0,0,false,10,0,0,false,0,0,3,11,11,false,0,12,215,0,272,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,272
+Uttar Pradesh,Raibareilly,2014,0,0,1,14,0,2,0,0,0,2,0,0,10,0,0,false,10,0,0,false,0,0,1,14,14,false,0,0,53,55,150,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,150
+Uttar Pradesh,Rampur,2014,0,1,1,4,0,0,0,0,0,0,0,0,5,5,0,false,0,0,0,false,0,0,0,0,0,false,0,2,21,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,34
+Uttar Pradesh,Saharanpur,2014,0,8,8,16,2,6,2,2,0,0,2,0,2,0,0,false,2,0,0,false,0,0,0,8,8,false,0,17,17,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,84
+Uttar Pradesh,Sambhal,2014,0,1,0,6,0,0,0,0,0,0,0,0,7,0,0,false,7,0,0,false,0,0,0,0,0,false,0,0,36,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,50
+Uttar Pradesh,Sant Kabirnagar,2014,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,false,3,0,0,false,0,0,0,0,0,false,0,0,55,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,61
+Uttar Pradesh,Shahjahanpur,2014,0,5,0,7,0,0,0,0,0,0,0,0,5,0,0,false,5,0,0,false,0,0,1,5,5,false,0,0,89,0,112,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,112
+Uttar Pradesh,Shamli,2014,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,6,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,11
+Uttar Pradesh,Shrawasti,2014,0,1,0,1,0,1,0,0,0,0,1,0,2,0,0,false,2,0,0,false,0,0,0,0,0,false,0,0,0,73,78,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,78
+Uttar Pradesh,Sidharthnagar,2014,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,33,39,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,39
+Uttar Pradesh,Sitapur,2014,0,6,0,14,0,32,32,0,0,0,0,0,8,0,0,false,8,0,0,false,0,0,3,13,13,false,0,36,247,0,359,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,359
+Uttar Pradesh,Sonbhadra,2014,0,3,0,7,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,22,32,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,32
+Uttar Pradesh,St.Ravidasnagar,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,12,13,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,13
+Uttar Pradesh,Sultanpur,2014,0,2,0,4,0,0,0,0,0,0,0,0,5,0,0,false,5,0,0,false,0,0,2,8,8,false,0,0,57,51,129,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,129
+Uttar Pradesh,Unnao,2014,0,0,0,11,0,37,10,4,0,0,23,0,19,0,0,false,19,0,0,false,0,0,0,0,0,false,0,31,152,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,250
+Uttar Pradesh,Varanasi,2014,0,3,0,2,0,6,4,2,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,4,0,102,118,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,118
+Uttar Pradesh,Total,2014,0,241,60,459,32,427,254,32,3,30,108,0,383,85,5,true,270,22,1,false,1,4,31,348,348,false,0,266,3977,1837,8066,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,6,6,false,3,8075
+Uttarakhand,Almora,2014,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,4
+Uttarakhand,Bageshwar,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+Uttarakhand,Chamoli,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+Uttarakhand,Champawat,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Uttarakhand,Dehradun,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,1,5
+Uttarakhand,Haridwar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Uttarakhand,Nainital,2014,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,6
+Uttarakhand,Pauri Garhwal,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,6
+Uttarakhand,Pithoragarh,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,1,0,0,0,false,0,4,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,6
+Uttarakhand,Rudra Prayag,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Uttarakhand,Tehri Garhwal,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Uttarakhand,Udhamsingh Nagar,2014,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,0,21,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,24
+Uttarakhand,Uttarkashi,2014,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Uttarakhand,Total,2014,0,3,0,2,0,1,0,0,0,0,1,0,0,0,0,false,0,0,0,false,0,1,0,1,1,false,0,4,26,22,60,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,1,61
+West Bengal,North 24 Parganas,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+West Bengal,South 24 Parganas,2014,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,4
+West Bengal,Alipurduar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+West Bengal,Asansol-Durgapur PC,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,13
+West Bengal,Bankura,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,7
+West Bengal,Barrackpur PC,2014,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,3,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,8
+West Bengal,Bidhannagar PC,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+West Bengal,Birbhum,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+West Bengal,Burdwan,2014,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,2,0,2,0,0,1,1,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,1,13,17,false,0,19
+West Bengal,Coochbehar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+West Bengal,Dakshin Dinajpur,2014,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+West Bengal,Darjeeling,2014,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,4,2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,8
+West Bengal,Hooghly,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,2,2,false,2,6
+West Bengal,Howrah G. R. P.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+West Bengal,Howrah PC,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+West Bengal,Howrah Rural,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+West Bengal,Jalpaiguri,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+West Bengal,Jhargram Police District,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+West Bengal,Kharagpur G. R. P.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+West Bengal,Kolkata,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,9
+West Bengal,Malda,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+West Bengal,Murshidabad,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+West Bengal,Nadia,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+West Bengal,Paschim Medinipur,2014,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,1,1,false,0,2,5,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,9,20
+West Bengal,Purab Medinipur,2014,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,2,18,4,26,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,26
+West Bengal,Purulia,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+West Bengal,Sealdah G. R. P.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+West Bengal,Siliguri G. R. P.,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+West Bengal,Siliguri PC,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+West Bengal,Uttar Dinajpur,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,2,2,false,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,0,1,2,false,0,5
+West Bengal,Total,2014,0,1,1,4,0,5,2,1,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,5,5,false,0,5,47,43,111,0,2,0,0,1,1,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,1,1,false,false,1,16,21,false,11,143
+A&N Islands,South Andaman,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+A&N Islands,North & Middle Andaman,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+A&N Islands,Nicobar,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+A&N Islands,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Chandigarh,Chandigarh,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+Chandigarh,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,1
+D&N Haveli,D&N Haveli,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+D&N Haveli,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Daman & Diu,Daman,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Daman & Diu,Diu,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Daman & Diu,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Delhi UT,Central,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Delhi UT,Crime Branch,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Delhi UT,East,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,3
+Delhi UT,EOW,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Delhi UT,IGI Airport,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Delhi UT,Metro,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Delhi UT,New Delhi,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Delhi UT,North,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,2
+Delhi UT,North-East,2014,0,0,0,1,0,6,5,1,0,0,0,0,0,0,0,false,0,0,0,false,0,1,0,0,0,false,0,0,3,2,13,0,0,1,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,1,false,0,14
+Delhi UT,North-West,2014,0,0,1,0,0,2,1,1,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,7
+Delhi UT,Outer,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,5,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,8
+Delhi UT,RAILWAY,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Delhi UT,South,2014,0,1,0,2,0,7,7,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,10,3,23,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,23
+Delhi UT,South-East,2014,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,2,5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,9
+Delhi UT,South-West,2014,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,3,10,15,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,15
+Delhi UT,Spl Cell,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Delhi UT,SPUWAC,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Delhi UT,Vigilance,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Delhi UT,West,2014,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,4
+Delhi UT,Total,2014,0,1,1,3,0,21,16,3,0,0,2,0,0,0,0,false,0,0,0,false,0,1,0,0,0,false,0,0,26,33,86,0,0,1,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,1,false,0,87
+Lakshadweep,Lakshadweep,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Lakshadweep,Total,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Puducherry,Karaikal,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,0
+Puducherry,Puducherry,2014,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,14
+Puducherry,Total,2014,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,false,0,0,0,false,0,0,0,0,0,false,0,1,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,0,0,0,false,0,0,0,0,0,false,false,0,0,0,false,0,14

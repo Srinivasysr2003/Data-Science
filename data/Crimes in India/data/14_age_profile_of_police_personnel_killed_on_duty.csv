@@ -1,0 +1,351 @@
+area_name,year,age_18_25_yrs,age_25_35_yrs,age_35_45_yrs,age_45_55_yrs,age_above_55_yrs,age_total
+Jammu & Kashmir,2001,52,67,24,7,0,150
+Chhattisgarh,2010,8,54,18,2,0,82
+Jammu & Kashmir,2004,4,48,9,4,0,65
+Jammu & Kashmir,2002,27,43,18,8,0,96
+Chhattisgarh,2007,10,38,27,4,1,80
+Punjab,2003,7,37,40,23,2,109
+Maharashtra,2009,11,37,55,45,4,152
+Uttar Pradesh,2006,2,36,44,35,6,123
+Chhattisgarh,2009,30,36,33,3,1,103
+Uttar Pradesh,2004,20,35,34,19,3,111
+Jharkhand,2008,0,34,5,3,0,42
+Punjab,2001,10,33,21,30,1,95
+Maharashtra,2003,4,32,28,15,2,81
+Uttar Pradesh,2007,2,31,51,48,10,142
+Jammu & Kashmir,2003,8,30,11,5,1,55
+Uttar Pradesh,2003,1,30,50,24,1,106
+Maharashtra,2005,3,28,56,17,1,105
+Punjab,2005,2,28,33,27,4,94
+Uttar Pradesh,2008,4,27,45,36,6,118
+Uttar Pradesh,2009,2,27,31,42,13,115
+Jharkhand,2010,0,27,13,13,2,55
+Andhra Pradesh,2001,8,26,25,11,0,70
+Delhi,2001,7,25,18,4,0,54
+Maharashtra,2001,6,25,20,17,1,69
+Uttar Pradesh,2005,2,25,49,30,12,118
+Jammu & Kashmir,2006,6,25,23,4,1,59
+Andhra Pradesh,2004,1,24,20,14,2,61
+Jammu & Kashmir,2005,7,24,13,3,0,47
+Maharashtra,2010,3,24,35,35,0,97
+Andhra Pradesh,2002,2,23,18,12,0,55
+Maharashtra,2002,2,23,22,13,0,60
+Punjab,2004,5,23,37,24,4,93
+Jharkhand,2001,2,22,8,12,0,44
+Andhra Pradesh,2003,5,22,20,4,0,51
+Maharashtra,2004,1,22,49,10,3,85
+Punjab,2006,1,22,45,31,0,99
+Tamil Nadu,2009,0,21,24,32,3,80
+Rajasthan,2003,2,20,10,8,0,40
+Jharkhand,2009,0,20,26,5,2,53
+Gujarat,2002,3,19,18,15,3,58
+Rajasthan,2006,5,19,10,3,5,42
+Maharashtra,2007,1,18,28,28,2,77
+Rajasthan,2007,3,18,9,21,0,51
+Chhattisgarh,2008,4,18,15,2,0,39
+Uttar Pradesh,2010,3,18,44,33,7,105
+Punjab,2002,6,17,31,19,0,73
+Rajasthan,2002,1,17,10,4,1,33
+Rajasthan,2004,2,17,20,7,0,46
+Maharashtra,2006,4,17,52,22,4,99
+Maharashtra,2008,4,16,33,32,2,87
+Jammu & Kashmir,2008,2,15,5,5,0,27
+Tamil Nadu,2010,5,15,17,26,4,67
+Rajasthan,2005,3,14,10,4,1,32
+Assam,2007,0,14,12,4,1,31
+Madhya Pradesh,2007,3,14,10,10,4,41
+Haryana,2008,3,14,9,3,0,29
+Gujarat,2001,2,13,16,7,0,38
+Uttar Pradesh,2002,4,13,41,19,3,80
+Chhattisgarh,2003,2,13,8,3,1,27
+Chhattisgarh,2006,2,13,12,3,0,30
+Gujarat,2010,1,13,18,22,3,57
+Punjab,2010,0,13,67,23,7,110
+Assam,2001,2,12,13,5,2,34
+Rajasthan,2001,2,12,9,3,0,26
+Gujarat,2003,1,12,28,20,3,64
+Madhya Pradesh,2004,2,12,14,5,2,35
+Manipur,2004,1,12,4,1,0,18
+Tamil Nadu,2004,0,12,19,14,5,50
+Andhra Pradesh,2006,2,12,18,15,2,49
+Jammu & Kashmir,2007,2,12,6,6,1,27
+Haryana,2009,1,12,16,13,3,45
+Rajasthan,2009,2,12,16,7,1,38
+Uttar Pradesh,2001,2,11,21,18,5,57
+West Bengal,2002,3,11,10,3,0,27
+Bihar,2003,0,11,10,7,0,28
+Andhra Pradesh,2005,0,11,17,19,1,48
+Jharkhand,2005,0,11,0,1,0,12
+Tamil Nadu,2007,0,11,19,19,3,52
+Rajasthan,2008,3,11,19,12,3,48
+Andhra Pradesh,2010,0,11,16,19,0,46
+Haryana,2002,0,10,14,7,1,32
+Jharkhand,2002,7,10,9,4,4,34
+Madhya Pradesh,2002,1,10,17,11,0,39
+Haryana,2004,1,10,17,10,0,38
+Jharkhand,2004,7,10,9,4,4,34
+Haryana,2005,0,10,23,21,0,54
+Punjab,2007,1,10,42,35,6,94
+Andhra Pradesh,2008,0,10,17,3,0,30
+Punjab,2008,0,10,55,24,0,89
+Andhra Pradesh,2009,2,10,13,22,3,50
+Uttarakhand,2009,1,10,5,2,0,18
+West Bengal,2001,0,9,5,3,1,18
+Gujarat,2004,1,9,33,16,2,61
+Tripura,2004,0,9,2,0,0,11
+Karnataka,2005,0,9,3,4,1,17
+Gujarat,2006,0,9,17,14,3,43
+Tamil Nadu,2006,4,9,15,15,2,45
+Karnataka,2007,0,9,7,8,1,25
+Jammu & Kashmir,2010,2,9,12,2,0,25
+Uttarakhand,2010,2,9,1,3,0,15
+Meghalaya,2001,0,8,6,0,0,14
+Tripura,2001,5,8,3,1,0,17
+Meghalaya,2002,0,8,1,0,0,9
+Tamil Nadu,2002,0,8,22,13,0,43
+Manipur,2003,3,8,0,0,0,11
+Bihar,2005,0,8,15,6,4,33
+Gujarat,2005,1,8,17,20,2,48
+Delhi,2006,2,8,16,5,3,34
+Gujarat,2007,2,8,19,12,6,47
+Haryana,2007,1,8,14,13,0,36
+Jammu & Kashmir,2009,2,8,7,2,1,20
+Rajasthan,2010,7,8,19,9,1,44
+Odisha,2001,0,7,3,1,0,11
+Tamil Nadu,2001,3,7,11,13,0,34
+Chhattisgarh,2002,1,7,6,0,1,15
+Jharkhand,2003,4,7,3,2,2,18
+Tripura,2003,30,7,2,0,0,39
+Chhattisgarh,2005,0,7,4,3,0,14
+Madhya Pradesh,2005,1,7,31,3,1,43
+Uttarakhand,2005,1,7,5,4,0,17
+Andhra Pradesh,2007,3,7,17,12,0,39
+Gujarat,2008,0,7,18,21,4,50
+Karnataka,2008,0,7,11,2,3,23
+Odisha,2008,3,7,2,3,0,15
+Tripura,2002,34,6,2,0,0,42
+Haryana,2003,4,6,10,8,1,29
+Karnataka,2003,3,6,6,13,0,28
+West Bengal,2003,0,6,5,3,4,18
+Assam,2004,0,6,3,0,0,9
+Haryana,2006,4,6,21,23,0,54
+Madhya Pradesh,2006,0,6,19,3,2,30
+West Bengal,2006,0,6,12,5,2,25
+Kerala,2007,0,6,3,8,0,17
+Mizoram,2007,1,6,3,1,0,11
+Madhya Pradesh,2008,0,6,10,6,1,23
+Tamil Nadu,2008,0,6,14,18,8,46
+Haryana,2010,1,6,9,10,0,26
+Odisha,2010,1,6,3,2,0,12
+Bihar,2001,1,5,4,4,0,14
+Delhi,2002,1,5,7,1,0,14
+Karnataka,2002,0,5,4,8,2,19
+Madhya Pradesh,2003,0,5,16,5,3,29
+Odisha,2003,0,5,8,4,0,17
+Chhattisgarh,2004,1,5,5,4,2,17
+Tamil Nadu,2005,0,5,17,22,1,45
+Odisha,2006,0,5,6,1,0,12
+Sikkim,2007,0,5,0,0,0,5
+Gujarat,2009,0,5,14,28,2,49
+Karnataka,2009,0,5,8,6,2,21
+Odisha,2009,1,5,9,9,1,25
+West Bengal,2009,0,5,6,8,3,22
+Madhya Pradesh,2010,1,5,15,9,1,31
+Chhattisgarh,2001,0,4,7,8,0,19
+Haryana,2001,0,4,8,4,0,16
+Madhya Pradesh,2001,0,4,1,5,0,10
+Uttarakhand,2001,0,4,3,0,0,7
+Karnataka,2004,1,4,8,8,2,23
+West Bengal,2004,0,4,7,5,0,16
+Assam,2006,0,4,11,4,0,19
+Manipur,2006,0,4,1,2,0,7
+Bihar,2007,2,4,17,2,2,27
+Delhi,2009,4,4,1,1,0,10
+Madhya Pradesh,2009,1,4,13,7,4,29
+Punjab,2009,0,4,33,26,3,66
+Karnataka,2010,0,4,10,7,1,22
+Delhi,2004,2,3,3,2,0,10
+Odisha,2005,0,3,4,0,0,7
+Tripura,2005,0,3,3,2,0,8
+Karnataka,2006,1,3,3,2,0,9
+Himachal Pradesh,2007,0,3,2,2,0,7
+Jharkhand,2007,0,3,3,6,0,12
+Kerala,2008,0,3,3,2,0,8
+West Bengal,2008,0,3,6,3,4,16
+Karnataka,2001,0,2,8,4,0,14
+Manipur,2001,0,2,2,0,0,4
+Bihar,2002,1,2,6,8,0,17
+Assam,2003,0,2,0,0,0,2
+Delhi,2003,3,2,3,4,0,12
+Meghalaya,2003,1,2,1,0,0,4
+Andaman & Nicobar Islands,2004,0,2,1,0,0,3
+Odisha,2004,0,2,2,4,0,8
+Delhi,2005,0,2,7,2,1,12
+West Bengal,2005,0,2,9,10,2,23
+Bihar,2006,0,2,4,8,0,14
+Jharkhand,2006,16,2,4,3,0,25
+Tripura,2006,3,2,5,1,0,11
+Uttarakhand,2006,2,2,1,1,0,6
+Tripura,2007,6,2,5,0,0,13
+Bihar,2008,1,2,12,23,0,38
+Delhi,2008,0,2,4,7,0,13
+Meghalaya,2008,0,2,0,1,0,3
+Mizoram,2008,1,2,0,0,1,4
+Tripura,2008,0,2,0,0,0,2
+Kerala,2009,0,2,7,4,0,13
+Tripura,2009,0,2,0,0,0,2
+Tripura,2010,0,2,0,0,0,2
+West Bengal,2010,0,2,10,10,3,25
+Kerala,2001,0,1,1,2,0,4
+Assam,2002,0,1,12,4,1,18
+Chandigarh,2002,0,1,1,0,0,2
+Manipur,2002,2,1,0,0,0,3
+Nagaland,2002,0,1,2,0,0,3
+Odisha,2002,0,1,5,0,1,7
+Chandigarh,2003,0,1,1,2,0,4
+Kerala,2003,0,1,0,1,0,2
+Sikkim,2003,0,1,0,0,0,1
+Tamil Nadu,2003,0,1,14,14,3,32
+Uttarakhand,2003,7,1,2,2,0,12
+Bihar,2004,0,1,10,6,0,17
+Meghalaya,2004,0,1,0,0,0,1
+Assam,2005,0,1,6,2,0,9
+Chandigarh,2005,0,1,2,0,0,3
+Kerala,2005,0,1,7,1,0,9
+Manipur,2005,0,1,1,0,0,2
+Meghalaya,2005,1,1,0,0,0,2
+Sikkim,2005,0,1,0,0,0,1
+Kerala,2006,0,1,0,0,0,1
+Sikkim,2006,0,1,0,0,0,1
+Delhi,2007,0,1,11,8,1,21
+Meghalaya,2007,0,1,0,0,0,1
+Uttarakhand,2007,2,1,3,0,0,6
+West Bengal,2007,0,1,5,4,1,11
+Andaman & Nicobar Islands,2008,0,1,0,0,0,1
+Manipur,2008,0,1,0,0,0,1
+Uttarakhand,2008,2,1,3,0,0,6
+Manipur,2009,0,1,0,0,0,1
+Assam,2010,0,1,9,3,0,13
+Bihar,2010,0,1,10,3,1,15
+Delhi,2010,1,1,5,2,0,9
+Himachal Pradesh,2010,0,1,2,1,1,5
+Kerala,2010,0,1,2,2,0,5
+Manipur,2010,0,1,0,0,0,1
+Andaman & Nicobar Islands,2001,0,0,0,0,0,0
+Arunachal Pradesh,2001,0,0,1,0,0,1
+Chandigarh,2001,0,0,3,0,0,3
+Dadra & Nagar Haveli,2001,0,0,0,0,0,0
+Daman & Diu,2001,0,0,0,0,0,0
+Goa,2001,0,0,1,0,0,1
+Himachal Pradesh,2001,0,0,2,0,0,2
+Lakshadweep,2001,0,0,0,0,0,0
+Mizoram,2001,0,0,0,0,0,0
+Nagaland,2001,0,0,0,0,0,0
+Puducherry,2001,0,0,0,0,0,0
+Sikkim,2001,0,0,1,1,0,2
+Andaman & Nicobar Islands,2002,0,0,0,0,0,0
+Arunachal Pradesh,2002,0,0,0,0,0,0
+Dadra & Nagar Haveli,2002,0,0,0,0,0,0
+Daman & Diu,2002,0,0,0,0,0,0
+Goa,2002,0,0,0,0,0,0
+Himachal Pradesh,2002,0,0,0,1,0,1
+Kerala,2002,0,0,0,0,0,0
+Lakshadweep,2002,0,0,0,0,0,0
+Mizoram,2002,0,0,0,0,0,0
+Puducherry,2002,0,0,0,1,0,1
+Sikkim,2002,0,0,0,0,0,0
+Uttarakhand,2002,0,0,0,0,0,0
+Andaman & Nicobar Islands,2003,0,0,0,0,0,0
+Arunachal Pradesh,2003,0,0,0,0,0,0
+Dadra & Nagar Haveli,2003,0,0,0,0,0,0
+Daman & Diu,2003,0,0,0,0,0,0
+Goa,2003,0,0,0,0,0,0
+Himachal Pradesh,2003,0,0,2,3,1,6
+Lakshadweep,2003,0,0,0,0,0,0
+Mizoram,2003,0,0,2,0,0,2
+Nagaland,2003,0,0,0,0,0,0
+Puducherry,2003,0,0,0,0,0,0
+Arunachal Pradesh,2004,0,0,0,0,0,0
+Chandigarh,2004,0,0,0,2,0,2
+Dadra & Nagar Haveli,2004,0,0,0,0,0,0
+Daman & Diu,2004,0,0,0,0,0,0
+Goa,2004,0,0,0,0,0,0
+Himachal Pradesh,2004,0,0,5,2,1,8
+Kerala,2004,0,0,1,1,0,2
+Lakshadweep,2004,0,0,0,0,0,0
+Mizoram,2004,0,0,0,0,0,0
+Nagaland,2004,0,0,0,0,0,0
+Puducherry,2004,0,0,0,0,0,0
+Sikkim,2004,0,0,0,0,0,0
+Uttarakhand,2004,0,0,4,2,0,6
+Andaman & Nicobar Islands,2005,0,0,0,0,0,0
+Arunachal Pradesh,2005,0,0,0,0,0,0
+Dadra & Nagar Haveli,2005,0,0,0,0,0,0
+Daman & Diu,2005,0,0,0,0,0,0
+Goa,2005,0,0,0,0,0,0
+Himachal Pradesh,2005,0,0,1,0,0,1
+Lakshadweep,2005,0,0,0,0,0,0
+Mizoram,2005,0,0,0,0,0,0
+Nagaland,2005,0,0,0,1,0,1
+Puducherry,2005,0,0,0,0,0,0
+Andaman & Nicobar Islands,2006,0,0,0,0,0,0
+Arunachal Pradesh,2006,0,0,0,0,0,0
+Chandigarh,2006,0,0,2,0,0,2
+Dadra & Nagar Haveli,2006,0,0,0,0,0,0
+Daman & Diu,2006,0,0,0,0,0,0
+Goa,2006,0,0,0,0,0,0
+Himachal Pradesh,2006,0,0,1,0,0,1
+Lakshadweep,2006,0,0,0,0,0,0
+Meghalaya,2006,0,0,0,0,0,0
+Mizoram,2006,1,0,0,0,0,1
+Nagaland,2006,0,0,0,0,0,0
+Puducherry,2006,0,0,0,0,0,0
+Andaman & Nicobar Islands,2007,0,0,0,0,0,0
+Arunachal Pradesh,2007,0,0,0,0,0,0
+Chandigarh,2007,0,0,0,0,0,0
+Dadra & Nagar Haveli,2007,0,0,0,0,0,0
+Daman & Diu,2007,0,0,0,0,0,0
+Goa,2007,0,0,0,0,0,0
+Lakshadweep,2007,0,0,0,0,0,0
+Manipur,2007,0,0,0,0,0,0
+Nagaland,2007,0,0,1,0,0,1
+Odisha,2007,0,0,2,0,0,2
+Puducherry,2007,0,0,0,0,0,0
+Arunachal Pradesh,2008,0,0,0,0,0,0
+Assam,2008,0,0,2,2,0,4
+Chandigarh,2008,0,0,0,0,0,0
+Dadra & Nagar Haveli,2008,0,0,0,0,0,0
+Daman & Diu,2008,0,0,0,0,0,0
+Goa,2008,0,0,0,0,0,0
+Himachal Pradesh,2008,0,0,0,1,0,1
+Lakshadweep,2008,0,0,0,0,0,0
+Nagaland,2008,0,0,0,0,0,0
+Puducherry,2008,0,0,0,0,0,0
+Sikkim,2008,0,0,0,0,0,0
+Andaman & Nicobar Islands,2009,0,0,0,0,0,0
+Arunachal Pradesh,2009,0,0,0,0,0,0
+Assam,2009,0,0,3,1,0,4
+Bihar,2009,0,0,13,13,2,28
+Chandigarh,2009,1,0,2,2,0,5
+Dadra & Nagar Haveli,2009,0,0,0,0,0,0
+Daman & Diu,2009,0,0,0,0,0,0
+Goa,2009,1,0,0,0,0,1
+Himachal Pradesh,2009,0,0,1,0,0,1
+Lakshadweep,2009,0,0,0,0,0,0
+Meghalaya,2009,0,0,1,0,0,1
+Mizoram,2009,0,0,0,0,0,0
+Nagaland,2009,0,0,0,0,0,0
+Puducherry,2009,0,0,0,0,0,0
+Sikkim,2009,0,0,1,1,0,2
+Andaman & Nicobar Islands,2010,0,0,0,0,1,1
+Arunachal Pradesh,2010,0,0,0,0,0,0
+Chandigarh,2010,0,0,0,0,0,0
+Dadra & Nagar Haveli,2010,0,0,0,0,0,0
+Daman & Diu,2010,0,0,0,0,0,0
+Goa,2010,0,0,0,0,0,0
+Lakshadweep,2010,0,0,0,0,0,0
+Meghalaya,2010,0,0,0,0,0,0
+Mizoram,2010,0,0,1,0,0,1
+Nagaland,2010,0,0,0,0,0,0
+Puducherry,2010,0,0,0,0,0,0
+Sikkim,2010,0,0,0,1,0,1

@@ -1,0 +1,351 @@
+area_name,year,sub_group,cpa_cases_registered,cpa_cases_reported_for_dept_action,cpa_complaints_cases_declared_false_unsubstantiated,cpa_complaints_received_alleged,cpa_no_of_departmental_enquiries,cpa_no_of_magisterial_enquiries,cpa_cases_sent_for_trials_charge_sheeted,cpa_no_of_judicial_enquiries,cpb_police_personnel_acquitted,cpb_police_personnel_convicted,cpb_police_personnel_sent_up_for_trial,cpb_police_personnel_trial_completed,cpb_police_personnel_cases_withdrawn_or_otherwise_disposed_of,cpc_police_personnel_cases_trial_completed,cpc_police_personnel_cases_withdrawn_or_otherwise_disposed_of,cpc_police_personnel_disciplinary_action_initiated,cpc_police_personnel_dismissal_removal_from_service,cpc_police_personnel_major_punishment_awarded,cpc_police_personnel_minor_punishment_awarded
+Andaman & Nicobar Islands,2001,Complaints Against Police Personnel,10,4,0,10,4,0,5,0,1,0,5,1,0,6,25,73,2,11,20
+Andhra Pradesh,2001,Complaints Against Police Personnel,3078,72,109,3229,160,2969,3039,23,12,3,92,15,16,23,476,1506,47,248,1085
+Arunachal Pradesh,2001,Complaints Against Police Personnel,24,39,5,54,44,0,17,0,0,0,17,0,1,8,43,107,4,17,15
+Assam,2001,Complaints Against Police Personnel,17,3,1,52,52,3,9,1,1,0,7,1,1,0,7,144,5,61,102
+Bihar,2001,Complaints Against Police Personnel,1,1,12,125,3,15,18,81,0,0,81,0,6,537,141,1385,33,470,1557
+Chandigarh,2001,Complaints Against Police Personnel,6,1,42,52,1,0,2,0,0,0,2,0,1,141,14,131,11,57,17
+Chhattisgarh,2001,Complaints Against Police Personnel,137,51,2008,2618,748,5,13,1,2,4,30,6,1,22,44,131,0,26,36
+Dadra & Nagar Haveli,2001,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,2001,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,2001,Complaints Against Police Personnel,184,99,368,6572,428,0,5,0,0,0,5,0,0,0,0,99,103,487,1864
+Goa,2001,Complaints Against Police Personnel,2,7,0,8,7,0,1,1,4,0,1,4,0,90,113,168,0,6,84
+Gujarat,2001,Complaints Against Police Personnel,417,1736,548,2358,555,2,364,53,26,18,419,44,32,2441,191,3429,67,143,2682
+Haryana,2001,Complaints Against Police Personnel,9,11,1635,1681,792,0,4,0,0,0,5,0,0,0,0,21,0,2,5
+Himachal Pradesh,2001,Complaints Against Police Personnel,7,0,118,179,1,0,4,0,18,2,4,20,0,4,40,35,2,23,27
+Jammu & Kashmir,2001,Complaints Against Police Personnel,44,6,447,560,168,1,30,1,0,0,74,0,29,634,778,2938,81,1573,923
+Jharkhand,2001,Complaints Against Police Personnel,12,0,2,11,0,0,2,8,0,0,3,0,2,193,91,379,41,202,42
+Karnataka,2001,Complaints Against Police Personnel,183,33,9,2209,196,2,169,7,1,0,20,1,1,334,288,1094,15,79,810
+Kerala,2001,Complaints Against Police Personnel,115,34,729,1336,1118,3,44,0,6,1,52,7,9,135,102,548,1,87,123
+Lakshadweep,2001,Complaints Against Police Personnel,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Madhya Pradesh,2001,Complaints Against Police Personnel,635,452,13907,19390,7605,398,90,0,4,1,27,5,4,166,312,513,28,115,212
+Maharashtra,2001,Complaints Against Police Personnel,464,296,2899,5001,2327,21,283,121,19,7,305,26,16,3829,1275,7920,178,486,14531
+Manipur,2001,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2001,Complaints Against Police Personnel,6,1,0,6,4,0,1,2,0,0,2,0,2,0,2,28,2,60,52
+Mizoram,2001,Complaints Against Police Personnel,9,1,0,7,1,0,6,0,4,0,7,4,3,32,0,43,3,28,6
+Nagaland,2001,Complaints Against Police Personnel,76,74,1,99,1,0,35,0,3,0,2,3,1,2,1,8,0,2,1
+Odisha,2001,Complaints Against Police Personnel,72,13,9,81,10,5,16,47,0,1,27,1,2,68,36,191,11,72,260
+Puducherry,2001,Complaints Against Police Personnel,4,0,2,6,0,0,4,0,1,1,4,2,0,17,18,35,3,7,7
+Punjab,2001,Complaints Against Police Personnel,191,186,3023,4046,2459,45,9,4,9,3,30,12,7,30,7,1216,118,600,809
+Rajasthan,2001,Complaints Against Police Personnel,110,110,944,1858,909,4,60,1,4,1,70,5,5,2777,1060,4243,90,328,2359
+Sikkim,2001,Complaints Against Police Personnel,109,0,5,109,0,0,46,30,0,1,1,1,0,1,1,0,1,0,0
+Tamil Nadu,2001,Complaints Against Police Personnel,90,189,6,143,83,5,49,46,2,0,47,2,8,369,377,1185,22,256,690
+Tripura,2001,Complaints Against Police Personnel,13,1,2,15,15,0,6,2,1,0,9,1,0,95,40,186,1,21,131
+Uttar Pradesh,2001,Complaints Against Police Personnel,1233,1115,4547,5858,1273,30,118,8,4,0,145,4,9,955,253,1208,28,265,662
+Uttarakhand,2001,Complaints Against Police Personnel,25,117,763,944,838,1,22,0,1,0,22,1,1,228,16,328,18,33,161
+West Bengal,2001,Complaints Against Police Personnel,13,0,0,43,42,0,5,1,0,0,8,0,0,0,5,456,7,149,508
+Andaman & Nicobar Islands,2002,Complaints Against Police Personnel,13,0,0,13,0,0,4,0,0,2,3,2,0,20,14,92,3,10,27
+Andhra Pradesh,2002,Complaints Against Police Personnel,159,84,67,311,165,2,104,22,12,0,108,12,12,105,497,1850,26,359,1471
+Arunachal Pradesh,2002,Complaints Against Police Personnel,40,13,0,54,42,8,11,0,0,0,10,0,1,8,5,47,3,17,25
+Assam,2002,Complaints Against Police Personnel,17,1,7,115,106,2,7,15,0,0,9,0,3,36,1,124,2,70,374
+Bihar,2002,Complaints Against Police Personnel,16,1,35,127,14,16,35,82,0,0,61,0,3,575,303,1467,22,301,112
+Chandigarh,2002,Complaints Against Police Personnel,6,0,123,125,13,0,4,0,0,0,4,0,112,68,19,135,4,42,27
+Chhattisgarh,2002,Complaints Against Police Personnel,19,29,1731,2053,725,0,5,0,0,0,11,0,0,28,27,151,15,72,32
+Dadra & Nagar Haveli,2002,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+Daman & Diu,2002,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,2002,Complaints Against Police Personnel,92,58,366,9626,475,0,11,0,0,0,11,0,0,0,0,58,79,307,1587
+Goa,2002,Complaints Against Police Personnel,2,0,5,8,6,0,2,2,0,0,2,0,0,76,75,108,0,0,37
+Gujarat,2002,Complaints Against Police Personnel,244,1594,475,2362,611,7,199,32,40,21,270,61,48,393,160,1074,49,154,1301
+Haryana,2002,Complaints Against Police Personnel,3,1,689,697,313,0,1,0,0,0,1,0,1,4,0,219,9,90,112
+Himachal Pradesh,2002,Complaints Against Police Personnel,8,4,215,251,7,0,5,0,1,1,8,2,4,0,41,59,5,16,48
+Jammu & Kashmir,2002,Complaints Against Police Personnel,38,11,664,786,250,0,15,3,3,0,21,3,2,602,563,2270,63,1557,1038
+Jharkhand,2002,Complaints Against Police Personnel,5103,0,0,5103,0,0,0,0,0,0,0,0,0,249,214,569,10,294,148
+Karnataka,2002,Complaints Against Police Personnel,57,53,67,198,181,0,31,3,8,2,42,10,6,455,48,864,9,279,223
+Kerala,2002,Complaints Against Police Personnel,93,25,997,2720,1796,3,28,0,0,1,43,1,12,320,92,864,11,69,240
+Lakshadweep,2002,Complaints Against Police Personnel,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2002,Complaints Against Police Personnel,3,11,403,652,94,0,2,0,0,0,249,0,0,11,0,94,0,0,11
+Maharashtra,2002,Complaints Against Police Personnel,323,132,2620,3859,1302,24,207,42,68,10,210,78,6,680,437,1436,83,204,2119
+Manipur,2002,Complaints Against Police Personnel,0,2,0,0,2,0,0,0,0,2,2,2,0,2,0,0,1,1,0
+Meghalaya,2002,Complaints Against Police Personnel,2,0,0,2,2,0,0,0,0,0,0,0,0,0,1,1,0,26,23
+Mizoram,2002,Complaints Against Police Personnel,5,1,0,6,1,5,12,0,1,0,6,1,4,14,5,26,2,12,1
+Nagaland,2002,Complaints Against Police Personnel,6,0,0,13,3,0,5,3,0,1,5,1,0,0,0,2,0,1,1
+Odisha,2002,Complaints Against Police Personnel,53,32,4,85,30,3,29,40,4,0,40,4,4,49,52,164,4,89,181
+Puducherry,2002,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Punjab,2002,Complaints Against Police Personnel,207,268,2540,4518,2466,93,22,0,19,6,27,25,9,190,84,1767,172,870,5177
+Rajasthan,2002,Complaints Against Police Personnel,124,92,1675,1931,249,3,39,4,0,1,45,1,1,2479,1218,5013,65,399,2015
+Sikkim,2002,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,3,3,15
+Tamil Nadu,2002,Complaints Against Police Personnel,313,357,10,445,360,9,39,24,7,3,48,10,0,831,122,1123,16,302,510
+Tripura,2002,Complaints Against Police Personnel,11,2,3,11,11,0,0,3,0,0,0,0,0,25,14,82,16,20,39
+Uttar Pradesh,2002,Complaints Against Police Personnel,1978,1942,4576,6576,1978,20,36,2,9,0,36,9,27,1406,536,1942,37,197,1172
+Uttarakhand,2002,Complaints Against Police Personnel,32,233,184,698,604,3,29,2,7,1,29,8,2,403,38,496,9,33,361
+West Bengal,2002,Complaints Against Police Personnel,10,6,0,47,44,2,6,1,0,0,4,0,0,22,0,163,8,57,277
+Andaman & Nicobar Islands,2003,Complaints Against Police Personnel,9,0,1,9,0,0,2,0,0,0,2,0,1,9,1,40,0,3,21
+Andhra Pradesh,2003,Complaints Against Police Personnel,140,828,11,941,892,7,89,27,12,1,100,13,8,1039,367,1764,16,261,1284
+Arunachal Pradesh,2003,Complaints Against Police Personnel,6,0,0,15,9,0,1,0,0,0,1,0,1,1,0,1,0,0,1
+Assam,2003,Complaints Against Police Personnel,15,35,2,8,14,2,11,2,3,0,9,3,0,0,13,99,0,37,233
+Bihar,2003,Complaints Against Police Personnel,4,22,16,101,22,7,29,78,0,0,56,0,11,347,118,686,8,289,159
+Chandigarh,2003,Complaints Against Police Personnel,4,0,179,238,0,0,1,0,0,0,1,0,1,234,241,130,16,90,151
+Chhattisgarh,2003,Complaints Against Police Personnel,28,11,1225,1819,597,0,1,0,4,1,22,5,0,13,7,51,3,13,19
+Dadra & Nagar Haveli,2003,Complaints Against Police Personnel,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,2003,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,2003,Complaints Against Police Personnel,108,77,352,9797,578,0,0,0,0,0,0,0,0,0,0,77,77,339,1806
+Goa,2003,Complaints Against Police Personnel,1,0,0,1,0,0,0,0,0,0,1,0,1,0,3,20,0,3,0
+Gujarat,2003,Complaints Against Police Personnel,242,1648,295,2196,479,3,199,29,6,22,246,28,26,581,204,2255,59,231,1427
+Haryana,2003,Complaints Against Police Personnel,15,13,1259,3270,418,20,8,6,0,0,13,0,2,0,0,131,11,89,32
+Himachal Pradesh,2003,Complaints Against Police Personnel,4,3,147,174,32,3,2,0,0,0,7,0,2,3,14,47,1,16,18
+Jammu & Kashmir,2003,Complaints Against Police Personnel,44,18,587,851,318,1,25,0,3,1,35,4,4,606,773,2714,101,1029,956
+Jharkhand,2003,Complaints Against Police Personnel,5106,1,3,5116,0,2,0,11,3,0,8,3,3,97,43,249,6,128,14
+Karnataka,2003,Complaints Against Police Personnel,74,59,36,170,125,1,60,6,19,2,53,21,3,342,200,1259,11,14,612
+Kerala,2003,Complaints Against Police Personnel,82,37,573,1578,1080,5,29,1,20,1,50,21,6,386,161,808,11,78,297
+Lakshadweep,2003,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2003,Complaints Against Police Personnel,29,105,8810,9875,2297,1,25,3,0,4,40,4,11,17,47,304,103,85,281
+Maharashtra,2003,Complaints Against Police Personnel,488,490,3363,4555,1439,32,261,61,29,8,262,37,5,330,50,545,45,62,247
+Manipur,2003,Complaints Against Police Personnel,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2003,Complaints Against Police Personnel,5,0,0,5,5,0,1,0,0,0,1,0,0,2,4,8,1,45,37
+Mizoram,2003,Complaints Against Police Personnel,4,0,0,3,0,2,4,1,0,1,4,1,0,1,0,1,0,1,0
+Nagaland,2003,Complaints Against Police Personnel,4,0,0,6,2,0,4,0,1,0,5,1,0,1,0,4,0,4,0
+Odisha,2003,Complaints Against Police Personnel,85,11,14,107,34,1,45,45,1,0,36,1,1,57,33,272,16,128,383
+Puducherry,2003,Complaints Against Police Personnel,5,0,0,5,0,0,4,0,1,0,4,1,0,17,4,26,0,1,4
+Punjab,2003,Complaints Against Police Personnel,121,81,3068,4168,2357,26,42,1,16,0,54,16,17,278,472,1047,137,727,3935
+Rajasthan,2003,Complaints Against Police Personnel,100,74,1563,1841,272,2,42,4,3,0,61,3,5,2520,1146,4074,96,326,2098
+Sikkim,2003,Complaints Against Police Personnel,3,0,0,3,0,0,1,0,0,1,1,1,0,4,4,10,0,0,4
+Tamil Nadu,2003,Complaints Against Police Personnel,88,1769,17,1878,1786,4,71,88,6,1,71,7,9,1383,333,1772,18,334,1031
+Tripura,2003,Complaints Against Police Personnel,1,0,0,1,1,0,0,0,0,0,0,0,0,26,1,38,0,27,1
+Uttar Pradesh,2003,Complaints Against Police Personnel,1227,1198,3959,5239,1268,11,29,1,3,0,29,3,26,771,427,1198,41,253,477
+Uttarakhand,2003,Complaints Against Police Personnel,24,506,342,872,872,0,23,0,0,0,23,0,3,459,47,506,27,72,360
+West Bengal,2003,Complaints Against Police Personnel,98,61,1,271,270,0,17,1,1,2,21,3,0,3,0,185,31,77,79
+Andaman & Nicobar Islands,2004,Complaints Against Police Personnel,15,0,0,1,0,1,6,0,0,0,6,0,1,41,3,47,3,8,33
+Andhra Pradesh,2004,Complaints Against Police Personnel,649,476,30,646,499,4,183,29,2,1,51,3,1,223,564,1848,15,269,1010
+Arunachal Pradesh,2004,Complaints Against Police Personnel,25,2,0,45,1,3,16,15,0,0,1,0,2,67,13,152,0,12,55
+Assam,2004,Complaints Against Police Personnel,14,9,0,7,13,0,9,3,3,0,4,3,4,2,11,21,2,0,19
+Bihar,2004,Complaints Against Police Personnel,157,0,39,207,22,0,92,30,0,0,66,0,4,476,142,911,11,374,363
+Chandigarh,2004,Complaints Against Police Personnel,0,0,33,309,0,0,0,0,0,0,0,0,0,11,122,109,2,35,23
+Chhattisgarh,2004,Complaints Against Police Personnel,29,27,1204,1517,583,95,3,95,303,14,323,317,342,35,34,99,11,32,158
+Dadra & Nagar Haveli,2004,Complaints Against Police Personnel,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Daman & Diu,2004,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,0,1
+Delhi,2004,Complaints Against Police Personnel,123,96,2939,10179,591,0,0,0,0,0,0,0,0,0,0,96,85,548,2158
+Goa,2004,Complaints Against Police Personnel,2,0,46,119,1,0,1,0,0,0,1,0,0,0,3,227,0,1,210
+Gujarat,2004,Complaints Against Police Personnel,249,1827,421,4413,544,0,217,26,9,8,272,17,4,536,136,1806,45,168,1372
+Haryana,2004,Complaints Against Police Personnel,50,13,1221,1244,834,0,11,9,0,0,19,0,0,0,0,86,14,47,26
+Himachal Pradesh,2004,Complaints Against Police Personnel,4,6,189,224,40,2,2,0,0,0,4,0,3,12,7,79,1,16,84
+Jammu & Kashmir,2004,Complaints Against Police Personnel,284,25,348,510,781,95,15,0,0,0,35,0,10,551,1557,2254,67,1548,493
+Jharkhand,2004,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karnataka,2004,Complaints Against Police Personnel,55,265,50,163,326,3,45,14,3,1,45,4,5,228,429,976,13,48,707
+Kerala,2004,Complaints Against Police Personnel,60,27,1151,2570,2102,286,21,0,13,13,35,26,15,147,119,811,18,124,326
+Lakshadweep,2004,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2004,Complaints Against Police Personnel,44,68,9729,11162,3417,1,32,2,1,0,42,1,20,188,133,450,109,115,308
+Maharashtra,2004,Complaints Against Police Personnel,412,248,3661,4956,698,27,272,40,2,1,301,3,4,168,23,318,34,24,110
+Manipur,2004,Complaints Against Police Personnel,1,0,0,0,0,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+Meghalaya,2004,Complaints Against Police Personnel,6,5,0,6,1,5,2,0,0,0,4,0,0,0,0,9,3,10,2
+Mizoram,2004,Complaints Against Police Personnel,2,0,0,2,0,1,2,1,0,0,2,0,0,18,11,26,1,19,4
+Nagaland,2004,Complaints Against Police Personnel,10,3,0,11,1,0,6,2,0,1,8,1,2,0,2,7,0,4,0
+Odisha,2004,Complaints Against Police Personnel,81,20,2,68,5,7,36,60,0,0,32,0,3,35,65,255,6,156,290
+Puducherry,2004,Complaints Against Police Personnel,3,0,0,3,0,0,2,0,0,0,2,0,0,0,0,14,0,0,0
+Punjab,2004,Complaints Against Police Personnel,94,78,2972,4660,2191,7,33,1,13,6,48,19,4,344,148,891,105,811,2295
+Rajasthan,2004,Complaints Against Police Personnel,127,99,1361,1830,469,0,56,0,10,0,76,10,2,2745,1213,4356,110,321,2314
+Sikkim,2004,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tamil Nadu,2004,Complaints Against Police Personnel,113,175,7,221,165,4,37,41,4,2,46,6,12,579,401,2030,26,409,1192
+Tripura,2004,Complaints Against Police Personnel,3,0,0,0,0,0,0,0,0,0,0,0,0,6,5,31,0,34,270
+Uttar Pradesh,2004,Complaints Against Police Personnel,667,604,3591,4935,1314,27,63,3,7,8,63,15,48,373,231,604,47,217,109
+Uttarakhand,2004,Complaints Against Police Personnel,20,595,337,932,922,5,20,5,0,0,20,0,0,378,106,595,12,19,347
+West Bengal,2004,Complaints Against Police Personnel,62,47,1,119,112,0,7,7,0,0,9,0,0,83,3,154,12,188,387
+Andaman & Nicobar Islands,2005,Complaints Against Police Personnel,19,3,138,167,55,3,6,0,0,0,4,0,0,8,5,28,0,1,5
+Andhra Pradesh,2005,Complaints Against Police Personnel,6271,609,663,7453,633,0,6220,74,5,2,99,7,5,14,682,2334,33,271,1667
+Arunachal Pradesh,2005,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,35,0,1,7
+Assam,2005,Complaints Against Police Personnel,28,35,0,20,37,0,13,6,0,0,14,0,0,0,0,22,4,4,60
+Bihar,2005,Complaints Against Police Personnel,13,1,5,45,0,10,29,36,1,0,93,1,19,567,39,858,7,294,267
+Chandigarh,2005,Complaints Against Police Personnel,0,0,168,192,192,0,0,0,0,0,0,0,0,0,138,112,3,49,177
+Chhattisgarh,2005,Complaints Against Police Personnel,40,4,727,1006,284,4,1982,18,6,30,54,36,37,30,2,69,4,13,7
+Dadra & Nagar Haveli,2005,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,2005,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,2005,Complaints Against Police Personnel,86,0,1583,6665,612,0,0,0,0,0,0,0,0,0,0,211,87,364,1728
+Goa,2005,Complaints Against Police Personnel,3,0,18,20,2,0,0,0,0,0,0,0,0,2,174,205,0,1,131
+Gujarat,2005,Complaints Against Police Personnel,267,1755,410,4214,518,0,198,6,12,31,247,43,15,1147,164,1191,62,255,1099
+Haryana,2005,Complaints Against Police Personnel,94,8,1189,1234,1025,0,8,5,3,0,12,3,0,3,0,11,0,0,0
+Himachal Pradesh,2005,Complaints Against Police Personnel,3,0,195,210,18,2,4,1,0,1,5,1,1,16,5,47,2,12,31
+Jammu & Kashmir,2005,Complaints Against Police Personnel,34,123,664,2517,2307,0,6,34,3,0,345,3,172,40,686,2478,75,969,663
+Jharkhand,2005,Complaints Against Police Personnel,1,0,4,8,1,0,0,7,0,0,0,0,0,149,52,525,13,114,46
+Karnataka,2005,Complaints Against Police Personnel,65,61,15,261,226,1,38,6,13,2,47,15,2,657,332,888,16,48,675
+Kerala,2005,Complaints Against Police Personnel,186,146,803,1982,1902,4,41,4,6,1,42,7,2,117,104,620,15,48,204
+Lakshadweep,2005,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2005,Complaints Against Police Personnel,588,52,16834,19748,5184,603,18,0,1,5,40,6,13,393,129,339,30,66,275
+Maharashtra,2005,Complaints Against Police Personnel,434,314,3216,4401,546,8,254,9,24,13,266,37,6,239,16,330,63,75,101
+Manipur,2005,Complaints Against Police Personnel,4,4,0,4,3,0,0,0,0,0,0,0,0,0,0,8,0,0,2
+Meghalaya,2005,Complaints Against Police Personnel,6,4,0,33,27,6,0,0,0,0,0,0,1,7,1,81,9,24,170
+Mizoram,2005,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2005,Complaints Against Police Personnel,4,1,0,8,2,0,4,1,0,1,4,1,1,0,0,2,2,1,0
+Odisha,2005,Complaints Against Police Personnel,55,14,4,53,6,21,30,26,1,0,35,1,8,54,62,260,7,171,215
+Puducherry,2005,Complaints Against Police Personnel,3,0,0,3,0,0,1,0,0,0,1,0,0,0,2,38,0,0,0
+Punjab,2005,Complaints Against Police Personnel,98,54,3047,3798,2641,11,22,1,7,4,30,11,10,378,191,1695,203,1294,2439
+Rajasthan,2005,Complaints Against Police Personnel,116,41,800,1067,267,0,48,0,1,1,74,2,0,2884,1018,4503,87,362,2435
+Sikkim,2005,Complaints Against Police Personnel,0,17,0,17,17,0,0,0,0,0,0,0,0,5,0,17,0,2,3
+Tamil Nadu,2005,Complaints Against Police Personnel,126,109,4,136,85,25,47,26,38,5,157,43,74,1952,206,2771,60,399,1493
+Tripura,2005,Complaints Against Police Personnel,10,56,1,62,57,1,6,4,1,0,9,1,1,246,18,294,7,22,268
+Uttar Pradesh,2005,Complaints Against Police Personnel,1378,1324,3906,5284,1363,13,54,2,4,1,71,5,5,1603,184,1787,50,244,1309
+Uttarakhand,2005,Complaints Against Police Personnel,9,703,196,908,898,1,9,9,0,0,9,0,0,420,235,703,16,46,358
+West Bengal,2005,Complaints Against Police Personnel,24,21,0,44,32,0,9,13,2,0,10,2,1,0,1,41,1,1,19
+Andaman & Nicobar Islands,2006,Complaints Against Police Personnel,14,0,0,14,0,0,9,14,0,0,10,0,0,3,0,9,2,2,7
+Andhra Pradesh,2006,Complaints Against Police Personnel,5461,269,202,5896,315,0,5399,31,7,3,100,10,11,60,892,2857,34,271,1548
+Arunachal Pradesh,2006,Complaints Against Police Personnel,8,2,0,28,24,0,0,0,0,0,0,0,0,3,1,6,0,0,3
+Assam,2006,Complaints Against Police Personnel,11,3,0,19,19,0,3,1,1,0,6,1,1,0,0,1,0,0,18
+Bihar,2006,Complaints Against Police Personnel,10,0,0,58,0,1,48,60,0,0,126,0,8,631,141,1073,10,551,131
+Chandigarh,2006,Complaints Against Police Personnel,2,0,171,207,207,0,0,0,0,0,0,0,32,0,133,96,4,66,31
+Chhattisgarh,2006,Complaints Against Police Personnel,28,14,1331,1444,355,1,5,0,3,1,13,4,4,59,80,124,22,22,22
+Dadra & Nagar Haveli,2006,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,2006,Complaints Against Police Personnel,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,2006,Complaints Against Police Personnel,113,0,113,5360,579,0,0,0,0,0,0,0,0,0,805,1374,182,314,1303
+Goa,2006,Complaints Against Police Personnel,1,2,56,66,2,0,1,0,0,0,1,0,0,11,64,103,0,1,48
+Gujarat,2006,Complaints Against Police Personnel,232,508,253,893,639,1,209,0,4,3,232,7,4,681,133,1256,51,221,619
+Haryana,2006,Complaints Against Police Personnel,18,5,1269,1233,615,0,10,0,0,0,11,0,0,4,0,10,0,0,6
+Himachal Pradesh,2006,Complaints Against Police Personnel,2477,0,354,2702,4,0,0,0,0,0,1805,0,0,13,9,47,0,9,12
+Jammu & Kashmir,2006,Complaints Against Police Personnel,63,40,124,164,337,0,12,0,0,0,49,0,28,329,398,1223,205,781,590
+Jharkhand,2006,Complaints Against Police Personnel,3,1,0,3,0,0,0,2,1,0,1,1,0,498,273,586,43,439,108
+Karnataka,2006,Complaints Against Police Personnel,55,29,35,215,172,1,40,8,7,0,56,7,5,466,64,694,5,28,441
+Kerala,2006,Complaints Against Police Personnel,99,30,794,1718,1356,0,43,1,7,0,51,7,0,133,129,1025,20,100,226
+Lakshadweep,2006,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2006,Complaints Against Police Personnel,819,51,17197,22224,4787,348,13,0,4,2,18,6,0,117,27,308,43,103,198
+Maharashtra,2006,Complaints Against Police Personnel,417,332,3805,5159,968,10,233,71,8,3,239,11,5,220,71,372,50,46,111
+Manipur,2006,Complaints Against Police Personnel,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Meghalaya,2006,Complaints Against Police Personnel,4,0,0,2,2,0,0,0,0,0,0,0,0,0,10,13,9,34,53
+Mizoram,2006,Complaints Against Police Personnel,7,4,0,8,0,1,4,0,2,3,5,5,0,8,0,11,0,5,6
+Nagaland,2006,Complaints Against Police Personnel,7,6,0,11,10,0,4,0,3,0,8,3,0,3,0,10,0,10,0
+Odisha,2006,Complaints Against Police Personnel,2481,9,2,2482,44,17,1689,20,1,0,26,1,4,64,22,237,11,113,140
+Puducherry,2006,Complaints Against Police Personnel,3,3,1,3,3,0,1,0,1,0,1,1,0,0,5,45,9,0,13
+Punjab,2006,Complaints Against Police Personnel,86,35,2369,4796,2893,6,22,1,13,4,52,17,9,224,116,2077,94,484,2096
+Rajasthan,2006,Complaints Against Police Personnel,135,41,3141,3402,260,0,61,1,2,1,66,3,0,2941,1587,4826,74,2568,299
+Sikkim,2006,Complaints Against Police Personnel,0,36,0,36,36,0,0,0,0,0,0,0,0,18,0,36,3,0,15
+Tamil Nadu,2006,Complaints Against Police Personnel,115,56,5,120,44,22,63,54,3,3,65,6,2,1403,54,1983,55,406,942
+Tripura,2006,Complaints Against Police Personnel,17,33,1,58,46,2,9,14,1,1,12,2,12,11,28,86,12,28,502
+Uttar Pradesh,2006,Complaints Against Police Personnel,825,778,2678,3503,812,13,47,0,0,0,96,0,5,1030,59,1089,71,155,804
+Uttarakhand,2006,Complaints Against Police Personnel,8,203,756,967,959,0,3,8,0,0,3,0,0,149,4,203,10,10,129
+West Bengal,2006,Complaints Against Police Personnel,27,11,0,28,19,0,7,9,2,0,10,2,3,2,2,28,1,16,2
+Andaman & Nicobar Islands,2007,Complaints Against Police Personnel,20,0,0,20,0,0,5,20,0,0,4,0,0,2,0,13,4,6,2
+Andhra Pradesh,2007,Complaints Against Police Personnel,200,99,27,327,209,10,121,25,6,1,131,7,22,1,531,2018,45,206,1335
+Arunachal Pradesh,2007,Complaints Against Police Personnel,16,0,0,40,38,0,6,0,0,0,6,0,0,0,0,6,0,2,1
+Assam,2007,Complaints Against Police Personnel,18,5,0,31,22,2,2,7,1,0,3,1,1,1,0,0,2,0,87
+Bihar,2007,Complaints Against Police Personnel,7,0,27,2011,27,0,19,2,0,0,33,0,31,260,150,306,53,506,288
+Chandigarh,2007,Complaints Against Police Personnel,3,0,105,172,172,0,0,0,0,0,0,0,4,0,85,84,4,38,28
+Chhattisgarh,2007,Complaints Against Police Personnel,6,149,1620,1965,548,2,14,0,8,6,84,14,23,65,48,118,16,21,26
+Dadra & Nagar Haveli,2007,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,2007,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+Delhi,2007,Complaints Against Police Personnel,87,0,288,5786,513,0,0,0,0,0,0,0,0,0,0,1386,91,364,1995
+Goa,2007,Complaints Against Police Personnel,11,2,25,35,4,0,3,1,1,0,1,1,0,16,40,69,9,3,26
+Gujarat,2007,Complaints Against Police Personnel,226,385,208,686,540,2,196,29,13,5,241,18,11,759,252,1234,47,270,743
+Haryana,2007,Complaints Against Police Personnel,19,6,1218,1246,583,0,10,0,0,0,12,0,0,5,0,47,6,18,18
+Himachal Pradesh,2007,Complaints Against Police Personnel,6,1,207,217,10,0,0,0,6,5,9,11,10,21,19,79,0,18,31
+Jammu & Kashmir,2007,Complaints Against Police Personnel,17,5,104,135,289,4,4,0,0,0,3,0,1,218,329,994,7,720,466
+Jharkhand,2007,Complaints Against Police Personnel,0,0,0,4,0,0,0,4,7,0,0,7,0,124,65,446,7,207,194
+Karnataka,2007,Complaints Against Police Personnel,86,28,10,154,141,1,59,10,7,0,71,7,6,263,9,792,5,32,646
+Kerala,2007,Complaints Against Police Personnel,89,34,2994,3684,2278,2,28,0,4,1,49,5,3,122,210,1080,7,97,253
+Lakshadweep,2007,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2007,Complaints Against Police Personnel,4562,95,12328,18526,3216,5,28,4,3,2,40,5,2,63,50,281,10,106,131
+Maharashtra,2007,Complaints Against Police Personnel,354,213,2680,3838,1170,0,157,39,24,9,184,33,39,115,7,172,6,18,91
+Manipur,2007,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2007,Complaints Against Police Personnel,16,4,0,16,12,0,8,0,0,0,7,0,0,21,54,91,5,67,103
+Mizoram,2007,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,4,1
+Nagaland,2007,Complaints Against Police Personnel,3,3,0,3,3,0,3,0,0,0,1,0,0,0,0,0,0,0,0
+Odisha,2007,Complaints Against Police Personnel,45,17,1,51,8,14,17,21,1,0,32,1,1,68,48,232,9,145,218
+Puducherry,2007,Complaints Against Police Personnel,3,0,0,3,0,0,3,0,0,0,3,0,0,5,12,34,0,0,12
+Punjab,2007,Complaints Against Police Personnel,144,54,2195,5750,1173,35,24,0,14,7,61,21,14,342,55,1381,133,556,3528
+Rajasthan,2007,Complaints Against Police Personnel,84,71,981,1237,248,6,39,2,4,2,47,6,0,3123,0,4567,84,431,2608
+Sikkim,2007,Complaints Against Police Personnel,3,5,0,8,8,0,1,0,0,0,1,0,0,1,1,54,5,2,39
+Tamil Nadu,2007,Complaints Against Police Personnel,141,65,10,369,267,16,76,86,4,2,86,6,3,1103,99,1467,39,370,694
+Tripura,2007,Complaints Against Police Personnel,23,26,4,62,51,0,10,13,2,2,12,4,28,14,42,96,15,20,237
+Uttar Pradesh,2007,Complaints Against Police Personnel,1693,1560,2927,4620,1673,20,96,0,0,0,139,0,0,1669,116,1785,46,353,1270
+Uttarakhand,2007,Complaints Against Police Personnel,9,293,447,749,740,0,5,9,0,0,5,0,0,180,84,293,5,30,145
+West Bengal,2007,Complaints Against Police Personnel,17,9,6,22,10,0,7,6,0,1,8,1,0,29,23,56,5,40,59
+Andaman & Nicobar Islands,2008,Complaints Against Police Personnel,15,0,0,15,0,0,6,15,2,0,6,2,0,1,13,26,0,13,73
+Andhra Pradesh,2008,Complaints Against Police Personnel,129,382,20,722,639,1,84,30,11,2,164,13,9,10,811,2839,59,352,1496
+Arunachal Pradesh,2008,Complaints Against Police Personnel,0,0,0,137,137,0,0,0,0,0,0,0,0,0,0,137,0,16,28
+Assam,2008,Complaints Against Police Personnel,12,6,0,7,0,2,6,3,0,0,7,0,0,0,7,53,1,30,19
+Bihar,2008,Complaints Against Police Personnel,27,1,2,36,73,0,5,33,0,0,15,0,1,459,207,816,10,526,351
+Chandigarh,2008,Complaints Against Police Personnel,0,3,141,234,3,0,0,0,0,0,0,0,0,0,52,75,3,28,35
+Chhattisgarh,2008,Complaints Against Police Personnel,413,50,1000,1516,703,1,246,0,6,9,0,15,0,68,58,143,24,64,160
+Dadra & Nagar Haveli,2008,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,2008,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,2008,Complaints Against Police Personnel,93,0,70,6031,539,0,0,0,0,0,0,0,0,0,0,1185,87,319,919
+Goa,2008,Complaints Against Police Personnel,11,1,54,64,2,0,3,1,0,1,1,1,0,36,99,167,5,2,128
+Gujarat,2008,Complaints Against Police Personnel,246,373,313,786,572,2,182,18,0,1,312,1,43,636,235,1216,55,131,606
+Haryana,2008,Complaints Against Police Personnel,42,17,1105,1140,896,14,21,0,2,0,29,2,0,0,0,80,13,45,10
+Himachal Pradesh,2008,Complaints Against Police Personnel,8,3,265,284,57,1,5,0,2,0,5,2,1,20,8,85,2,16,24
+Jammu & Kashmir,2008,Complaints Against Police Personnel,40,16,258,417,347,3,58,1,2,0,25,2,12,196,481,1350,219,575,324
+Jharkhand,2008,Complaints Against Police Personnel,1,0,0,23,0,0,0,0,0,0,1,0,0,206,51,521,7,112,168
+Karnataka,2008,Complaints Against Police Personnel,77,417,13,499,438,12,39,11,6,0,49,6,2,251,37,757,9,18,508
+Kerala,2008,Complaints Against Police Personnel,132,53,2571,3096,2854,0,45,0,14,0,52,14,7,377,142,898,9,123,245
+Lakshadweep,2008,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2008,Complaints Against Police Personnel,23,60,14306,18315,4038,1,26,3,0,1,23,1,0,89,74,294,18,98,272
+Maharashtra,2008,Complaints Against Police Personnel,373,126,3011,3928,633,0,130,0,16,6,159,22,13,61,55,203,25,13,51
+Manipur,2008,Complaints Against Police Personnel,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Meghalaya,2008,Complaints Against Police Personnel,6,2,0,6,6,0,2,0,0,0,2,0,0,0,0,0,0,11,31
+Mizoram,2008,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nagaland,2008,Complaints Against Police Personnel,3,4,0,7,6,1,3,0,6,0,7,6,0,10,0,0,1,3,0
+Odisha,2008,Complaints Against Police Personnel,41,99,0,64,29,5,0,16,0,0,25,0,0,48,48,264,2,87,201
+Puducherry,2008,Complaints Against Police Personnel,5,5,0,5,0,0,0,0,0,0,0,0,0,1,0,107,0,0,2
+Punjab,2008,Complaints Against Police Personnel,477,49,2215,3714,1345,8,34,0,16,4,70,20,15,30,326,1401,96,516,3173
+Rajasthan,2008,Complaints Against Police Personnel,66,50,867,1263,384,9,31,3,1,5,40,6,0,2877,0,4252,87,290,2500
+Sikkim,2008,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,15,15,31,0,7,8
+Tamil Nadu,2008,Complaints Against Police Personnel,124,72,10,139,67,28,75,44,3,0,75,3,10,1228,24,1510,19,279,930
+Tripura,2008,Complaints Against Police Personnel,23,20,1,52,40,1,18,17,3,0,19,3,10,27,27,89,14,33,84
+Uttar Pradesh,2008,Complaints Against Police Personnel,3008,2734,3007,6015,2998,10,92,0,2,0,126,2,2,2739,412,3151,95,671,1973
+Uttarakhand,2008,Complaints Against Police Personnel,12,23,342,377,377,0,10,0,1,3,21,4,0,343,14,397,14,123,206
+West Bengal,2008,Complaints Against Police Personnel,37,29,6,46,31,0,11,9,2,1,12,3,0,29,23,76,5,40,127
+Andaman & Nicobar Islands,2009,Complaints Against Police Personnel,15,0,0,15,0,0,11,15,0,0,11,0,0,0,11,33,1,5,34
+Andhra Pradesh,2009,Complaints Against Police Personnel,128,395,21,789,706,3,90,28,13,2,171,15,8,11,901,2946,62,304,1389
+Arunachal Pradesh,2009,Complaints Against Police Personnel,0,0,0,97,97,0,0,0,0,0,0,0,0,0,0,97,0,4,19
+Assam,2009,Complaints Against Police Personnel,9,3,2,54,52,0,4,11,1,0,9,1,0,0,0,46,2,16,36
+Bihar,2009,Complaints Against Police Personnel,38,6,0,40,79,0,2,32,0,0,8,0,2,351,190,673,9,420,261
+Chandigarh,2009,Complaints Against Police Personnel,0,0,12,12,12,0,0,0,0,0,0,0,0,0,73,46,3,36,77
+Chhattisgarh,2009,Complaints Against Police Personnel,68,2,1598,1828,1261,0,17,0,1,13,5,14,14,233,83,272,21,62,153
+Dadra & Nagar Haveli,2009,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,2009,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,2009,Complaints Against Police Personnel,69,89,364,6155,416,0,0,0,0,0,0,0,0,1461,0,1461,58,260,1143
+Goa,2009,Complaints Against Police Personnel,9,1,12,31,2,0,3,0,1,0,5,1,3,38,96,139,0,1,72
+Gujarat,2009,Complaints Against Police Personnel,352,393,282,1137,606,47,234,32,7,7,260,14,11,549,226,1126,40,164,722
+Haryana,2009,Complaints Against Police Personnel,167,6,1045,1098,646,15,7,0,2,0,7,2,1,0,0,5,4,1,3
+Himachal Pradesh,2009,Complaints Against Police Personnel,10,0,294,313,16,0,4,0,1,0,15,1,1,33,36,102,1,34,48
+Jammu & Kashmir,2009,Complaints Against Police Personnel,39,31,96,479,497,1,23,0,4,0,35,4,16,640,391,1408,8,496,566
+Jharkhand,2009,Complaints Against Police Personnel,1060,0,65,1065,840,0,519,217,0,0,0,0,0,107,66,1224,7,349,125
+Karnataka,2009,Complaints Against Police Personnel,76,384,35,801,781,8,36,28,3,1,48,4,4,709,19,1100,6,25,773
+Kerala,2009,Complaints Against Police Personnel,81,33,3010,3491,2846,1,22,1,13,0,55,13,16,248,143,1040,10,98,140
+Lakshadweep,2009,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2009,Complaints Against Police Personnel,4014,80,11261,15903,4223,410,22,0,0,0,14,0,5,105,448,579,10,72,160
+Maharashtra,2009,Complaints Against Police Personnel,323,165,2909,3982,908,34,174,36,29,0,204,29,8,91,6,242,15,17,59
+Manipur,2009,Complaints Against Police Personnel,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Meghalaya,2009,Complaints Against Police Personnel,3,0,0,3,0,3,1,0,0,0,1,0,0,0,0,0,0,13,21
+Mizoram,2009,Complaints Against Police Personnel,12,3,0,12,9,3,10,0,0,1,10,1,0,0,0,4,2,0,0
+Nagaland,2009,Complaints Against Police Personnel,6,2,0,9,11,0,2,0,1,0,5,1,0,3,2,5,0,1,0
+Odisha,2009,Complaints Against Police Personnel,192,27,7,220,146,45,153,21,0,0,20,0,10,49,44,194,4,52,154
+Puducherry,2009,Complaints Against Police Personnel,2,0,0,2,0,0,2,0,0,0,2,0,0,0,3,17,0,0,0
+Punjab,2009,Complaints Against Police Personnel,69,43,2788,4212,1094,1,21,0,19,10,57,29,20,197,201,1315,55,467,2025
+Rajasthan,2009,Complaints Against Police Personnel,161,43,923,1162,239,0,51,0,1,0,51,1,0,2503,586,4271,73,187,2243
+Sikkim,2009,Complaints Against Police Personnel,23,23,0,23,23,0,0,0,0,0,0,0,0,13,0,23,1,0,12
+Tamil Nadu,2009,Complaints Against Police Personnel,111,53,12,141,63,25,69,49,3,1,64,4,2,520,342,1694,36,499,660
+Tripura,2009,Complaints Against Police Personnel,5,13,2,17,14,0,3,6,0,4,13,4,9,20,24,93,16,7,117
+Uttar Pradesh,2009,Complaints Against Police Personnel,7912,7734,3041,10953,7896,15,122,1,0,4,188,4,2,7274,727,8001,170,492,6612
+Uttarakhand,2009,Complaints Against Police Personnel,14,203,341,558,558,0,11,0,0,0,17,0,0,140,63,203,29,42,69
+West Bengal,2009,Complaints Against Police Personnel,6,27,0,270,260,0,4,4,0,0,4,0,0,61,6,459,4,103,392
+Andaman & Nicobar Islands,2010,Complaints Against Police Personnel,24,0,0,24,0,0,22,24,1,0,22,1,0,0,2,16,4,12,68
+Andhra Pradesh,2010,Complaints Against Police Personnel,112,65,5,2321,320,0,52,21,14,0,69,14,3,40,230,950,1,37,351
+Arunachal Pradesh,2010,Complaints Against Police Personnel,0,0,0,177,177,0,0,0,0,0,0,0,0,0,0,176,0,13,54
+Assam,2010,Complaints Against Police Personnel,9,0,1,19,7,1,2,3,0,0,2,0,2,0,0,0,0,7,5
+Bihar,2010,Complaints Against Police Personnel,37,2,1,35,2,0,2,32,0,0,31,0,2,248,227,643,5,293,157
+Chandigarh,2010,Complaints Against Police Personnel,0,0,124,357,0,0,0,0,0,0,0,0,0,0,37,54,1,16,37
+Chhattisgarh,2010,Complaints Against Police Personnel,29,98,1272,1863,1104,0,30,8,2,17,11,19,1,207,57,362,23,37,148
+Dadra & Nagar Haveli,2010,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daman & Diu,2010,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,2010,Complaints Against Police Personnel,58,40,241,6614,294,0,14,0,0,0,14,0,0,1250,0,1303,35,218,997
+Goa,2010,Complaints Against Police Personnel,8,1,7,15,1,0,3,0,3,1,3,4,2,41,165,257,0,1,121
+Gujarat,2010,Complaints Against Police Personnel,274,271,375,958,558,41,202,24,15,5,219,20,9,690,191,1937,34,166,808
+Haryana,2010,Complaints Against Police Personnel,40,23,814,788,322,0,16,0,0,0,35,0,0,0,0,8,0,0,0
+Himachal Pradesh,2010,Complaints Against Police Personnel,17,0,300,334,21,2,5,0,0,0,7,0,1,32,20,98,0,22,23
+Jammu & Kashmir,2010,Complaints Against Police Personnel,79,35,116,526,435,1,35,0,7,1,40,8,4,797,877,1447,17,559,516
+Jharkhand,2010,Complaints Against Police Personnel,8,0,5,2043,24,0,6,6,0,1,1,1,0,253,112,932,90,353,327
+Karnataka,2010,Complaints Against Police Personnel,81,177,9,485,450,31,51,13,2,1,62,3,3,386,82,633,8,22,449
+Kerala,2010,Complaints Against Police Personnel,118,108,3337,4294,2684,0,37,3,11,5,45,16,12,395,141,1223,13,128,359
+Lakshadweep,2010,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madhya Pradesh,2010,Complaints Against Police Personnel,30,73,12792,13620,3545,158,23,0,1,1,20,2,9,83,188,805,25,80,177
+Maharashtra,2010,Complaints Against Police Personnel,413,90,3713,4906,370,19,159,58,23,2,160,25,3,184,4,275,36,21,127
+Manipur,2010,Complaints Against Police Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meghalaya,2010,Complaints Against Police Personnel,5,0,0,2,2,0,1,0,0,0,1,0,1,0,0,4,3,51,23
+Mizoram,2010,Complaints Against Police Personnel,2,2,0,3,3,0,2,0,1,0,2,1,0,1,0,1,0,1,1
+Nagaland,2010,Complaints Against Police Personnel,7,0,0,8,2,0,6,4,0,1,7,1,0,1,0,2,0,0,1
+Odisha,2010,Complaints Against Police Personnel,30,7,0,30,30,0,2,0,0,0,7,0,0,3,0,16,0,2,1
+Puducherry,2010,Complaints Against Police Personnel,4,0,0,4,0,0,2,0,0,0,2,0,0,0,1,17,0,7,15
+Punjab,2010,Complaints Against Police Personnel,36,25,2240,3858,1324,3,10,0,45,16,67,61,53,837,600,1912,77,665,1888
+Rajasthan,2010,Complaints Against Police Personnel,193,124,1729,1894,164,0,26,1,1,2,72,3,27,2383,1291,3700,69,228,2086
+Sikkim,2010,Complaints Against Police Personnel,0,26,0,26,26,0,0,0,0,0,0,0,0,20,6,20,0,4,16
+Tamil Nadu,2010,Complaints Against Police Personnel,107,67,15,366,282,62,80,45,18,0,81,18,6,550,295,1620,32,457,642
+Tripura,2010,Complaints Against Police Personnel,28,7,5,34,9,0,16,21,1,0,20,1,2,9,37,90,13,17,18
+Uttar Pradesh,2010,Complaints Against Police Personnel,8701,8326,3418,12119,8693,8,45,0,7,0,95,7,1,8158,492,8650,171,1025,6962
+Uttarakhand,2010,Complaints Against Police Personnel,15,71,596,682,682,0,7,0,0,0,7,0,0,276,59,358,9,20,247
+West Bengal,2010,Complaints Against Police Personnel,5,27,0,33,32,0,5,5,0,0,5,0,0,32,11,214,0,99,382

@@ -1,0 +1,351 @@
+area_name,year,sub_group_name,education_above_primary_but_below_matric_or_higher_secondary,education_illiterate,education_matric_or_higher_secondary_above,education_total,education_upto_primary
+Andaman & Nicobar Islands,2001,1. Education,12,0,0,16,4
+Andhra Pradesh,2001,1. Education,178,640,64,1565,683
+Arunachal Pradesh,2001,1. Education,39,16,12,137,70
+Assam,2001,1. Education,74,91,0,253,88
+Bihar,2001,1. Education,87,190,56,586,253
+Chandigarh,2001,1. Education,33,12,0,71,26
+Chhattisgarh,2001,1. Education,348,205,61,1362,748
+Dadra & Nagar Haveli,2001,1. Education,0,0,0,2,2
+Daman & Diu,2001,1. Education,0,2,0,2,0
+Delhi,2001,1. Education,228,268,39,858,323
+Goa,2001,1. Education,34,31,9,93,19
+Gujarat,2001,1. Education,1144,835,266,4370,2125
+Haryana,2001,1. Education,879,343,232,2015,561
+Himachal Pradesh,2001,1. Education,69,1,41,142,31
+Jammu & Kashmir,2001,1. Education,1,1,0,2,0
+Jharkhand,2001,1. Education,43,126,15,298,114
+Karnataka,2001,1. Education,91,566,19,843,167
+Kerala,2001,1. Education,59,23,7,132,43
+Lakshadweep,2001,1. Education,0,0,1,1,0
+Madhya Pradesh,2001,1. Education,1330,1757,560,7328,3681
+Maharashtra,2001,1. Education,1973,832,168,4990,2017
+Manipur,2001,1. Education,0,0,0,0,0
+Meghalaya,2001,1. Education,3,39,1,66,23
+Mizoram,2001,1. Education,20,6,0,49,23
+Nagaland,2001,1. Education,12,1,1,26,12
+Odisha,2001,1. Education,51,39,12,212,110
+Puducherry,2001,1. Education,0,0,0,3,3
+Punjab,2001,1. Education,4,10,7,29,8
+Rajasthan,2001,1. Education,910,957,194,3245,1184
+Sikkim,2001,1. Education,12,0,0,17,5
+Tamil Nadu,2001,1. Education,163,855,21,4555,3516
+Tripura,2001,1. Education,2,10,2,20,6
+Uttar Pradesh,2001,1. Education,103,35,33,256,85
+Uttarakhand,2001,1. Education,28,0,29,57,0
+West Bengal,2001,1. Education,7,7,0,27,13
+Andaman & Nicobar Islands,2002,1. Education,4,0,0,6,2
+Andhra Pradesh,2002,1. Education,291,1033,115,2084,645
+Arunachal Pradesh,2002,1. Education,32,41,10,132,49
+Assam,2002,1. Education,120,100,18,332,94
+Bihar,2002,1. Education,118,157,76,660,309
+Chandigarh,2002,1. Education,46,6,5,75,18
+Chhattisgarh,2002,1. Education,409,404,32,1407,562
+Dadra & Nagar Haveli,2002,1. Education,0,0,0,0,0
+Daman & Diu,2002,1. Education,0,0,0,0,0
+Delhi,2002,1. Education,310,397,168,1192,317
+Goa,2002,1. Education,11,25,8,68,24
+Gujarat,2002,1. Education,843,750,130,3335,1612
+Haryana,2002,1. Education,1104,424,331,2511,652
+Himachal Pradesh,2002,1. Education,50,14,20,121,37
+Jammu & Kashmir,2002,1. Education,0,3,0,3,0
+Jharkhand,2002,1. Education,13,194,160,746,379
+Karnataka,2002,1. Education,64,116,5,277,92
+Kerala,2002,1. Education,115,7,59,234,53
+Lakshadweep,2002,1. Education,0,0,0,0,0
+Madhya Pradesh,2002,1. Education,2684,3488,282,8536,2082
+Maharashtra,2002,1. Education,2133,759,302,5379,2185
+Manipur,2002,1. Education,0,0,0,0,0
+Meghalaya,2002,1. Education,8,33,0,68,27
+Mizoram,2002,1. Education,20,4,0,60,36
+Nagaland,2002,1. Education,12,0,0,14,2
+Odisha,2002,1. Education,43,63,17,192,69
+Puducherry,2002,1. Education,5,2,0,16,9
+Punjab,2002,1. Education,73,30,9,156,44
+Rajasthan,2002,1. Education,617,242,40,1937,1038
+Sikkim,2002,1. Education,0,1,0,2,1
+Tamil Nadu,2002,1. Education,183,3004,2,6082,2893
+Tripura,2002,1. Education,2,5,0,7,0
+Uttar Pradesh,2002,1. Education,32,15,17,96,32
+Uttarakhand,2002,1. Education,6,0,27,34,1
+West Bengal,2002,1. Education,2,6,0,17,9
+Andaman & Nicobar Islands,2003,1. Education,7,0,0,9,2
+Andhra Pradesh,2003,1. Education,513,1193,150,2673,817
+Arunachal Pradesh,2003,1. Education,52,69,0,196,75
+Assam,2003,1. Education,73,127,80,378,98
+Bihar,2003,1. Education,77,105,26,292,84
+Chandigarh,2003,1. Education,72,24,6,116,14
+Chhattisgarh,2003,1. Education,423,416,23,1602,740
+Dadra & Nagar Haveli,2003,1. Education,1,0,0,2,1
+Daman & Diu,2003,1. Education,2,0,0,2,0
+Delhi,2003,1. Education,200,380,25,802,197
+Goa,2003,1. Education,27,34,7,87,19
+Gujarat,2003,1. Education,572,613,157,2717,1375
+Haryana,2003,1. Education,997,245,310,2026,474
+Himachal Pradesh,2003,1. Education,63,6,30,124,25
+Jammu & Kashmir,2003,1. Education,17,0,0,18,1
+Jharkhand,2003,1. Education,175,250,186,821,210
+Karnataka,2003,1. Education,104,80,52,358,122
+Kerala,2003,1. Education,288,33,363,764,80
+Lakshadweep,2003,1. Education,0,0,0,0,0
+Madhya Pradesh,2003,1. Education,1282,1909,430,7672,4051
+Maharashtra,2003,1. Education,1520,919,363,5070,2268
+Manipur,2003,1. Education,0,0,0,0,0
+Meghalaya,2003,1. Education,8,15,0,35,12
+Mizoram,2003,1. Education,34,3,10,82,35
+Nagaland,2003,1. Education,1,0,0,1,0
+Odisha,2003,1. Education,77,143,15,313,78
+Puducherry,2003,1. Education,4,2,0,40,34
+Punjab,2003,1. Education,10,83,19,132,20
+Rajasthan,2003,1. Education,700,277,52,1862,833
+Sikkim,2003,1. Education,0,0,0,17,17
+Tamil Nadu,2003,1. Education,248,2605,278,4895,1764
+Tripura,2003,1. Education,0,0,0,0,0
+Uttar Pradesh,2003,1. Education,19,19,11,61,12
+Uttarakhand,2003,1. Education,7,0,23,30,0
+West Bengal,2003,1. Education,8,68,0,123,47
+Andaman & Nicobar Islands,2004,1. Education,6,0,0,13,7
+Andhra Pradesh,2004,1. Education,440,959,149,2196,648
+Arunachal Pradesh,2004,1. Education,23,21,21,91,26
+Assam,2004,1. Education,106,76,41,331,108
+Bihar,2004,1. Education,24,161,0,236,51
+Chandigarh,2004,1. Education,46,42,2,109,19
+Chhattisgarh,2004,1. Education,699,432,91,2002,780
+Dadra & Nagar Haveli,2004,1. Education,2,0,0,4,2
+Daman & Diu,2004,1. Education,0,0,0,0,0
+Delhi,2004,1. Education,298,341,42,909,228
+Goa,2004,1. Education,33,19,4,74,18
+Gujarat,2004,1. Education,489,970,159,2689,1071
+Haryana,2004,1. Education,923,233,127,1677,394
+Himachal Pradesh,2004,1. Education,57,0,38,117,22
+Jammu & Kashmir,2004,1. Education,2,3,0,11,6
+Jharkhand,2004,1. Education,176,248,186,822,212
+Karnataka,2004,1. Education,96,172,25,440,147
+Kerala,2004,1. Education,193,20,71,382,98
+Lakshadweep,2004,1. Education,0,0,0,0,0
+Madhya Pradesh,2004,1. Education,1668,2160,491,7433,3114
+Maharashtra,2004,1. Education,2291,859,362,5496,1984
+Manipur,2004,1. Education,0,0,0,0,0
+Meghalaya,2004,1. Education,18,14,3,55,20
+Mizoram,2004,1. Education,206,349,110,818,153
+Nagaland,2004,1. Education,0,0,0,3,3
+Odisha,2004,1. Education,64,162,8,359,125
+Puducherry,2004,1. Education,0,0,0,55,55
+Punjab,2004,1. Education,14,52,11,96,19
+Rajasthan,2004,1. Education,746,346,61,1875,722
+Sikkim,2004,1. Education,7,0,0,13,6
+Tamil Nadu,2004,1. Education,145,1553,30,2373,645
+Tripura,2004,1. Education,0,0,0,0,0
+Uttar Pradesh,2004,1. Education,29,60,7,135,39
+Uttarakhand,2004,1. Education,19,0,12,36,5
+West Bengal,2004,1. Education,28,21,0,93,44
+Andaman & Nicobar Islands,2005,1. Education,6,0,0,10,4
+Andhra Pradesh,2005,1. Education,463,988,138,2428,839
+Arunachal Pradesh,2005,1. Education,109,4,0,147,34
+Assam,2005,1. Education,94,140,19,373,120
+Bihar,2005,1. Education,142,95,28,337,72
+Chandigarh,2005,1. Education,17,54,4,116,41
+Chhattisgarh,2005,1. Education,589,888,153,3137,1507
+Dadra & Nagar Haveli,2005,1. Education,4,3,0,19,12
+Daman & Diu,2005,1. Education,1,0,0,1,0
+Delhi,2005,1. Education,394,458,67,1250,331
+Goa,2005,1. Education,12,32,8,66,14
+Gujarat,2005,1. Education,596,640,214,2748,1298
+Haryana,2005,1. Education,798,234,173,1623,418
+Himachal Pradesh,2005,1. Education,103,5,38,194,48
+Jammu & Kashmir,2005,1. Education,1,2,0,7,4
+Jharkhand,2005,1. Education,236,307,246,1060,271
+Karnataka,2005,1. Education,44,96,7,242,95
+Kerala,2005,1. Education,247,24,62,464,131
+Lakshadweep,2005,1. Education,0,0,0,1,1
+Madhya Pradesh,2005,1. Education,2003,1553,416,6378,2406
+Maharashtra,2005,1. Education,2270,1153,375,6303,2505
+Manipur,2005,1. Education,0,0,0,0,0
+Meghalaya,2005,1. Education,12,50,1,107,44
+Mizoram,2005,1. Education,104,50,21,413,238
+Nagaland,2005,1. Education,0,0,0,3,3
+Odisha,2005,1. Education,178,251,18,655,208
+Puducherry,2005,1. Education,25,0,0,42,17
+Punjab,2005,1. Education,33,50,11,135,41
+Rajasthan,2005,1. Education,608,517,66,1958,767
+Sikkim,2005,1. Education,9,0,0,24,15
+Tamil Nadu,2005,1. Education,319,979,39,2148,811
+Tripura,2005,1. Education,0,0,0,0,0
+Uttar Pradesh,2005,1. Education,36,34,11,115,34
+Uttarakhand,2005,1. Education,31,0,4,39,4
+West Bengal,2005,1. Education,24,53,0,138,61
+Andaman & Nicobar Islands,2006,1. Education,45,0,3,91,43
+Andhra Pradesh,2006,1. Education,313,783,102,1879,681
+Arunachal Pradesh,2006,1. Education,41,0,0,80,39
+Assam,2006,1. Education,123,211,54,539,151
+Bihar,2006,1. Education,79,87,0,239,73
+Chandigarh,2006,1. Education,34,36,7,107,30
+Chhattisgarh,2006,1. Education,724,326,251,2053,752
+Dadra & Nagar Haveli,2006,1. Education,4,1,0,9,4
+Daman & Diu,2006,1. Education,4,1,0,5,0
+Delhi,2006,1. Education,188,739,36,1513,550
+Goa,2006,1. Education,20,30,3,68,15
+Gujarat,2006,1. Education,669,677,145,2807,1316
+Haryana,2006,1. Education,851,264,147,1712,450
+Himachal Pradesh,2006,1. Education,67,2,47,128,12
+Jammu & Kashmir,2006,1. Education,5,0,3,8,0
+Jharkhand,2006,1. Education,207,384,41,862,230
+Karnataka,2006,1. Education,417,77,62,659,103
+Kerala,2006,1. Education,193,32,81,444,138
+Lakshadweep,2006,1. Education,0,0,0,0,0
+Madhya Pradesh,2006,1. Education,1955,1770,556,6814,2533
+Maharashtra,2006,1. Education,2143,1028,364,6658,3123
+Manipur,2006,1. Education,0,0,0,0,0
+Meghalaya,2006,1. Education,11,23,2,58,22
+Mizoram,2006,1. Education,18,5,0,89,66
+Nagaland,2006,1. Education,0,1,0,3,2
+Odisha,2006,1. Education,172,244,26,627,185
+Puducherry,2006,1. Education,0,6,0,37,31
+Punjab,2006,1. Education,30,45,18,159,66
+Rajasthan,2006,1. Education,637,350,83,2086,1016
+Sikkim,2006,1. Education,9,4,0,35,22
+Tamil Nadu,2006,1. Education,327,755,12,1974,880
+Tripura,2006,1. Education,0,0,0,0,0
+Uttar Pradesh,2006,1. Education,53,41,15,172,63
+Uttarakhand,2006,1. Education,37,25,11,106,33
+West Bengal,2006,1. Education,29,28,8,124,59
+Andaman & Nicobar Islands,2007,1. Education,32,0,3,75,40
+Andhra Pradesh,2007,1. Education,317,749,180,1953,707
+Arunachal Pradesh,2007,1. Education,39,20,0,105,46
+Assam,2007,1. Education,362,255,292,1155,246
+Bihar,2007,1. Education,592,491,37,1469,349
+Chandigarh,2007,1. Education,58,15,20,118,25
+Chhattisgarh,2007,1. Education,553,346,286,2027,842
+Dadra & Nagar Haveli,2007,1. Education,2,0,0,11,9
+Daman & Diu,2007,1. Education,0,3,11,14,0
+Delhi,2007,1. Education,170,490,40,970,270
+Goa,2007,1. Education,23,20,5,77,29
+Gujarat,2007,1. Education,726,520,284,2878,1348
+Haryana,2007,1. Education,945,214,166,1840,515
+Himachal Pradesh,2007,1. Education,75,5,57,145,8
+Jammu & Kashmir,2007,1. Education,3,3,7,15,2
+Jharkhand,2007,1. Education,109,161,54,509,185
+Karnataka,2007,1. Education,419,50,60,617,88
+Kerala,2007,1. Education,318,14,184,675,159
+Lakshadweep,2007,1. Education,0,0,0,0,0
+Madhya Pradesh,2007,1. Education,2231,1752,749,7350,2618
+Maharashtra,2007,1. Education,2045,1236,492,6836,3063
+Manipur,2007,1. Education,0,0,0,0,0
+Meghalaya,2007,1. Education,6,55,5,106,40
+Mizoram,2007,1. Education,59,0,0,91,32
+Nagaland,2007,1. Education,0,0,0,0,0
+Odisha,2007,1. Education,229,148,64,658,217
+Puducherry,2007,1. Education,0,5,0,62,57
+Punjab,2007,1. Education,29,44,15,129,41
+Rajasthan,2007,1. Education,699,539,143,2124,743
+Sikkim,2007,1. Education,8,38,0,94,48
+Tamil Nadu,2007,1. Education,394,639,8,1721,680
+Tripura,2007,1. Education,0,1,0,2,1
+Uttar Pradesh,2007,1. Education,102,56,98,427,171
+Uttarakhand,2007,1. Education,34,6,57,129,32
+West Bengal,2007,1. Education,41,51,5,145,48
+Andaman & Nicobar Islands,2008,1. Education,36,0,12,55,7
+Andhra Pradesh,2008,1. Education,326,655,87,1622,554
+Arunachal Pradesh,2008,1. Education,43,14,0,85,28
+Assam,2008,1. Education,54,330,1,644,259
+Bihar,2008,1. Education,388,395,84,1244,377
+Chandigarh,2008,1. Education,75,38,13,162,36
+Chhattisgarh,2008,1. Education,743,1341,235,3046,727
+Dadra & Nagar Haveli,2008,1. Education,6,2,8,22,6
+Daman & Diu,2008,1. Education,8,3,0,11,0
+Delhi,2008,1. Education,74,222,37,523,190
+Goa,2008,1. Education,27,11,10,67,19
+Gujarat,2008,1. Education,678,453,172,2699,1396
+Haryana,2008,1. Education,882,154,244,1799,519
+Himachal Pradesh,2008,1. Education,77,11,45,163,30
+Jammu & Kashmir,2008,1. Education,4,3,0,12,5
+Jharkhand,2008,1. Education,57,335,7,549,150
+Karnataka,2008,1. Education,95,162,77,515,181
+Kerala,2008,1. Education,373,13,214,776,176
+Lakshadweep,2008,1. Education,0,0,0,0,0
+Madhya Pradesh,2008,1. Education,1977,1735,608,7108,2788
+Maharashtra,2008,1. Education,2375,1551,523,7019,2570
+Manipur,2008,1. Education,0,0,0,0,0
+Meghalaya,2008,1. Education,55,28,2,139,54
+Mizoram,2008,1. Education,47,0,5,70,18
+Nagaland,2008,1. Education,0,0,0,0,0
+Odisha,2008,1. Education,207,257,40,773,269
+Puducherry,2008,1. Education,13,0,4,55,38
+Punjab,2008,1. Education,29,26,29,113,29
+Rajasthan,2008,1. Education,754,532,129,2352,937
+Sikkim,2008,1. Education,4,7,0,37,26
+Tamil Nadu,2008,1. Education,238,653,28,1593,674
+Tripura,2008,1. Education,7,21,7,43,8
+Uttar Pradesh,2008,1. Education,133,45,40,347,129
+Uttarakhand,2008,1. Education,30,49,33,157,45
+West Bengal,2008,1. Education,257,23,128,707,299
+Andaman & Nicobar Islands,2009,1. Education,22,0,2,38,14
+Andhra Pradesh,2009,1. Education,367,513,164,1565,521
+Arunachal Pradesh,2009,1. Education,67,14,8,139,50
+Assam,2009,1. Education,210,109,77,563,167
+Bihar,2009,1. Education,328,307,71,1066,360
+Chandigarh,2009,1. Education,46,23,32,135,34
+Chhattisgarh,2009,1. Education,1063,842,287,3112,920
+Dadra & Nagar Haveli,2009,1. Education,4,8,8,26,6
+Daman & Diu,2009,1. Education,0,0,1,3,2
+Delhi,2009,1. Education,167,199,60,586,160
+Goa,2009,1. Education,30,22,5,76,19
+Gujarat,2009,1. Education,758,386,168,2466,1154
+Haryana,2009,1. Education,579,137,203,1374,455
+Himachal Pradesh,2009,1. Education,72,1,56,170,41
+Jammu & Kashmir,2009,1. Education,2,0,5,11,4
+Jharkhand,2009,1. Education,102,343,36,788,307
+Karnataka,2009,1. Education,88,54,58,282,82
+Kerala,2009,1. Education,345,13,214,707,135
+Lakshadweep,2009,1. Education,0,0,0,0,0
+Madhya Pradesh,2009,1. Education,1910,1310,925,6186,2041
+Maharashtra,2009,1. Education,2544,768,892,6972,2768
+Manipur,2009,1. Education,0,0,0,0,0
+Meghalaya,2009,1. Education,27,14,1,88,46
+Mizoram,2009,1. Education,8,0,10,20,2
+Nagaland,2009,1. Education,12,2,0,20,6
+Odisha,2009,1. Education,213,83,39,483,148
+Puducherry,2009,1. Education,0,27,0,81,54
+Punjab,2009,1. Education,57,62,47,233,67
+Rajasthan,2009,1. Education,818,503,229,2456,906
+Sikkim,2009,1. Education,18,12,0,60,30
+Tamil Nadu,2009,1. Education,370,1727,52,2921,772
+Tripura,2009,1. Education,9,22,0,91,60
+Uttar Pradesh,2009,1. Education,146,113,40,475,176
+Uttarakhand,2009,1. Education,32,130,30,254,62
+West Bengal,2009,1. Education,47,37,27,195,84
+Andaman & Nicobar Islands,2010,1. Education,5,1,1,26,19
+Andhra Pradesh,2010,1. Education,421,767,115,1949,646
+Arunachal Pradesh,2010,1. Education,32,0,35,81,14
+Assam,2010,1. Education,26,225,9,385,125
+Bihar,2010,1. Education,263,241,50,742,188
+Chandigarh,2010,1. Education,48,24,33,168,63
+Chhattisgarh,2010,1. Education,739,442,102,2356,1073
+Dadra & Nagar Haveli,2010,1. Education,8,2,0,19,9
+Daman & Diu,2010,1. Education,3,4,1,10,2
+Delhi,2010,1. Education,204,154,34,627,235
+Goa,2010,1. Education,37,19,6,77,15
+Gujarat,2010,1. Education,662,341,176,2121,942
+Haryana,2010,1. Education,443,79,139,907,246
+Himachal Pradesh,2010,1. Education,92,6,92,218,28
+Jammu & Kashmir,2010,1. Education,15,2,3,27,7
+Jharkhand,2010,1. Education,10,47,5,104,42
+Karnataka,2010,1. Education,35,63,37,204,69
+Kerala,2010,1. Education,348,38,262,826,178
+Lakshadweep,2010,1. Education,0,0,0,0,0
+Madhya Pradesh,2010,1. Education,1941,1696,516,6449,2296
+Maharashtra,2010,1. Education,2224,810,862,6388,2492
+Manipur,2010,1. Education,0,0,0,0,0
+Meghalaya,2010,1. Education,24,43,3,118,48
+Mizoram,2010,1. Education,73,3,0,116,40
+Nagaland,2010,1. Education,30,3,8,53,12
+Odisha,2010,1. Education,164,195,40,544,145
+Puducherry,2010,1. Education,0,0,0,49,49
+Punjab,2010,1. Education,53,81,29,246,83
+Rajasthan,2010,1. Education,960,322,279,2378,817
+Sikkim,2010,1. Education,43,4,2,82,33
+Tamil Nadu,2010,1. Education,455,445,48,1644,696
+Tripura,2010,1. Education,5,35,0,46,6
+Uttar Pradesh,2010,1. Education,308,166,100,852,278
+Uttarakhand,2010,1. Education,31,51,1,154,71
+West Bengal,2010,1. Education,153,30,35,337,119
